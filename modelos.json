@@ -1,19 +1,19 @@
 {
-"config": {
-"llamar": "tel:4422171717",
-"whatsapp": "http://wa.me/524422171717",
-"indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
-},
-"productos": {
-"0LPCR40-N": {
-"refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
-"manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
-"ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5"
-},
-"XYZ123": {
-"nombre": "Otro Producto",
-"manual": "https://example.com/manual_XYZ123.pdf",
-"ficha_tecnica": "https://example.com/ficha_XYZ123.pdf"
-}
-}
+  "config": {
+    "llamar": "tel:4422171717",
+    "whatsapp": "http://wa.me/524422171717",
+    "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
+  },
+  "productos": {
+    "0LPCR40-N": {
+      "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
+      "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
+      "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5"
+    },
+    "XYZ123": {
+      "nombre": "Otro Producto",
+      "manual": "https://example.com/manual_XYZ123.pdf",
+      "ficha_tecnica": "https://example.com/ficha_XYZ123.pdf"
+    }
+  }
 }
