@@ -1,43 +1,41 @@
-  {
-    "config": {
-      "llamar": "tel:4422171717",
-        "whatsapp": "http://wa.me/524422171717",
-          "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
+{
+  "config": {
+    "llamar": "tel:4422171717",
+    "whatsapp": "http://wa.me/524422171717",
+    "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
+  },
+  "productos": {
+    "0LPCR40-N": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
+      "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
+      "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500"
     },
-    "productos": {
-      "0LPCR40-N": {
-        "nombre": "Báscula Torrey 40kg",
-          "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
-            "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
-              "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5",
-                "peso": "5",
-                  "alto": "0.3",
-                    "largo": "0.4",
-                      "ancho": "0.2",
-                        "precio": "2500"
-      },
-
-      "productos": {
-        "TVC17": {
-          "nombre": "Báscula Torrey 40kg",
-            "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
-              "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
-                "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5",
-                  "peso": "5",
-                    "alto": "0.3",
-                      "largo": "0.4",
-                        "ancho": "0.2",
-                          "precio": "2500"
-        },
-        "XYZ123": {
-          "nombre": "Otro Producto",
-            "manual": "https://example.com/manual_XYZ123.pdf",
-              "ficha_tecnica": "https://example.com/ficha_XYZ123.pdf",
-                "peso": "15",
-                  "alto": "0.5",
-                    "largo": "0.6",
-                      "ancho": "0.3",
-                        "precio": "8500"
-        }
-      }
+    "TVC17": {
+      "nombre": "Báscula TVC17",
+      "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
+      "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
+      "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500"
+    },
+    "XYZ123": {
+      "nombre": "Otro Producto",
+      "manual": "https://example.com/manual_XYZ123.pdf",
+      "ficha_tecnica": "https://example.com/ficha_XYZ123.pdf",
+      "peso": "15",
+      "alto": "0.5",
+      "largo": "0.6",
+      "ancho": "0.3",
+      "precio": "8500"
     }
+  }
+}
