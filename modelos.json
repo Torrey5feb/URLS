@@ -1,32 +1,43 @@
-{
-"config": {
-"llamar": "tel:4422171717",
-"whatsapp": "http://wa.me/524422171717",
-"indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
-},
-"productos": {
-"0LPCR40-N": {
-"no_bultos_1": "1",
-"contenido_1": "Paquete de Caja pequeña",
-"peso_1": "100",
-"alto_1": "2.05",
-"largo_1": "0.80",
-"ancho_1": "0.80",
-"valor_declarado": "40000",
-"refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
-"manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
-"ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5"
-},
-"XYZ123": {
-"no_bultos_1": "2",
-"contenido_1": "Caja mediana",
-"peso_1": "15",
-"alto_1": "0.2",
-"largo_1": "0.25",
-"ancho_1": "0.30",
-"valor_declarado": "3500",
-"manual": "https://example.com/manual_XYZ123.pdf",
-"ficha_tecnica": "https://example.com/ficha_XYZ123.pdf"
-}
-}
-}
+  {
+    "config": {
+      "llamar": "tel:4422171717",
+        "whatsapp": "http://wa.me/524422171717",
+          "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
+    },
+    "productos": {
+      "0LPCR40-N": {
+        "nombre": "Báscula Torrey 40kg",
+          "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
+            "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
+              "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5",
+                "peso": "5",
+                  "alto": "0.3",
+                    "largo": "0.4",
+                      "ancho": "0.2",
+                        "precio": "2500"
+      },
+
+      "productos": {
+        "TVC17": {
+          "nombre": "Báscula Torrey 40kg",
+            "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
+              "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
+                "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5",
+                  "peso": "5",
+                    "alto": "0.3",
+                      "largo": "0.4",
+                        "ancho": "0.2",
+                          "precio": "2500"
+        },
+        "XYZ123": {
+          "nombre": "Otro Producto",
+            "manual": "https://example.com/manual_XYZ123.pdf",
+              "ficha_tecnica": "https://example.com/ficha_XYZ123.pdf",
+                "peso": "15",
+                  "alto": "0.5",
+                    "largo": "0.6",
+                      "ancho": "0.3",
+                        "precio": "8500"
+        }
+      }
+    }
