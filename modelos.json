@@ -26,9 +26,9 @@
       "largo": "0.9",
       "ancho": "0.9",
       "precio": "2500",
-      "colonia_rem": "Centro", // Valor por defecto para cp_origen 76159 (ejemplo)
-      "colonia_des": "Centro", // Valor por defecto, se podría pedir al usuario
-      "referencia": "Compra TVC17" // Ejemplo de referencia
+      "colonia_rem": "Centro",
+      "colonia_des": "Centro",
+      "referencia": "Compra TVC17"
     },
     "XYZ123": {
       "nombre": "Otro Producto",
@@ -42,7 +42,3 @@
     }
   }
 }
-                      "precio": "8500"
-      }
-    }
-  }
