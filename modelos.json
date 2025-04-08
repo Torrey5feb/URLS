@@ -44,6 +44,20 @@
       "colonia_des": "Centro",
       "referencia": "Compra TVC17"
     },
+        "CH-106A": {
+      "nombre": "Congelador Polar 9 pies",
+      "refacciones": "https://torrey.net/data/documents/rl377q2/lAJ2U2ntAuuvIWDH0UsN0C1YTcN6eDv187gaOH0HoMeKtUeDMf",
+      "manual": "https://torrey.net/data/documents/q5kzqv5/hDNpULTrdbTmkYvBA8RRkc2USS3zBicbVD4hqrGwcWNyWGIAKC",
+      "ficha_tecnica": "https://torrey.net/data/documents/354k3gl/oWzEWfsqOeVwMgiSuXivlrTZy78PHDfJTsTOjK0eQurI2XEagj",
+      "peso": "50",
+      "alto": "1.8",
+      "largo": "0.9",
+      "ancho": "0.9",
+      "precio": "2500",
+      "colonia_rem": "Centro",
+      "colonia_des": "Centro",
+      "referencia": "Compra TVC17"
+    },
     "XYZ123": {
       "nombre": "Otro Producto",
       "manual": "https://example.com/manual_XYZ123.pdf",
