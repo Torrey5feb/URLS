@@ -58,6 +58,20 @@
       "colonia_des": "Centro",
       "referencia": "Compra TVC17"
     },
+            "PLT-900G": {
+      "nombre": "Plancha 90 cms",
+      "refacciones": "https://torrey.net/data/documents/0l0qyz5/6XkAX7sO9e9zepTryMnuZvRVtkVu9nAqtf9CGEWurDYpGoI5Ua",
+      "manual": "https://torrey.net/data/documents/12eno82/ZmCzPldNbutH2zTjksDqq3qgCsm46mv8D0wOtkR4sSxQ51n46d",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5kzjv5/afBruCP2pUZNwDzfURLvLTTXgNax23DDpVTdbSN1SXpJYn3rmi",
+      "peso": "50",
+      "alto": "1.8",
+      "largo": "0.9",
+      "ancho": "0.9",
+      "precio": "2500",
+      "colonia_rem": "Centro",
+      "colonia_des": "Centro",
+      "referencia": "Compra TVC17"
+    },
     "XYZ123": {
       "nombre": "Otro Producto",
       "manual": "https://example.com/manual_XYZ123.pdf",
