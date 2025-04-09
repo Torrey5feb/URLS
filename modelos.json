@@ -4,6 +4,20 @@
     "whatsapp": "http://wa.me/524422171717",
     "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
   },
+              "RT-27": {
+      "nombre": "Rosticero 27 pollos",
+      "refacciones": "https://torrey.net/data/documents/xl9p6r2/W5oLlg3VcpbgYub9WAdZF5lb7ux9n9MD6Ri7hXdEcDDqufWFCf",
+      "manual": "https://torrey.net/data/documents/12e3pk5/uZ6m4gqFhsomG2LdkU0WdcJEtGFI4KH04OkXtRq5gDpdVjgN3j",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5kedj5/Sz3kS2Spn3lHfOTxpcEejJy50PIb9aUjcbVFIE52EBUbK1CBEQ",
+      "peso": "50",
+      "alto": "1.8",
+      "largo": "0.9",
+      "ancho": "0.9",
+      "precio": "2500",
+      "colonia_rem": "Centro",
+      "colonia_des": "Centro",
+      "referencia": "Compra TVC17"
+    },
   "productos": {
     "0LPCR40-N": {
       "nombre": "Báscula Torrey 40kg",
