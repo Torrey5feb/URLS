@@ -4,7 +4,20 @@
     "whatsapp": "http://wa.me/524422171717",
     "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
   },
-    "RT-27": {
+
+  "productos": {
+    "0LPCR40-N": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
+      "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
+      "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500"
+    },
+        "RT-27": {
       "nombre": "Rosticero 27 pollos",
       "refacciones": "https://torrey.net/data/documents/xl9p6r2/W5oLlg3VcpbgYub9WAdZF5lb7ux9n9MD6Ri7hXdEcDDqufWFCf",
       "manual": "https://torrey.net/data/documents/12e3pk5/uZ6m4gqFhsomG2LdkU0WdcJEtGFI4KH04OkXtRq5gDpdVjgN3j",
@@ -17,18 +30,6 @@
       "colonia_rem": "Centro",
       "colonia_des": "Centro",
       "referencia": "Compra TVC17"
-    },
-  "productos": {
-    "0LPCR40-N": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
-      "manual": "https://torrey.net/data/documents/3lqz3kl/f6IRhnBO6f249ecaklQ40ztBS5LL6QMqD0RLQUoAc5yFtVLIMV",
-      "ficha_tecnica": "https://torrey.net/data/documents/354k4gl/q3PakPIWoLVHW0wJZ94ByIEBKCVkYWfqRMdN91PuUTMEKrE2S5",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500"
     },
     "TVC17": {
       "nombre": "Báscula Torrey 40kg",
