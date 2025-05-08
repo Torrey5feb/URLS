@@ -682,13 +682,13 @@
       "credito_disponible": true
     },
 
-    "_comentario_03": "Codigos de basculas",
+    "_LINEA_03": "CONGELADORES",
 
-    "0QC20_02": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
+    "CH-106A": {
+      "nombre": "Congelador Polar 9 pies",
+      "refacciones": "https://torrey.net/data/documents/rl377q2/lAJ2U2ntAuuvIWDH0UsN0C1YTcN6eDv187gaOH0HoMeKtUeDMf",
+      "manual": "https://torrey.net/data/documents/q5kzqv5/hDNpULTrdbTmkYvBA8RRkc2USS3zBicbVD4hqrGwcWNyWGIAKC",
+      "ficha_tecnica": "https://torrey.net/data/documents/354k3gl/oWzEWfsqOeVwMgiSuXivlrTZy78PHDfJTsTOjK0eQurI2XEagj",
       "peso": "5",
       "alto": "0.3",
       "largo": "0.4",
