@@ -5,7 +5,7 @@
     "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
   },
   "productos": {
-    "_LINEA_01": "BASCULAS__________________________0000000000000000000000000000000000",
+    "_LINEA_01": "00000000_______________BASCULAS_______________000000000000000",
 
     "0MFQ40-N": {
       "nombre": "Báscula Torrey 40kg",
@@ -22,11 +22,11 @@
       "credito_disponible": true
     },
 
-    "0LPCR20": {
+    "0LPCR20-N-USB": {
       "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
+      "refacciones": "https://torrey.net/data/documents/y567xql/SBM2U86RAE95e9Pd44gMXLyKrjIZjMn7PLdbmjIpOj8UZZydNg",
+      "manual": "https://torrey.net/data/documents/e2d9kql/xiaXNzFYOPe92j6dtPLolERfnCMTny35Qw5KxeFlvZAulNgwlw",
+      "ficha_tecnica": "https://torrey.net/data/documents/x5jk9jl/qtPJn8auUQ4zbEvX2NaXCr0oVfPSp9aGvIpItx38NGrMP4QQ50",
       "peso": "5",
       "alto": "0.3",
       "largo": "0.4",
