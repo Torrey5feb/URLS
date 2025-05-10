@@ -692,12 +692,12 @@
     "_LINEA_08": "0000000_______DESPACHADORES DE BEBIDAS_____________0000000000",
     "_LINEA_09": "0000000_______CORTADORA DE POLLO_____________0000000000",
     "_LINEA_10": "0000000_______PALOMERA___________0000000000",
-    "_LINEA_10": "0000000_______MARINADORA AL VACÍO___________0000000000",
-    "_LINEA_11": "0000000_______EMBUTIDORA__________0000000000",
-    "_LINEA_12": "0000000_______SIERRAS__________0000000000",
-    "_LINEA_13": "0000000_______MOLINOS_________0000000000",
-    "_LINEA_14": "0000000_______REBANADORAS__________0000000000",
-    "_LINEA_15": "0000000_______EMPACADORAS AL VACÍO_________0000000000",
+    "_LINEA_11": "0000000_______MARINADORA AL VACÍO___________0000000000",
+    "_LINEA_12": "0000000_______EMBUTIDORA__________0000000000",
+    "_LINEA_13": "0000000_______SIERRAS__________0000000000",
+    "_LINEA_14": "0000000_______MOLINOS_________0000000000",
+    "_LINEA_15": "0000000_______REBANADORAS__________0000000000",
+    "_LINEA_16": "0000000_______EMPACADORAS AL VACÍO_________0000000000",
     "EVD-4": {
       "nombre": "Empacadora al vacio Torrey",
       "refacciones": "https://torrey.net/data/documents/ylr0ql4/QmtxnFuXuUp7BoZaSPz7jfEBcQoD0HB53OJFKyqGJcIDWCvU1O",
@@ -811,9 +811,9 @@
       "credito_disponible": true
     },
 
-    "_LINEA_16": "0000000_______TERMOSELLADORA__________0000000000",
+    "_LINEA_17": "0000000_______TERMOSELLADORA__________0000000000",
 
-    "CH-106A": {
+    "CH-106A-1": {
       "nombre": "Congelador Polar 9 pies",
       "refacciones": "https://torrey.net/data/documents/rl377q2/lAJ2U2ntAuuvIWDH0UsN0C1YTcN6eDv187gaOH0HoMeKtUeDMf",
       "manual": "https://torrey.net/data/documents/q5kzqv5/hDNpULTrdbTmkYvBA8RRkc2USS3zBicbVD4hqrGwcWNyWGIAKC",
