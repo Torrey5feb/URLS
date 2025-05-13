@@ -2026,15 +2026,15 @@
     },
 
     "CH-106A": {
-      "nombre": "Congelador Polar 9 pies",
+      "nombre": "CH-106A VERIFICADO Congelador Polar 9 pies",
       "refacciones": "https://torrey.net/data/documents/rl377q2/lAJ2U2ntAuuvIWDH0UsN0C1YTcN6eDv187gaOH0HoMeKtUeDMf",
       "manual": "https://torrey.net/data/documents/q5kzqv5/hDNpULTrdbTmkYvBA8RRkc2USS3zBicbVD4hqrGwcWNyWGIAKC",
       "ficha_tecnica": "https://torrey.net/data/documents/354k3gl/oWzEWfsqOeVwMgiSuXivlrTZy78PHDfJTsTOjK0eQurI2XEagj",
       "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "alto": "1.0",
+      "largo": "0.8",
+      "ancho": "1.0",
+      "precio": "11429.00",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
