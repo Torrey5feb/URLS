@@ -1852,6 +1852,81 @@
 
     "_LINEA_1757": "0000000___LAVAVAJILLAS______0000000",
 
+    "LV-300": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "LV-500": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l0z7w5/0oBgN5eXXWlAtPkRgdzkcpsccjoU0R0GLbFYedRp0QX5Yz8yY9",
+      "peso": "60",
+      "alto": "1.0",
+      "largo": "0.7",
+      "ancho": "0.8",
+      "precio": "78253.44",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "LV-500C": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "LV-950C": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "LV-1800": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_1758": "0000000___MESAS FRÍAS DE PREPARACIÓN______0000000",
 
     "_LINEA_1759": "0000000___CONGELADORES VERTICALES______0000000",
