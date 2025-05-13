@@ -1628,15 +1628,15 @@
       "credito_disponible": true
     },
     "EVB-20": {
-      "nombre": "Empacadora al vacio Torrey",
+      "nombre": "EVB-20 VERIFICADO Empacadora al vacio Torrey",
       "refacciones": "https://torrey.net/data/documents/q5knd15/FD3CbThE1q71qTdAYsXUBPlKuixQNOaUaF87HClpHRoWTkfrn6",
       "manual": "https://torrey.net/data/documents/354kogl/4Cgg66OtG3H8hPEjUtxGA9f2iFkaAySVgopGg7HXWnRtHvNnCJ",
       "ficha_tecnica": "https://torrey.net/data/documents/z2n06n5/LiI718hY96M9jCr0DnBI8lfsgWgNDuNmbfN4wMnfByK8cnoADz",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "40",
+      "alto": "0.6",
+      "largo": "0.6",
+      "ancho": "0.6",
+      "precio": "38200",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -1761,6 +1761,66 @@
     "_LINEA_1741": "0000000_______ROSTICEROS DE SALCHICHAS________0000000000",
 
     "_LINEA_1742": "0000000_______MICROONDAS________0000000000",
+
+    "MIT-0.9T": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_391": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3892": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3993": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_1743": "0000000_______HORNO DE CONVECCIÓN________0000000000",
 
