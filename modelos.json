@@ -1850,6 +1850,111 @@
 
     "_LINEA_1756": "0000000___FÁBRICAS DE HIELO EN CUBO______0000000",
 
+    "0QC20_2821": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_2922": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3023": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3124": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DHC-55": {
+      "nombre": "DHC-55 VERIFICADO Dispensador de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/v51wxol/ADYCFaLGx3B6Mutpe2KGBFwDQfY3B981prUAvL3Fg0wSXnWccK",
+      "manual": "https://torrey.net/data/documents/3lmw7p2/VC0PA3ou40Vz5GDA9om64MBE9XP5bud3ff3KUY35a0eyi7TkvQ",
+      "ficha_tecnica": "https://torrey.net/data/documents/z5xqe12/VY5BZId8c8GPaTcF1Gq9A5G72IgZqqRmpP7dWFxTdF6rKTKWjB",
+      "peso": "80",
+      "alto": "1.5",
+      "largo": "0.8",
+      "ancho": "1.0",
+      "precio": "110000",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3326": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3427": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_1757": "0000000___LAVAVAJILLAS______0000000",
 
     "LV-300": {
