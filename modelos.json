@@ -735,16 +735,16 @@
 
     "_LINEA_02": "0000000_______PROCESADOR DE VEGETALES___________________000000000000000",
 
-    "0QC20_08": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
+    "PVA-180": {
+      "nombre": "PVA-180 Procesador de vegetales",
+      "refacciones": "https://torrey.net/data/documents/3lqmjg5/DnbSyyylidSnLQ307UsnjbNKQi6CCLLzu8dLv61fEVS1Qmz01Y",
+      "manual": "https://torrey.net/data/documents/x2w8n62/nx7fW4hKSVp66C0jorkhxRfJt0rkjvUrjsHSkJgKNA9hpyVJgl",
+      "ficha_tecnica": "https://torrey.net/data/documents/ylrpq12/3E3Ab3uUN0oonYn0uDo6dYPiQ7jUOSgfrrix3lt51m3oECKSH4",
       "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "alto": "0.6",
+      "largo": "0.7",
+      "ancho": "0.4",
+      "precio": "21000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -752,78 +752,78 @@
 
     "_LINEA_03": "0000000_______BATIDORAS___________________000000000000000",
 
-    "0QC20_07": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "BTO -7": {
+      "nombre": "BTO -7 VERIFICADO Batidora Torrey",
+      "refacciones": "https://torrey.net/data/documents/e2dv72r/WVbVipTEISvQNLEHogtTuOItkpBVpF8t62n5qwxR0IvFmp4GRI",
+      "manual": "https://torrey.net/data/documents/0l0kww5/fYMd6ovySxIYIEkKuTnsaKFQKYhi4FEEjwJxkfKECMEDSozeA8",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lqr92k/fwpUAMsGURPQPC6TnfLod8KiAKAaCPVbrojL13pKIpe9NXRSYi",
+      "peso": "18",
+      "alto": "0.6",
+      "largo": "0.5",
+      "ancho": "0.35",
+      "precio": "10500",
+      "marca": "Torrey",
+      "categoria": "batidora",
+      "credito_disponible": true
+    },
+
+    "BTO-10": {
+      "nombre": "BTO -10 VERIFICADO Batidora Torrey",
+      "refacciones": "https://torrey.net/data/documents/x2wkd28/IdVFzgk7VXpls24DTdOe61TM8MRrb7BOhVAXzTMPH9l06ACvkg",
+      "manual": "https://torrey.net/data/documents/e5vqo7l/E6B5aqahwAo6SP2eKQi8Q53cfs4Tzksg0ueWvywtpwUDuxv3lE",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l093lg/bMWKxjECEfD1F6PrwEIobJUuxXdHtA9RxY2OChGDFwnyqV4JtS",
+      "peso": "58",
+      "alto": "0.6",
+      "largo": "0.6",
+      "ancho": "0.5",
+      "precio": "17000",
+      "marca": "Torrey",
+      "categoria": "batidora",
+      "credito_disponible": true
+    },
+
+    "BTO-20": {
+      "nombre": "BTO-20 VERIFICADO Batidora Torrey",
+      "refacciones": "https://torrey.net/data/documents/r2g1321/B3qJy4LFh5p0AgiTQjkZmFLd6CICf2BpImcyCCHUGLtXGXrK9o",
+      "manual": "https://torrey.net/data/documents/z5x9jg5/PA8s49vZm1lWOQNg5jD6kPmGLCuT2KwfZ45RAuaQRf2z5OkWdD",
+      "ficha_tecnica": "https://torrey.net/data/documents/v51pg5o/c0d7KNLMGyiASvqQbdnbk3qzC1JAK5Y0GiZf85hpvYEON2WudD",
+      "peso": "110",
+      "alto": "1.0",
+      "largo": "0.7",
+      "ancho": "0.5",
+      "precio": "23000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "0QC20_09": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
+    "BTO-30": {
+      "nombre": "BTO-30 VERIFICADO Batidora Torrey",
+      "refacciones": "https://torrey.net/data/documents/3lmpole/LZXaF9RryCbrLXfHPiLaTXWAoYmShzMTkN69Ib1QWtaAFoZ7cb",
+      "manual": "https://torrey.net/data/documents/r2go0kl/2R930XTFz4swy91a0UPPNiSdlUO4SNKAWqShe8O4W6RptT3Ew1",
+      "ficha_tecnica": "https://torrey.net/data/documents/rl3zy56/1FmVLWpxhKANp0vWQixirv80yarLLpz7o0rh3PaswnDhFot0Mx",
+      "peso": "1.40",
       "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "largo": "0.8",
+      "ancho": "0.7",
+      "precio": "38000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "batidora",
       "credito_disponible": true
     },
 
-    "0QC20_10": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
+    "B-46": {
+      "nombre": "B-46 VERIFICADO Batidora Torrey",
+      "refacciones": "https://torrey.net/data/documents/354qgl9/3ZnQGMJG2SvcRJ9eyY5ISUDAo72JEIlOHdO7UbEQr0yvXzNDlh",
+      "manual": "https://torrey.net/data/documents/e5vqkkl/S2TtMBDupYtuLkHW4aKD6wsgxffVLBb0PJEVkNrxwu7sIS937K",
+      "ficha_tecnica": "https://torrey.net/data/documents/j289q05/McSuzii6mAFCp5pesZuy4CqgsorpcgbnH29wFJ31p7FkkYJA5p",
+      "peso": "260",
+      "alto": "1.50",
+      "largo": "0.8",
+      "ancho": "0.9",
       "precio": "2500",
       "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "0QC20_11": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "0QC20_12": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "batidora",
       "credito_disponible": true
     },
 
