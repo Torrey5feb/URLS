@@ -2110,63 +2110,63 @@
 
     "_LINEA_1756": "0000000___FÁBRICAS DE HIELO EN CUBO______0000000",
 
-    "0QC20_2821": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "MHCD-100/238": {
+      "nombre": "MHCD-100/238 VERIFICADO Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/z5xpzzl/vfwL0GN6NH4pPS5KO44R1LB8R1zZj2Cxr55ce1SM8WQ5XuhFJW",
+      "manual": "https://torrey.net/data/documents/v519q02/iRtPFHI2jzUSw9N6bdk28AOmGgMjawO3D7OEEOsGxqSSbONPTQ",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vj6p5/TkFVOF6Cl5ZNP8vGo1y2WCFyPK3WRdlo6VW9bP7lXsHLL2v23G",
+      "peso": "80",
+      "alto": "1.0",
+      "largo": "1.0",
+      "ancho": "1.0",
+      "precio": "100000",
+      "marca": "Torrey",
+      "categoria": "fabrica de hielo",
+      "credito_disponible": true
+    },
+
+    "MHC-230/506 MA": {
+      "nombre": "MHC-230/506 MA Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/65p1045/hnTE2dpBcYcj952DWO8uC9oIdBXJefT7DBITHMRLU05QxCc9IE",
+      "manual": "https://torrey.net/data/documents/12eere2/X8jMEE86gJkioiFoPnXke8Xp2SieNv4kGuDislGy7Q9EMSYaO8",
+      "ficha_tecnica": "https://torrey.net/data/documents/xl9j982/JDT0y0xOcUmtEj67njJzmwlwr8ttw6ntrvRCOB4yctI4AwsMar",
+      "peso": "80",
+      "alto": "1.0",
+      "largo": "1.0",
+      "ancho": "1.0",
+      "precio": "160000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "0QC20_2922": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
+    "DH-160/365": {
+      "nombre": "DH-160/365 VERIFICADO Dispensador de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/x2w9065/WvBRasMYSs8cnQEMAxFQyPBHif0GMb8soMqyNOr6IePYLGoDHO",
       "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "ficha_tecnica": "https://torrey.net/data/documents/75zg8x2/hs6WbxAWv7ynkV16fAIS1LXIixflbAzMD3Cm9wJ3WY0d4qDr6W",
+      "peso": "70",
+      "alto": "1.20",
+      "largo": "1.0",
+      "ancho": "1.0",
+      "precio": "40000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
 
-    "0QC20_3023": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "MHC-235/517 MA": {
+      "nombre": "MHC-235/517 MA Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/85yz9wl/6kloymVEJx2GmWqvFpSxIYM3lKLBGpG3R4PXES6EIkWoXAblmp",
+      "manual": "https://torrey.net/data/documents/z2nrqn5/fEOoZakVBfgMt1wc6QVfid82inB7cYQQDfmHYKbLQ3zQpWy5hc",
+      "ficha_tecnica": "https://torrey.net/data/documents/75zgpx2/TKqQqTXuNYjOnDctvLePdMyL1Zv0mItXm2sHx8VR3WzS8rkq6q",
+      "peso": "80",
+      "alto": "1.10",
+      "largo": "1.0",
+      "ancho": "1.0",
+      "precio": "215000",
       "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "0QC20_3124": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
 
@@ -2185,33 +2185,33 @@
       "credito_disponible": true
     },
 
-    "0QC20_3326": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "MHC-280/625 MA": {
+      "nombre": "MHC-280/625 MA Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/354jdg5/qoRx0RcOFmsOpXC7BolbMKVwwIbt4RnZYSS2WODMyNJY43ZnE3",
+      "manual": "https://torrey.net/data/documents/9l73w05/20GCmdeYFFgToIDo384ek0Jyjwm7jewbVFgQk8mbGvbFO2kzrK",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5ker15/S0U3Bzrl1lDWaCALVNUTucdivD9jdgTby1ot2tl7X8pPDaQqMg",
+      "peso": "80",
+      "alto": "1.10",
+      "largo": "1.0",
+      "ancho": "1.0",
+      "precio": "170000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
 
-    "0QC20_3427": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
+    "DH-250/556": {
+      "nombre": "DH-250/556 Dispensador de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/3lqpng5/qsF81LjGS24vhz17EfElOmE0dyKWDmGVz4RvHYCSJi4XnTcaZr",
       "manual": "",
-      "ficha_tecnica": "",
+      "ficha_tecnica": "https://torrey.net/data/documents/85yzjwl/7fPJZfYAvmTWnhuKNDO30eq2qdeS4sPTxITmz8JfWa6eU4ze2Q",
       "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "alto": "1.50",
+      "largo": "1.0",
+      "ancho": "1.0",
+      "precio": "4500",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
 
