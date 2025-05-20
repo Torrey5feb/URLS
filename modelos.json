@@ -1988,33 +1988,33 @@
 
     "_LINEA_175401": "0000000___CONGELADORES  SÓLIDOS - LÍNEA INOX+PLUS______0000000",
 
-    "0QC20_281201": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "CVSA-23UI": {
+      "nombre": "CVSA-23UI Congelador Solido Torrey",
+      "refacciones": "https://torrey.net/data/documents/ylr7q12/HNTOZdf3CcY2j2GtcXNB9H550EkMzb7MreCupsHZvqbdKHqmDb",
+      "manual": "https://torrey.net/data/documents/12en612/owOgLo7FPlTy6nN1ZzmhSlrgnpOPZTvx6nWpBGaXFsV12wIxHz",
+      "ficha_tecnica": "https://torrey.net/data/documents/65pxvo2/Xsumzeq3h3MiKvmQyacBmnI96A5mKegN4j5rqkIPZLblxOJbvN",
+      "peso": "150",
+      "alto": "2.2",
+      "largo": "0.8",
+      "ancho": "0.9",
+      "precio": "42000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "congelador",
       "credito_disponible": true
     },
 
-    "0QC20_291302": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
+    "CVSA-47UI": {
+      "nombre": "CVSA-47UI Congelador Solido Torrey",
+      "refacciones": "https://torrey.net/data/documents/x5jnxel/bIp1aeDvfC6UE1OAtfvtjEe5l3jKxWBksrNVpsVrvcXpGJ8Wbm",
+      "manual": "https://torrey.net/data/documents/85yd405/Kjv7tlBSn1UlSOeHqaLyVBCCYvYCod6Xn1r725aFGfPHoX8kIs",
+      "ficha_tecnica": "https://torrey.net/data/documents/75zxjrl/4IWwQISfAaxJRX1RZ445mE6MdFrsywOW1ngtYQtlS4JXzmCuRF",
       "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "alto": "2.2",
+      "largo": "1.5",
+      "ancho": "0.9",
+      "precio": "58000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "congelador",
       "credito_disponible": true
     },
 
@@ -2033,33 +2033,33 @@
       "credito_disponible": true
     },
 
-    "0QC20_311506": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "VRF-18-1DS": {
+      "nombre": "VRF-18-1DS Congelador Solido Torrey",
+      "refacciones": "https://torrey.net/data/documents/q5kz1p5/9bFWBpklk9imdmyF8gaJFuUfMIfKqvMbrrY4L5tY1XIcRCz2mD",
+      "manual": "https://torrey.net/data/documents/354xz32/VLU9wrpDnRhvlD4JMS0469w4aahIAFBsYXZuBXkdbmjPCNHG2p",
+      "ficha_tecnica": "https://torrey.net/data/documents/z2nxom5/Q1zUVBiXvSeLW79pUnIi8ljgGCa9L6a01PLgVhJOuDQIemKCZA",
+      "peso": "150",
+      "alto": "2.0",
+      "largo": "0.8",
+      "ancho": "0.9",
+      "precio": "5000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "congelador",
       "credito_disponible": true
     },
 
-    "0QC20_321606": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
+    "VRF-39-2DS": {
+      "nombre": "VRF-39-2DS Congelador Solido Torrey",
+      "refacciones": "https://torrey.net/data/documents/ylr7d42/GJOuTaLWnrHwCxCXR1idckUz6blu2q8dhdCl9XEZGGJ5uHXXmP",
+      "manual": "https://torrey.net/data/documents/x5jne0l/PY2c0P5vXJFEeBpj38WBeybMQb6DH8B87eCQ6fexTq9wt9kA8B",
+      "ficha_tecnica": "https://torrey.net/data/documents/9l78kp2/RAVU9UgYoLmS5f4E6oACDs9lCeU3XMB1lx8yBvHBLAQk0K7ZBv",
       "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "alto": "2.0",
+      "largo": "1.5",
+      "ancho": "0.9",
+      "precio": "70000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "congelador",
       "credito_disponible": true
     },
 
