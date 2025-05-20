@@ -1911,6 +1911,158 @@
 
     "_LINEA_1754": "0000000___REFRIGERADORES SÓLIDOS - LÍNEA INOX+PLUS______0000000",
 
+    "RVSA-23UI": {
+      "nombre": "RVSA-23UI Refrigerador Solido Torrey",
+      "refacciones": "https://torrey.net/data/documents/j28nzm2/WW7A4BFKJA9HI0sCMa34GrIr4thDIYdZBaKVNCqLtSFysOnw5b",
+      "manual": "https://torrey.net/data/documents/m2ov0q5/lf4fC51NYfpaz5lAo32m2GE0XgFP6cWulJNt6icpbvNSqjIDBO",
+      "ficha_tecnica": "https://torrey.net/data/documents/e2dzjp5/NcOoweBJpQWoTWAPCcJiWTka0yVmo52b5eCbbY4ZOBPRiNoO1X",
+      "peso": "160",
+      "alto": "2.20",
+      "largo": "0.9",
+      "ancho": "0.8",
+      "precio": "37000",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "RVSA-47UI": {
+      "nombre": "RVSA-47UI Refrigerador Solido Torrey",
+      "refacciones": "https://torrey.net/data/documents/e2dz6o5/ws1LKcfiEK6JSGuykl2kgsx7lN3lvjFtoSzlI7urAB77S1N0AR",
+      "manual": "https://torrey.net/data/documents/xl9pxg2/0MbzkkRyZyq0mel6H0vxVkPrwdjF5hD60LKIal9R2xFUH42Jax",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lqmq85/EwnuU0y0ha6tL05P5FJ2UBqrwnFiLERkP9c4wuLc5Im6dd9bhE",
+      "peso": "260",
+      "alto": "2.20",
+      "largo": "1.5",
+      "ancho": "0.9",
+      "precio": "54000",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3014": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3115": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_3216": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_175401": "0000000___CONGELADORES  SÓLIDOS - LÍNEA INOX+PLUS______0000000",
+
+    "0QC20_281201": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_291302": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_301405": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_311506": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_321606": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_1755": "0000000___REFRIGERADORES VERTICALES EXHIBIDORES______0000000",
 
     "VRD5AI": {
