@@ -733,6 +733,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR03": {
+      "nombre": "DIVISOR",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "",
+      "categoria": "",
+      "credito_disponible": true
+    },
+
     "_LINEA_02": "0000000_______PROCESADOR DE VEGETALES___________________000000000000000",
 
     "PVA-180": {
@@ -747,6 +762,21 @@
       "precio": "21000",
       "marca": "Torrey",
       "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR01": {
+      "nombre": "DIVISOR",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "",
+      "categoria": "",
       "credito_disponible": true
     },
 
@@ -827,35 +857,50 @@
       "credito_disponible": true
     },
 
-    "_LINEA_04": "0000000_______AMASADORAS___________________000000000000000",
-
-    "0QC20_13": {
-      "nombre": "Báscula Torrey 40kg",
+    "DIVISOR02": {
+      "nombre": "DIVISOR",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "",
+      "categoria": "",
       "credito_disponible": true
     },
 
-    "0QC20_14": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "_LINEA_04": "0000000_______AMASADORAS___________________000000000000000",
+
+    "AMT-20": {
+      "nombre": "AMT-20 VERIFICADO Amasadora Torrey",
+      "refacciones": "https://torrey.net/data/documents/v51k0yl/NFXZtthKocHuomaIoEN9UjkNdskqvHcsCjWZakNKonRT4bmmwr",
+      "manual": "https://torrey.net/data/documents/j28xj5y/DaTDsGPoNa9eCy8MrMkFgz6lzSyWVUyNY5FSMzR4I1C6r14U7O",
+      "ficha_tecnica": "https://torrey.net/data/documents/x5jq64l/Zi3te62qsoACmOf3yDO2nuQ65KUB28BeDjxxIqsThQxnPwyTRE",
+      "peso": "80",
+      "alto": "1.0",
+      "largo": "0.9",
+      "ancho": "0.6",
+      "precio": "25000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "amasadora",
+      "credito_disponible": true
+    },
+
+    "A-46": {
+      "nombre": "A-46 VERIFICADO Amasadora Torrey",
+      "refacciones": "https://torrey.net/data/documents/65pd45j/Lr4qaKY0ZuyZbPoA63JhTZw55yfsiLmNWV5taaMJM6XIT9Cjhr",
+      "manual": "https://torrey.net/data/documents/75z8x5j/Nd0eSlDe9PHOjiRkURtIZixxPQRaAvuMQuAlZYDjLjCZTkyaYl",
+      "ficha_tecnica": "https://torrey.net/data/documents/12exe58/jg03OW6zIhSuRCJAxPAoSDGUwtYLSXtdIb5YjyN2NVCHTMuCQg",
+      "peso": "220",
+      "alto": "1.5",
+      "largo": "1.1",
+      "ancho": "0.6",
+      "precio": "43000",
+      "marca": "Torrey",
+      "categoria": "amasadora",
       "credito_disponible": true
     },
 
@@ -871,6 +916,21 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR": {
+      "nombre": "DIVISOR",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "",
+      "categoria": "",
       "credito_disponible": true
     },
 
