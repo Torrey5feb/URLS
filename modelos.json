@@ -904,18 +904,18 @@
       "credito_disponible": true
     },
 
-    "0QC20_15": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "A-66": {
+      "nombre": "A-66 VERIFICADO Amasadora Torrey",
+      "refacciones": "https://torrey.net/data/documents/85yjw5q/kv0cDFujYMRPoQ6Qq2o9c9gEzfFjUC54C1KnFDaCXLDmZ2qEMm",
+      "manual": "https://torrey.net/data/documents/q5k61le/LJIl03cWta3DzFhYhdJAFeXDqsogrhshLKyaQ4VW52tUKzwvnU",
+      "ficha_tecnica": "https://torrey.net/data/documents/z2ndnlr/2fu49EJw3ufp9GHxu4yvsnxtF7auU03m93625BXVIewc6TFYTg",
+      "peso": "220",
+      "alto": "1.4",
+      "largo": "1.2",
+      "ancho": "0.7",
+      "precio": "48000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "amasadora",
       "credito_disponible": true
     },
 
