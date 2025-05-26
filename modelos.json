@@ -2307,16 +2307,16 @@
 
     "R36L": {
       "nombre": "R36L Refrigerador Torrey Exhibidor",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/65p9r62/YIh8TmaT78SwnkF7Lqw6G4HAi3FkQlCOL2FzCw7J3hc3iL4bdS",
+      "manual": "https://torrey.net/data/documents/e2dpe72/hGGggrTdJntIwTJU7bbxnY3c9PhIzilsvkdsbyrC8krYAyI3r6",
+      "ficha_tecnica": "https://torrey.net/data/documents/ylrpr92/TWIld0W46bDD9GBwNfLzCQzRdWHCvm55P4tVAq8SIP74VKfymI",
+      "peso": "210",
+      "alto": "2.1",
+      "largo": "1.5",
+      "ancho": "0.7",
+      "precio": "46000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "refrigerador",
       "credito_disponible": true
     },
 
