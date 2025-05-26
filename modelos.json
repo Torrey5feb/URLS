@@ -2470,6 +2470,23 @@
       "credito_disponible": true
     },
 
+    "_LINEA_17551": "0000000___REFRIGERADORES VERTICALES EXHIBIDORES______0000000",
+
+    "TVC36": {
+      "nombre": "TVC36 Refrigerador Torrey Exhibidor",
+      "refacciones": "https://torrey.net/data/documents/9l7rjr5/FYsTnI6p7f9lG6QkmoxzNNQxcDOyzCT5CjoyjMeZcRpanr1PTe",
+      "manual": "https://torrey.net/data/documents/354k6xl/oPkxftj4y4tVHolHiIt50CEqYIHcOo7kHaCBRy0c2gM4GlhZmp",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5knge5/pB07odBT7mYzunXz3ZJxXgGajo9OcgdFnseWT0xSCdbufCB4i0",
+      "peso": "220",
+      "alto": "2.1",
+      "largo": "1.5",
+      "ancho": "0.85",
+      "precio": "48000",
+      "marca": "Torrey",
+      "categoria": "refrigerador",
+      "credito_disponible": true
+    },
+
     "_LINEA_1756": "0000000___FÁBRICAS DE HIELO EN CUBO______0000000",
 
     "MHCD-100/238": {
