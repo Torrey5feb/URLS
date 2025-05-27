@@ -5,7 +5,7 @@
     "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
   },
   "productos": {
-    "_LINEA_01": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001": "00000000_______________BASCULAS_______________000000000000000",
 
     "0MFQ40-N": {
       "nombre": "0MFQ40-N Báscula Torrey 40kg",
@@ -98,7 +98,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-1": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-01": "00000000_______________BASCULAS_______________000000000000000",
 
     "0SX40-SMART": {
       "nombre": " 0SX40-SMART Báscula Torrey 40kg",
@@ -145,7 +145,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-2": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-02": "00000000__________BÁSCULAS ETIQUETADORAS_______________0000000",
 
     "0W-LABEL20": {
       "nombre": "0W-LABEL20 Báscula Torrey 40kg",
@@ -207,7 +207,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-3": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-03": "00000000___________BÁSCULAS PORCIONADORAS______________0000000000",
 
     "0LEQ6-N": {
       "nombre": "0LEQ6-N Báscula Torrey 40kg",
@@ -238,6 +238,8 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
+
+    "_LINEA_001-04": "00000000__________BÁSCULAS DE RECIBO_____________0000000000",
 
     "0EQB100": {
       "nombre": "0EQB100 Báscula Torrey 40kg",
@@ -299,7 +301,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-4": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-5": "00000000______________BÁSCULAS DE RECIBO MÓVIL_______________000000000",
 
     "0EQM400": {
       "nombre": "0EQM400 Báscula Torrey 40kg",
@@ -421,7 +423,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-5": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-6": "00000000____________BÁSCULAS A PRUEBA DE AGUA_____________00000000",
 
     "0EQB20-W": {
       "nombre": "0EQB20-W Báscula Torrey 40kg",
@@ -468,7 +470,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-6": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-7": "00000000______________BÁSCULAS COLGANTES______________0000000000",
 
     "CRS-300": {
       "nombre": "CRS-300 Báscula Torrey 40kg",
@@ -545,7 +547,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-7": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-8": "00000000______________BÁSCULAS CONTADORAS_______________000000000000000",
 
     "0QC5": {
       "nombre": "0QC5 Báscula Torrey 40kg",
@@ -592,7 +594,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-8": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-9": "00000_________PLATAFORMAS DE BAJO PERFIL______________000000000",
 
     "0PLP1000-3": {
       "nombre": "0PLP1000-3 Báscula Torrey 40kg",
@@ -699,7 +701,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-9": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-10": "0000000____________BÁSCULAS GANADERAS_____________00000000000",
 
     "0PG2000": {
       "nombre": "0PG2000 Báscula Torrey 40kg",
@@ -716,7 +718,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_01-10": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001-11": "00000000____________MÉDICA - MEDIDATA______________000000000000000",
 
     "0GRS500": {
       "nombre": "0GRS500 Báscula Torrey 40kg",
@@ -748,7 +750,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_02": "0000000_______PROCESADOR DE VEGETALES___________________000000000000000",
+    "_LINEA_02": "0000000______PROCESADOR DE VEGETALES Y ALIMENTOS__________0000000",
 
     "PVA-180": {
       "nombre": "PVA-180 Procesador de vegetales",
@@ -780,7 +782,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_03": "0000000_______BATIDORAS___________________000000000000000",
+    "_LINEA_03": "0000000_______BATIDORAS ELÉCTRICAS_______________0000000000",
 
     "BTO -7": {
       "nombre": "BTO -7 VERIFICADO Batidora Torrey",
@@ -872,7 +874,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_04": "0000000_______AMASADORAS___________________000000000000000",
+    "_LINEA_04": "0000000_______AMASADORAS_________________0000000000000",
 
     "AMT-20": {
       "nombre": "AMT-20 VERIFICADO Amasadora Torrey",
@@ -934,7 +936,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_05": "0000000_______MAQUINAS DE HELADO___________________0000000000",
+    "_LINEA_05": "0000000_______MÁQUINA DE NIEVE__________________0000000000",
 
     "0QC20_16": {
       "nombre": "Báscula Torrey 40kg",
@@ -1739,7 +1741,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_171": "0000000_______TERMOSELLADORA__________0000000000",
+    "_LINEA_18_": "0000000_______SUAVIZADOR_________0000000000",
 
     "0QC20_2881": {
       "nombre": "Báscula Torrey 40kg",
@@ -1799,7 +1801,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_172": "0000000_______freidora__________0000000000",
+    "_LINEA_19": "0000000_______FREIDORAS_________0000000000",
 
     "0QC20_288": {
       "nombre": "Báscula Torrey 40kg",
@@ -1816,9 +1818,15 @@
       "credito_disponible": true
     },
 
-    "_LINEA_1711": "0000000_______estufas a gas__________0000000000",
+    "_LINEA_20": "0000000_______ESTUFAS A GAS__________0000000000",
 
-    "_LINEA_173": "0000000_______rosticeros_________0000000000",
+    "_LINEA_21_": "0000000_______PLANCHAS A GAS__________0000000000",
+
+    "_LINEA_22": "0000000_______ASADORES A GAS__________0000000000",
+
+    "_LINEA_23": "0000000_______BASE DE ACERO INOXIDABLE__________0000000000",
+
+    "_LINEA_24": "0000000_______ROSTICEROS________0000000000",
 
     "RT-27": {
       "nombre": "Rosticero 27 pollos",
@@ -1838,9 +1846,9 @@
       "credito_disponible": true
     },
 
-    "_LINEA_1741": "0000000_______ROSTICEROS DE SALCHICHAS________0000000000",
+    "_LINEA_25": "0000000_______ROSTICEROS DE SALCHICHAS________0000000000",
 
-    "_LINEA_1742": "0000000_______MICROONDAS________0000000000",
+    "_LINEA_26": "0000000_______MICROONDAS________0000000000",
 
     "MIT-0.9T": {
       "nombre": "Báscula Torrey 40kg",
@@ -1902,7 +1910,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_1743": "0000000_______HORNO DE CONVECCIÓN________0000000000",
+    "_LINEA_27": "0000000_______HORNO DE CONVECCIÓN________0000000000",
 
     "0QC20_281": {
       "nombre": "Báscula Torrey 40kg",
@@ -1949,17 +1957,17 @@
       "credito_disponible": true
     },
 
-    "_LINEA_1744": "0000000_______PRENSA Y FORMADORES________0000000000",
+    "_LINEA_28": "0000000_______PRENSA Y FORMADORES________0000000000",
 
-    "_LINEA_1745": "0000000_______KAMADO________0000000000",
+    "_LINEA_29": "0000000_______KAMADO________0000000000",
 
-    "_LINEA_1746": "0000000_______VITRINAS CALIENTES________0000000000",
+    "_LINEA_30": "0000000_______VITRINAS CALIENTES________0000000000",
 
-    "_LINEA_1747": "0000000_______VITRINAS FRÍAS________0000000000",
+    "_LINEA_31": "0000000_______VITRINAS FRÍAS________0000000000",
 
-    "_LINEA_1748": "0000000_______VITRINAS TRAMO ABIERTO________0000000000",
+    "_LINEA_32": "0000000_______VITRINAS TRAMO ABIERTO________0000000000",
 
-    "_LINEA_1749": "0000000_______VITRINAS EXHIBIDORAS DRD________0000000000",
+    "_LINEA_33": "0000000_______VITRINAS EXHIBIDORAS DRD________0000000000",
 
     "DRD3-B": {
       "nombre": "DRD3-B Vitrinas exhibidoras DRD",
@@ -2113,13 +2121,13 @@
 
     "_LINEA_1750": "0000000_______VITRINAS EXHIBIDORAS________0000000000",
 
-    "_LINEA_1751": "0000000___VITRINAS EXHIBIDORAS SIN CRISTALES LATERALES______0000000",
+    "_LINEA_34": "0000000___VITRINAS EXHIBIDORAS SIN CRISTALES LATERALES______0000000",
 
-    "_LINEA_1752": "0000000___VITRINAS EXHIBIDORAS______0000000",
+    "_LINEA_35": "0000000___VITRINAS EXHIBIDORAS______0000000",
 
-    "_LINEA_1753": "0000000___VITRINAS CARNICERAS______0000000",
+    "_LINEA_36": "0000000___VITRINAS CARNICERAS______0000000",
 
-    "_LINEA_1754": "0000000___REFRIGERADORES SÓLIDOS - LÍNEA INOX+PLUS______0000000",
+    "_LINEA_37": "0000000___REFRIGERADORES SÓLIDOS - LÍNEA INOX+PLUS______0000000",
 
     "RVSA-23UI": {
       "nombre": "RVSA-23UI Refrigerador Solido Torrey",
@@ -2594,6 +2602,38 @@
       "credito_disponible": true
     },
 
+    "_LINEA_17571": "0000000__FÁBRICA DE HIELO POLAR______0000000",
+
+    "FH-25": {
+      "nombre": "FH-25 Fábrica de Hielo Polar Torrey",
+      "refacciones": "https://torrey.net/data/documents/m2oegl3/lBNO2ZoC6YQDVT9pLlM26o5vWt1tjkF3o13QsyWecmo1BkEBYD",
+      "manual": "https://torrey.net/data/documents/9l73m45/oyrx8FOBzF0hxebBRH2IUL1mVSroBFVqqw0X5wdUAndKLrukP0",
+      "ficha_tecnica": "https://torrey.net/data/documents/354jge5/lZXouVFI9HWEmDhm1C1fVZlXtLO2aiWCb0PysYyFPdUfc4anY1",
+      "peso": "38",
+      "alto": "0.8",
+      "largo": "0.6",
+      "ancho": "0.5",
+      "precio": "25000",
+      "marca": "Torrey",
+      "categoria": "fabrica de hielo polar",
+      "credito_disponible": true
+    },
+
+    "0QC20_36123": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_1757": "0000000___LAVAVAJILLAS______0000000",
 
     "LV-300": {
@@ -2752,7 +2792,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_20": "0000000________CONGELADORES HORIZONTALES POLAR___________0000000000",
+    "_LINEA_201234": "0000000________CONGELADORES HORIZONTALES POLAR___________0000000000",
 
     "CH-76A": {
       "nombre": "Congelador Polar 9 pies",
@@ -2814,7 +2854,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_21": "000000_____CONGELADORES HORIZONTALES TAPA CRISTAL CURVO POLAR__________00000",
+    "_LINEA_2923": "000000_____CONGELADORES HORIZONTALES TAPA CRISTAL CURVO POLAR__________00000",
 
     "CH-200CR": {
       "nombre": "CH-200CR Verificado Congelador Polar Tapa Cristal ",
@@ -2985,7 +3025,7 @@
       "credito_disponible": true
     },
 
-    "0QC20_36": {
+    "0QC20_36159": {
       "nombre": "Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
