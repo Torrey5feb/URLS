@@ -2619,18 +2619,18 @@
       "credito_disponible": true
     },
 
-    "0QC20_36123": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "FH-55": {
+      "nombre": "FH-55 Fábrica de Hielo Polar Torrey",
+      "refacciones": "https://torrey.net/data/documents/y56675r/Y2mQROaiMPZekFd5UjBP9pKhYqcg7dTPJezjUtccGALce5l8aS",
+      "manual": "https://torrey.net/data/documents/x5jqzql/jSUmZUf6oAW6uxmX736uBBGJGaXrcndbL41SDKWh7iYdqz3OUH",
+      "ficha_tecnica": "https://torrey.net/data/documents/ylrrg3l/ltS3jTTY4QHbnqZEqFQmRqmUxZV100gX3VIsnYvznxNCoaLRht",
+      "peso": "60",
+      "alto": "1.0",
+      "largo": "0.8",
+      "ancho": "0.7",
+      "precio": "45000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "fabrica de hielo polar",
       "credito_disponible": true
     },
 
