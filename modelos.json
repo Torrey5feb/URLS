@@ -2826,16 +2826,16 @@
 
     "CH-156A": {
       "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/3lmw1o2/fC1ZUNRJnDyiyfQ9slH3ivdNC3pcbDlvPGoT0SlcIoW2T7ZqwP",
+      "manual": "https://torrey.net/data/documents/354xwe2/mrei0a0976K5fnJu25Gw8OzGSxRyHjT5o3LoqmaGGoH8Ioj3Kn",
+      "ficha_tecnica": "https://torrey.net/data/documents/9l7r905/bYpiFmne1XS2O729DMKLBsUl6nZUUu86lKmJtzXmU2sCTupnvE",
+      "peso": "65",
+      "alto": "1.0",
+      "largo": "1.5",
+      "ancho": "0.8",
+      "precio": "16000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "congelador",
       "credito_disponible": true
     },
 
