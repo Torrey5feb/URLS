@@ -2212,7 +2212,7 @@
       "manual": "https://torrey.net/data/documents/12en612/owOgLo7FPlTy6nN1ZzmhSlrgnpOPZTvx6nWpBGaXFsV12wIxHz",
       "ficha_tecnica": "https://torrey.net/data/documents/65pxvo2/Xsumzeq3h3MiKvmQyacBmnI96A5mKegN4j5rqkIPZLblxOJbvN",
       "peso": "150",
-      "alto": "2.2",
+      "alto": "2.1",
       "largo": "0.8",
       "ancho": "0.9",
       "precio": "42000",
@@ -2935,8 +2935,10 @@
       "credito_disponible": true
     },
 
-    "0QC20_30": {
-      "nombre": "Báscula Torrey 40kg",
+    "_LINEA_2122": "0000____CONGELADORES HORIZONTALES TAPA DE CRISTAL CURVO__________00000",
+
+    "CHC-80CR": {
+      "nombre": "CHC-80CR Congelador Polar Tapa Cristal Curvo",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2950,8 +2952,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_31": {
-      "nombre": "Báscula Torrey 40kg",
+    "CHC-110CR": {
+      "nombre": "CHC-110CR Congelador Polar Tapa Cristal Curvo",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2965,18 +2967,18 @@
       "credito_disponible": true
     },
 
-    "0QC20_32": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "CHC-180CR": {
+      "nombre": "CHC-180CR Congelador Polar Tapa Cristal Curvo",
+      "refacciones": "https://torrey.net/data/documents/ylrre1l/iKpEhgDVuqC8dkw26C2eYwSboV6ye87LZX4AlzXB6ss5j3tM6b",
+      "manual": "https://torrey.net/data/documents/x5jq4el/kXfZ9Lbj729gJu0zBXr3JvTYSB2AAgDLVEgxNyjNZN6G1GQK2Z",
+      "ficha_tecnica": "https://torrey.net/data/documents/ylrrv1l/4QwdrHVCzODjSiCZ57mEJ9L3C5wgpOt1VESQFUQfmWaBvX0zA6",
+      "peso": "110",
+      "alto": "1.0",
+      "largo": "1.8",
+      "ancho": "0.9",
+      "precio": "35000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "congelador",
       "credito_disponible": true
     },
 
