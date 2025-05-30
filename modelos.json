@@ -1389,8 +1389,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_2669": {
-      "nombre": "Báscula Torrey 40kg",
+    "M-22-RW-2": {
+      "nombre": "M-22-RW-2 Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1403,37 +1403,8 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-    "0QC20_257": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "0QC20_2672": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-    "0QC20_256": {
-      "nombre": "Báscula Torrey 40kg",
+    "M-22-RSS-1": {
+      "nombre": "M-22-RSS-1 Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1447,8 +1418,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_266": {
-      "nombre": "Báscula Torrey 40kg",
+    "M-22-RSS-2": {
+      "nombre": "M-22-RSS-2 Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1461,8 +1432,8 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-    "0QC20_25604": {
-      "nombre": "Báscula Torrey 40kg",
+    "M-32-3HP": {
+      "nombre": "M-32-3HP Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1476,8 +1447,37 @@
       "credito_disponible": true
     },
 
-    "0QC20_26603": {
-      "nombre": "Báscula Torrey 40kg",
+    "M-32-5HP": {
+      "nombre": "M-32-5HP Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+    "MMX-32": {
+      "nombre": "MMX-32 Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "MJ-22": {
+      "nombre": "MJ-22 Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1493,7 +1493,65 @@
 
     "_LINEA_15": "0000000_______REBANADORAS__________0000000000",
 
-    "0QC20_25701": {
+    "RB-250DC": {
+      "nombre": "RB-250DC Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "RB-300DC": {
+      "nombre": "RB-300DC Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+    "SS-300": {
+      "nombre": "SS-300 Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "R-300-A": {
+      "nombre": "R-300-A Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+    "RMS-330": {
       "nombre": "Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
@@ -1508,8 +1566,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_267": {
-      "nombre": "Báscula Torrey 40kg",
+    "RMS-350": {
+      "nombre": "RMS-350 Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1522,65 +1580,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-    "0QC20_25702": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "0QC20_26712": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-    "0QC20_2579": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "0QC20_2673": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-    "0QC20_2574": {
+    "AMS-350": {
       "nombre": "Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
@@ -1596,7 +1596,7 @@
     },
 
     "0QC20_26721": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "DIVISOR",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1726,8 +1726,8 @@
 
     "_LINEA_17": "0000000_______TERMOSELLADORA__________0000000000",
 
-    "0QC20_278": {
-      "nombre": "Báscula Torrey 40kg",
+    "TS-500": {
+      "nombre": "TS-500 Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1743,8 +1743,8 @@
 
     "_LINEA_18_": "0000000_______SUAVIZADOR_________0000000000",
 
-    "0QC20_2881": {
-      "nombre": "Báscula Torrey 40kg",
+    "MT-43": {
+      "nombre": "MT-43 Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1772,8 +1772,11 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-    "0QC20_2883": {
-      "nombre": "Báscula Torrey 40kg",
+
+    "_LINEA_19_": "0000000______FREIDORAS________0000000000",
+
+    "FRT-5G": {
+      "nombre": "FRT-5G Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1786,8 +1789,8 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-    "0QC20_2884": {
-      "nombre": "Báscula Torrey 40kg",
+    "FRT-4E": {
+      "nombre": "FRT-4E Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1801,7 +1804,141 @@
       "credito_disponible": true
     },
 
-    "_LINEA_19": "0000000_______FREIDORAS_________0000000000",
+    "FRT-15G": {
+      "nombre": "FRT-15G Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+    "FRT-20G": {
+      "nombre": "FRT-20G Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_20": "0000000______ESTUFAS A GAS________0000000000",
+
+    "FOJ-1QG": {
+      "nombre": "FOJ-1QG Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "FOG-1Q": {
+      "nombre": "FOG-1Q Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "PAT-2QG": {
+      "nombre": "PAT-2QG Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "PAJ-4QG": {
+      "nombre": "PAJ-4QG Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "PAT-4QG": {
+      "nombre": "PAT-4QG Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "PAT-6QG": {
+      "nombre": "PAT-6QG Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "EST-4QHG": {
+      "nombre": "EST-4QHG Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "0QC20_288": {
       "nombre": "Báscula Torrey 40kg",
@@ -1818,7 +1955,50 @@
       "credito_disponible": true
     },
 
-    "_LINEA_20": "0000000_______ESTUFAS A GAS__________0000000000",
+    "EMJ-1200": {
+      "nombre": "EMJ-1200 Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "EST-6QHG": {
+      "nombre": "EST-6QHG Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "EST-MA6G": {
+      "nombre": "EST-MA6G Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_21_": "0000000_______PLANCHAS A GAS__________0000000000",
 
@@ -1865,12 +2045,12 @@
       "credito_disponible": true
     },
 
-    "0QC20_391": {
-      "nombre": "Báscula Torrey 40kg",
+    "MIT-1.2T": {
+      "nombre": "MIT-1.2T Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
+      "peso": "",
       "alto": "0.3",
       "largo": "0.4",
       "ancho": "0.2",
@@ -1880,12 +2060,12 @@
       "credito_disponible": true
     },
 
-    "0QC20_3892": {
-      "nombre": "Báscula Torrey 40kg",
+    "MIT-1.2D": {
+      "nombre": "MIT-1.2D Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
+      "peso": "",
       "alto": "0.3",
       "largo": "0.4",
       "ancho": "0.2",
@@ -1895,12 +2075,12 @@
       "credito_disponible": true
     },
 
-    "0QC20_3993": {
-      "nombre": "Báscula Torrey 40kg",
+    "SCAN & GO": {
+      "nombre": "SCAN & GO Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
+      "peso": "",
       "alto": "0.3",
       "largo": "0.4",
       "ancho": "0.2",
@@ -1912,12 +2092,12 @@
 
     "_LINEA_27": "0000000_______HORNO DE CONVECCIÓN________0000000000",
 
-    "0QC20_281": {
-      "nombre": "Báscula Torrey 40kg",
+    "HCAV-0.6": {
+      "nombre": "HCAV-0.6 Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
+      "peso": "0",
       "alto": "0.3",
       "largo": "0.4",
       "ancho": "0.2",
@@ -1984,8 +2164,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_2901": {
-      "nombre": "Báscula Torrey 40kg",
+    "DRD3-N": {
+      "nombre": "DRD3-N Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1999,8 +2179,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3002": {
-      "nombre": "Báscula Torrey 40kg",
+    "DRD3-AI": {
+      "nombre": "DRD3-AI Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2014,8 +2194,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3103": {
-      "nombre": "Báscula Torrey 40kg",
+    "DRD5-B": {
+      "nombre": "DRD5-B Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2029,8 +2209,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3204": {
-      "nombre": "Báscula Torrey 40kg",
+    "DRD5-N": {
+      "nombre": "DRD5-N Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2044,8 +2224,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3305": {
-      "nombre": "Báscula Torrey 40kg",
+    "DRD5-AI": {
+      "nombre": "DRD5-AI Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2059,8 +2239,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3406": {
-      "nombre": "Báscula Torrey 40kg",
+    "DRD6-B": {
+      "nombre": "DRD6-B Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2074,8 +2254,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3507": {
-      "nombre": "Báscula Torrey 40kg",
+    "DRD6-N": {
+      "nombre": "DRD6-N Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2089,8 +2269,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3608": {
-      "nombre": "Báscula Torrey 40kg",
+    "DRD6-AI": {
+      "nombre": "DRD6-AI Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2105,7 +2285,7 @@
     },
 
     "0QC20_3709": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "DIVISOR",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2159,8 +2339,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3014": {
-      "nombre": "Báscula Torrey 40kg",
+    "VRC-20-1DS": {
+      "nombre": "VRC-20-1DS Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2174,8 +2354,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3115": {
-      "nombre": "Báscula Torrey 40kg",
+    "VRC-45-2DS": {
+      "nombre": "VRC-45-2DS Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2190,7 +2370,7 @@
     },
 
     "0QC20_3216": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "DIVISOR",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2237,7 +2417,7 @@
     },
 
     "0QC20_301405": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2745,8 +2925,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3915": {
-      "nombre": "Báscula Torrey 40kg",
+    "CVSB-17D": {
+      "nombre": "CVSB-17D Báscula Torrey 40kg",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
