@@ -757,7 +757,7 @@
       "refacciones": "https://torrey.net/data/documents/3lqmjg5/DnbSyyylidSnLQ307UsnjbNKQi6CCLLzu8dLv61fEVS1Qmz01Y",
       "manual": "https://torrey.net/data/documents/x2w8n62/nx7fW4hKSVp66C0jorkhxRfJt0rkjvUrjsHSkJgKNA9hpyVJgl",
       "ficha_tecnica": "https://torrey.net/data/documents/ylrpq12/3E3Ab3uUN0oonYn0uDo6dYPiQ7jUOSgfrrix3lt51m3oECKSH4",
-      "peso": "5",
+      "peso": "32",
       "alto": "0.6",
       "largo": "0.7",
       "ancho": "0.4",
@@ -2715,6 +2715,51 @@
 
     "_LINEA_1759": "0000000___CONGELADORES VERTICALES______0000000",
 
+    "CV16": {
+      "nombre": "CV16 Congelador Vertical Torrey",
+      "refacciones": "https://torrey.net/data/documents/z5xpnxl/KqRTF2UBgyk2q7RgsL9hia3NW5udidgPFijsJUXObq5H2z4eGy",
+      "manual": "https://torrey.net/data/documents/j288wj2/zSCj5SBI6A4CTGbps5HHEjDKSsvlMXvKzhyaaDOG1wwOUl2j0w",
+      "ficha_tecnica": "https://torrey.net/data/documents/rl3v9y2/gV428fmRzm1FrnS50gOoENxvnnb1baqtVxeeUEKz3mVJcbtaVi",
+      "peso": "140",
+      "alto": "2.1",
+      "largo": "0.8",
+      "ancho": "0.8",
+      "precio": "45000",
+      "marca": "Torrey",
+      "categoria": "congelador",
+      "credito_disponible": true
+    },
+
+    "CV32": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "https://torrey.net/data/documents/12e31e5/IRyi3vmacBw7ggNFWaafUf2Z9FYcDD7IMj2KEUuOsRmtiY7Jxk",
+      "manual": "https://torrey.net/data/documents/v519d62/y5ftdoeQ8sryXWtYXprLZx5rSeK9wj3hPpYOEDuRB3sWwgi7Lu",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lm8o92/W1XGd6L4jzw797J2z8MtWp1l09bX9ddnsY3src7F71TOtWbbr5",
+      "peso": "210",
+      "alto": "2.1",
+      "largo": "1.45",
+      "ancho": "0.8",
+      "precio": "80000",
+      "marca": "Torrey",
+      "categoria": "congelador",
+      "credito_disponible": true
+    },
+
+    "0QC20_3915": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_18": "0000000________CONGELADORES HORIZONTALES TORREY___________0000000000",
 
     "CHTC-55D": {
@@ -2840,17 +2885,17 @@
     },
 
     "CH-256A": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "nombre": "CH-256A Congelador Polar 25 pies",
+      "refacciones": "https://torrey.net/data/documents/v51w8gl/6LZkAYIYBRtvVBG5tmVjfTKOJPFLKaQHJQ0ubfrMcnEuAeOz5g",
+      "manual": "https://torrey.net/data/documents/9l78x42/CGO2H7rTOJ9mkvfw6UlP2lTEvOIg8eWFJtNMaV3D1WoJ4u7A9s",
+      "ficha_tecnica": "https://torrey.net/data/documents/ylrpnm2/C1dre6AaK8GTGS6ztb6qo5tWOqwKP0cXqnN7EFVdiA0ysRYI0q",
+      "peso": "98",
+      "alto": "1.0",
+      "largo": "2.3",
+      "ancho": "0.8",
+      "precio": "23000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "congelador",
       "credito_disponible": true
     },
 
