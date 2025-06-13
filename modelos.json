@@ -2145,6 +2145,81 @@
 
     "_LINEA_31": "0000000_______VITRINAS FRÍAS________0000000000",
 
+    "VF-68/100": {
+      "nombre": "VF-68/100 Vitrinas Frías Torrey",
+      "refacciones": "https://torrey.net/data/documents/9l7rp5j/1InmKMn87GIzLeLlzAAQEK03RAV7mF4imHNgEEiMCwYCzrUT2U",
+      "manual": "https://torrey.net/data/documents/x5jk0lk/cvWthWA65gjFB4QJkPbmCmTGd4HR8Ls7nrSYdcb7mVhgHnf6xJ",
+      "ficha_tecnica": "https://torrey.net/data/documents/r2gnxk5/QW00tFImp9BttChTV3tqdnyYqUVI75OWv4AUiIJBXPqbvTBYrn",
+      "peso": "45",
+      "alto": "0.8",
+      "largo": "0.6",
+      "ancho": "0.8",
+      "precio": "21000",
+      "marca": "Torrey",
+      "categoria": "Vitrinas Frías",
+      "credito_disponible": true
+    },
+
+    "0QC20_361591": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_371": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_381": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_391": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_32": "0000000_______VITRINAS TRAMO ABIERTO________0000000000",
 
     "_LINEA_33": "0000000_______VITRINAS EXHIBIDORAS DRD________0000000000",
@@ -2325,11 +2400,11 @@
     },
 
     "RVSA-47UI": {
-      "nombre": "RVSA-47UI Refrigerador Solido Torrey",
+      "nombre": "RVSA-47UI VALIDADO Refrigerador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dz6o5/ws1LKcfiEK6JSGuykl2kgsx7lN3lvjFtoSzlI7urAB77S1N0AR",
       "manual": "https://torrey.net/data/documents/xl9pxg2/0MbzkkRyZyq0mel6H0vxVkPrwdjF5hD60LKIal9R2xFUH42Jax",
       "ficha_tecnica": "https://torrey.net/data/documents/3lqmq85/EwnuU0y0ha6tL05P5FJ2UBqrwnFiLERkP9c4wuLc5Im6dd9bhE",
-      "peso": "260",
+      "peso": "250",
       "alto": "2.10",
       "largo": "1.5",
       "ancho": "0.9",
