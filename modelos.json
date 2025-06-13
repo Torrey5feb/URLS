@@ -5,6 +5,21 @@
     "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
   },
   "productos": {
+    "DIVISOR001": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_001": "00000000_______________BASCULAS_______________000000000000000",
 
     "0MFQ40-N": {
@@ -145,6 +160,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR002": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_001-02": "00000000__________BÁSCULAS ETIQUETADORAS_______________0000000",
 
     "0W-LABEL20": {
@@ -207,6 +237,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR003": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_001-03": "00000000___________BÁSCULAS PORCIONADORAS______________0000000000",
 
     "0LEQ6-N": {
@@ -229,6 +274,21 @@
       "refacciones": "https://torrey.net/data/documents/75z0mrl/ZGb4nXMSEnTqOYxKs72PCqciDhxrHg3wRW7Ma1NuBKxWoqHNqc",
       "manual": "https://torrey.net/data/documents/12e3015/fzLlZKDZAiUncByW23YXJsFbnrvotgamrQJqLJKFeYDH7lZRh7",
       "ficha_tecnica": "https://torrey.net/data/documents/65p9go2/ISIMiD5CcarpJAh4aTweRIBxcmmqGVTQeCRQ8phrwfuSO2zRyu",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR004": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
       "peso": "5",
       "alto": "0.3",
       "largo": "0.4",
@@ -423,6 +483,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR005": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_001-6": "00000000____________BÁSCULAS A PRUEBA DE AGUA_____________00000000",
 
     "0EQB20-W": {
@@ -460,6 +535,21 @@
       "refacciones": "https://torrey.net/data/documents/9l73nv5/7vYnSf9lc5DIp6wgv6IEuRNOg6LahA6iEOYK1Iud53PuF6y9Mb",
       "manual": "https://torrey.net/data/documents/ylrro9l/UcsRxbjriqTJuxSGTc0cS90LyURZMgtsfJwx7i0VEVmynKkd2j",
       "ficha_tecnica": "https://torrey.net/data/documents/rl37no2/QPEwmrqnjYv4cwEs1yXw3sqsd24xif8SrfqlIA5bxdxNdrmay1",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR006": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
       "peso": "5",
       "alto": "0.3",
       "largo": "0.4",
@@ -547,6 +637,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR007": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_001-8": "00000000______________BÁSCULAS CONTADORAS_______________000000000000000",
 
     "0QC5": {
@@ -584,6 +689,21 @@
       "refacciones": "https://torrey.net/data/documents/rl31826/ugMjRgwedVnbdV0jAHmgcWLAu6l4D2uSmlq3UG5Y6ro97uQKiK",
       "manual": "https://torrey.net/data/documents/r2gnzz5/rDReriNzoubu3sjigoQ4cyjowNWbwpQOimg59rbN0vbPCjHvtp",
       "ficha_tecnica": "https://torrey.net/data/documents/z5xpvzl/LrXlvE5ODX89mabTcASIQBEUCdjClEXB1clu9MdLzG1ltjtAst",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR008": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
       "peso": "5",
       "alto": "0.3",
       "largo": "0.4",
@@ -701,6 +821,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR009": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_001-10": "0000000____________BÁSCULAS GANADERAS_____________00000000000",
 
     "0PG2000": {
@@ -708,6 +843,21 @@
       "refacciones": "https://torrey.net/data/documents/354jny5/FJDyqvADzYbp1EC6lq8uZ14RNdSjknvqs1QpulCltqmHG2QhtQ",
       "manual": "https://torrey.net/data/documents/9l73765/YrPVcgCyEr5OQoNIS56V3drGKZmdGLDA0fx7JK4RXDJvmsTcw1",
       "ficha_tecnica": "https://torrey.net/data/documents/q5ke9j5/ySv70JsteByxktamtqvW2bJLLYSCtc2VhK2PSVpSHPOJTnGvNt",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR010": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
       "peso": "5",
       "alto": "0.3",
       "largo": "0.4",
@@ -735,18 +885,18 @@
       "credito_disponible": true
     },
 
-    "DIVISOR03": {
-      "nombre": "DIVISOR",
+    "DIVISOR011": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
-      "marca": "",
-      "categoria": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -767,18 +917,18 @@
       "credito_disponible": true
     },
 
-    "DIVISOR01": {
-      "nombre": "DIVISOR",
+    "DIVISOR012": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
-      "marca": "",
-      "categoria": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -859,18 +1009,18 @@
       "credito_disponible": true
     },
 
-    "DIVISOR02": {
-      "nombre": "DIVISOR",
+    "DIVISOR013": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
-      "marca": "",
-      "categoria": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -936,6 +1086,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR014": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_05": "0000000_______MÁQUINA DE NIEVE__________________0000000000",
 
     "MN-16": {
@@ -965,6 +1130,21 @@
       "precio": "70000",
       "marca": "Torrey",
       "categoria": "máquina de nieve",
+      "credito_disponible": true
+    },
+
+    "DIVISOR015": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -1060,6 +1240,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR016": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_07": "0000000_______LICUADORAS___________________0000000000",
 
     "LM-12": {
@@ -1107,6 +1302,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR017": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_08": "0000000_______DESPACHADORES DE BEBIDAS_____________0000000000",
 
     "DB-18x2": {
@@ -1139,6 +1349,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR018": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_09": "0000000_______CORTADORA DE POLLO_____________0000000000",
 
     "CP-20": {
@@ -1153,6 +1378,21 @@
       "precio": "33000",
       "marca": "Torrey",
       "categoria": "cortadora de pollo",
+      "credito_disponible": true
+    },
+
+    "DIVISOR019": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -1188,6 +1428,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR020": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_11": "0000000_______MARINADORA AL VACÍO___________0000000000",
 
     "MV-25": {
@@ -1205,6 +1460,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR021": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_12": "0000000_______EMBUTIDORA__________0000000000",
 
     "ET-25": {
@@ -1219,6 +1489,21 @@
       "precio": "125000",
       "marca": "Torrey",
       "categoria": "embutidora",
+      "credito_disponible": true
+    },
+
+    "DIVISOR022": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -1328,18 +1613,18 @@
       "credito_disponible": true
     },
 
-    "DIVISOR04": {
-      "nombre": "DIVISOR",
+    "DIVISOR023": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
-      "marca": "",
-      "categoria": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -1491,6 +1776,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR024": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_15": "0000000_______REBANADORAS__________0000000000",
 
     "RB-250DC": {
@@ -1597,6 +1897,21 @@
 
     "0QC20_26721": {
       "nombre": "DIVISOR",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR025": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1724,6 +2039,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR026": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_17": "0000000_______TERMOSELLADORA__________0000000000",
 
     "TS-500": {
@@ -1732,6 +2062,21 @@
       "manual": "https://torrey.net/data/documents/65p1865/uCCYUvP3XD0Ajmv0ECE7hupWBQwIRDiyesRchUkUABtji4nsvX",
       "ficha_tecnica": "https://torrey.net/data/documents/xl9j6r2/3j2RxdqClclvPXqTCWlBrt5mcSno70s1arLqWTq8ofxSPO2fXQ",
       "peso": "",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR027": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
       "alto": "0.3",
       "largo": "0.4",
       "ancho": "0.2",
@@ -1760,6 +2105,21 @@
 
     "0QC20_2882": {
       "nombre": "DIVISOR",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR028": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1827,6 +2187,21 @@
       "alto": "",
       "largo": "",
       "ancho": "",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR029-": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
@@ -2000,6 +2375,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR030": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_21_": "0000000_______PLANCHAS A GAS__________0000000000",
 
     "PLJ-900": {
@@ -2110,6 +2500,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR031": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_22": "0000000_______ASADORES A GAS__________0000000000",
 
     "ASA-600G": {
@@ -2129,6 +2534,21 @@
 
     "ASA-900G": {
       "nombre": "ASA-900G Asador a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR032": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2188,7 +2608,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-    "DIVISOR06": {
+    "DIVISOR033": {
       "nombre": "--------------------DIVISOR--------------------",
       "refacciones": "",
       "manual": "",
@@ -2241,7 +2661,7 @@
       "credito_disponible": true
     },
 
-    "DIVISOR07": {
+    "DIVISOR034": {
       "nombre": "--------------------DIVISOR--------------------",
       "refacciones": "",
       "manual": "",
@@ -2276,7 +2696,7 @@
       "credito_disponible": true
     },
 
-    "DIVISOR08": {
+    "DIVISOR035": {
       "nombre": "--------------------DIVISOR--------------------",
       "refacciones": "",
       "manual": "",
@@ -2353,6 +2773,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR036": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_27": "0000000_______HORNO DE CONVECCIÓN________0000000000",
 
     "HCT-5P": {
@@ -2385,7 +2820,7 @@
       "credito_disponible": true
     },
 
-    "DIVISOR10": {
+    "DIVISOR037": {
       "nombre": "-----------------DIVISOR---------------------",
       "refacciones": "",
       "manual": "",
@@ -2402,7 +2837,37 @@
 
     "_LINEA_28": "0000000_______PRENSA Y FORMADORES________0000000000",
 
+    "DIVISOR038": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_29": "0000000_______KAMADO________0000000000",
+
+    "DIVISOR039": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_30": "0000000_______VITRINAS CALIENTES________0000000000",
 
@@ -2436,8 +2901,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_303": {
-      "nombre": "-----------------DIVISOR---------------------",
+    "DIVISOR040": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2513,7 +2978,7 @@
       "credito_disponible": true
     },
 
-    "DIVISOR05": {
+    "DIVISOR041": {
       "nombre": "-------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
@@ -2560,7 +3025,7 @@
       "credito_disponible": true
     },
 
-    "DIVISOR09": {
+    "DIVISOR042": {
       "nombre": "-------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
@@ -2712,7 +3177,7 @@
       "credito_disponible": true
     },
 
-    "0QC20_3709": {
+    "DIVISOR043": {
       "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
@@ -2864,7 +3329,7 @@
       "credito_disponible": true
     },
 
-    "DIVISOR11": {
+    "DIVISOR044": {
       "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
@@ -2970,8 +3435,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
-    "DIVISOR13": {
+    "DIVISOR045": {
       "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
@@ -3123,7 +3587,7 @@
       "credito_disponible": true
     },
 
-    "DIVISOR12": {
+    "DIVISOR046": {
       "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
@@ -3275,7 +3739,7 @@
       "credito_disponible": true
     },
 
-    "DIVISOR14": {
+    "DIVISOR047": {
       "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
@@ -3291,6 +3755,21 @@
     },
 
     "_LINEA_36-1": "0000000___VITRINAS CARNICERAS____TEC_____0000000",
+
+    "DIVISOR048": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_37": "0000000___REFRIGERADORES SÓLIDOS - LÍNEA INOX+PLUS______0000000",
 
@@ -3354,8 +3833,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3216": {
-      "nombre": "DIVISOR",
+    "DIVISOR049": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -3431,8 +3910,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_301405": {
-      "nombre": "",
+    "DIVISOR050": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -3628,8 +4107,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_3910": {
-      "nombre": "Báscula Torrey 40kg",
+    "DIVISOR051": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -3657,6 +4136,21 @@
       "precio": "48000",
       "marca": "Torrey",
       "categoria": "refrigerador",
+      "credito_disponible": true
+    },
+
+    "DIVISOR052": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -3767,6 +4261,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR053": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_17571": "0000000__FÁBRICA DE HIELO POLAR______0000000",
 
     "FH-25": {
@@ -3796,6 +4305,21 @@
       "precio": "45000",
       "marca": "Torrey",
       "categoria": "fabrica de hielo polar",
+      "credito_disponible": true
+    },
+
+    "DIVISOR054": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -3876,7 +4400,37 @@
       "credito_disponible": true
     },
 
+    "DIVISOR055": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_1758": "0000000___MESAS FRÍAS DE PREPARACIÓN______0000000",
+
+    "DIVISOR057": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_1759": "0000000___CONGELADORES VERTICALES______0000000",
 
@@ -3912,6 +4466,21 @@
 
     "CVSB-17D": {
       "nombre": "CVSB-17D Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR058": {
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -4002,6 +4571,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR059": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_201234": "0000000________CONGELADORES HORIZONTALES POLAR___________0000000000",
 
     "CH-76A": {
@@ -4064,6 +4648,21 @@
       "credito_disponible": true
     },
 
+    "DIVISOR060": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_2923": "000000_____CONGELADORES HORIZONTALES TAPA CRISTAL CURVO POLAR__________00000",
 
     "CH-200CR": {
@@ -4095,6 +4694,21 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_atrato_url": "https://app.atratopago.com/v3/accounts/formulario?com=2193&suc=4679&advisorId=5417&origin=link",
+      "credito_disponible": true
+    },
+
+    "DIVISOR061": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
