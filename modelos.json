@@ -1626,7 +1626,7 @@
       "credito_disponible": true
     },
     "EVD-8": {
-      "nombre": "Empacadora al vacio Torrey",
+      "nombre": "EVD-8 Empacadora al vacio Torrey",
       "refacciones": "https://torrey.net/data/documents/12eemj2/8qVp2pR2Rw1CVAWWF31gpVTC8cwzh7aRlMfka26XE3UpK8YGIW",
       "manual": "https://torrey.net/data/documents/85yzqjl/9KZzQLfkr93C7j4G8RBZMo4JgYIW3KLSpqoLzNhtYHR3qpDq1D",
       "ficha_tecnica": "https://torrey.net/data/documents/75zgwp2/XJFvYmHm5VzOfCQU1HM4W8m2N2vbwqYT0Pp1apFywhfH8MPMLJ",
@@ -1640,7 +1640,7 @@
       "credito_disponible": true
     },
     "EVD-20": {
-      "nombre": "Empacadora al vacio Torrey",
+      "nombre": "EVD-20 Empacadora al vacio Torrey",
       "refacciones": "https://torrey.net/data/documents/z2nrnm5/BjHKSFvFdvAn8RI2qHxScOnhsHkxdOZ37QvmBtg4XgbyDLAWne",
       "manual": "https://torrey.net/data/documents/354jv35/5rNzzVOAeHxmja0BAufMpxbUrw4KQBJTq6WnLIJrlfaNCZJV5o",
       "ficha_tecnica": "https://torrey.net/data/documents/y567qyl/QK96qFjhO1T1f2HLoNttE3mN8DWh2lDu0K3M6lyLHoOWVaiwAO",
@@ -1654,7 +1654,7 @@
       "credito_disponible": true
     },
     "EVD-76": {
-      "nombre": "Empacadora al vacio Torrey",
+      "nombre": "EVD-76 Empacadora al vacio Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w6065/U7Oq5MYlw9esaIJgM1nOpYDuDuwIaCjgvuYd8pCpYDI8xGhG7t",
       "manual": "https://torrey.net/data/documents/e5vqwpl/bHtpYqmKP186whAly7FQ2V7YnCXIvBTU3MNsB65KCq7ZCTBmZ6",
       "ficha_tecnica": "https://torrey.net/data/documents/0l0k6z5/tVwDS2PPU0dOuO8j3E0U3g3tOI6gPXEZ0FQoMLHaWpgX5gyNDE",
@@ -1668,7 +1668,7 @@
       "credito_disponible": true
     },
     "EVD-2C76": {
-      "nombre": "Empacadora al vacio Torrey",
+      "nombre": "EVD-2C76 Empacadora al vacio Torrey",
       "refacciones": "https://torrey.net/data/documents/y56j47l/ZtlOYdoolgw5x2G8zyaU4U19HgawQqsEwim8fwQ97Y9MFNuJxa",
       "manual": "https://torrey.net/data/documents/xl9jw32/pBOv9wKQT1vKTJOcn9s44ik0wkDnl4fHPZ10HUAVY92HMakdpM",
       "ficha_tecnica": "https://torrey.net/data/documents/m2ogdg5/3Wz1rKYD6yvWoW48jxzrJBs18cCwKYUCVQcZ3ztxTaEZilrXPF",
@@ -1682,7 +1682,7 @@
       "credito_disponible": true
     },
     "EVDA-2C160": {
-      "nombre": "Empacadora al vacio Torrey",
+      "nombre": "EVDA-2C160 Empacadora al vacio Torrey",
       "refacciones": "https://torrey.net/data/documents/e5vqw7l/1YKuIbwgnzpAuFGQZYf0CH8zCYX3wnU37PlE9XfIrFes4ZPFPP",
       "manual": "https://torrey.net/data/documents/r2gozkl/noCPwdfOOyZB0Ed5mZGbq2ivg48ZEPuV7gdF7RjMNtn4kEJjyz",
       "ficha_tecnica": "https://torrey.net/data/documents/z5x9vg5/bw5PA4R2jBiyEwK0fWA88Pgv8oGGor0LfhofaWOjRawp75zXlp",
@@ -1696,7 +1696,7 @@
       "credito_disponible": true
     },
     "EVB-4": {
-      "nombre": "Empacadora al vacio Torrey",
+      "nombre": "EVB-4 Empacadora al vacio Torrey",
       "refacciones": "https://torrey.net/data/documents/75z0vxl/aEAfsebF3i6oG8HtADhxCuLq7nLCfLDSWCDU4d3apNcEYL0EWa",
       "manual": "https://torrey.net/data/documents/85yw0wl/K0938hGDZvM6kjPDHs9n4L9HNtwHbpQukl8VMSRvufWp1SyXZv",
       "ficha_tecnica": "https://torrey.net/data/documents/12e3we5/6cFAUdfkOQ7bVvYQK42jYXvW9MjkJvKGRodEprz3xWP0X2sLln",
@@ -1836,7 +1836,7 @@
     "_LINEA_20": "0000000______ESTUFAS A GAS________0000000000",
 
     "FOJ-1QG": {
-      "nombre": "FOJ-1QG Báscula Torrey 40kg",
+      "nombre": "FOJ-1QG Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1851,7 +1851,7 @@
     },
 
     "FOG-1Q": {
-      "nombre": "FOG-1Q Báscula Torrey 40kg",
+      "nombre": "FOG-1Q Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1866,7 +1866,7 @@
     },
 
     "PAT-2QG": {
-      "nombre": "PAT-2QG Báscula Torrey 40kg",
+      "nombre": "PAT-2QG Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1881,7 +1881,7 @@
     },
 
     "PAJ-4QG": {
-      "nombre": "PAJ-4QG Báscula Torrey 40kg",
+      "nombre": "PAJ-4QG Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1896,7 +1896,7 @@
     },
 
     "PAT-4QG": {
-      "nombre": "PAT-4QG Báscula Torrey 40kg",
+      "nombre": "PAT-4QG Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1911,7 +1911,7 @@
     },
 
     "PAT-6QG": {
-      "nombre": "PAT-6QG Báscula Torrey 40kg",
+      "nombre": "PAT-6QG Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1926,22 +1926,7 @@
     },
 
     "EST-4QHG": {
-      "nombre": "EST-4QHG Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "0QC20_288": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "EST-4QHG Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1956,7 +1941,7 @@
     },
 
     "EMJ-1200": {
-      "nombre": "EMJ-1200 Báscula Torrey 40kg",
+      "nombre": "EMJ-1200 Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1971,7 +1956,7 @@
     },
 
     "EST-6QHG": {
-      "nombre": "EST-6QHG Báscula Torrey 40kg",
+      "nombre": "EST-6QHG Estufa a gas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2000,16 +1985,228 @@
       "credito_disponible": true
     },
 
+    "EST-MA6G111": {
+      "nombre": "EST-MA6G Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_21_": "0000000_______PLANCHAS A GAS__________0000000000",
+
+    "PLJ-900": {
+      "nombre": "PLJ-900 Plancha a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "PLJ-1200": {
+      "nombre": "PLJ-1200 Plancha a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "PLT-600G": {
+      "nombre": "PLT-600G Plancha a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "PLT-900G": {
+      "nombre": "PLT-900G Plancha a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "PLT-900G111111": {
+      "nombre": "Plancha 90 cms",
+      "refacciones": "https://torrey.net/data/documents/0l0qyz5/6XkAX7sO9e9zepTryMnuZvRVtkVu9nAqtf9CGEWurDYpGoI5Ua",
+      "manual": "https://torrey.net/data/documents/12eno82/ZmCzPldNbutH2zTjksDqq3qgCsm46mv8D0wOtkR4sSxQ51n46d",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5kzjv5/afBruCP2pUZNwDzfURLvLTTXgNax23DDpVTdbSN1SXpJYn3rmi",
+      "peso": "50",
+      "alto": "1.8",
+      "largo": "0.9",
+      "ancho": "0.9",
+      "precio": "2500",
+      "colonia_rem": "Centro",
+      "colonia_des": "Centro",
+      "referencia": "Compra TVC17",
+      "marca": "Torrey",
+      "categoria": "plancha",
+      "credito_disponible": true
+    },
+
+    "PLT-1200G": {
+      "nombre": "PLT-1200G Plancha a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "MIX PLPA-2Q": {
+      "nombre": "MIX PLPA-2Q Plancha a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_22": "0000000_______ASADORES A GAS__________0000000000",
 
+    "ASA-600G": {
+      "nombre": "ASA-600G Asador a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "ASA-900G": {
+      "nombre": "ASA-900G Asador a gas Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_23": "0000000_______BASE DE ACERO INOXIDABLE__________0000000000",
+
+    "BAT-600": {
+      "nombre": "BAT-600 BAse de acero inoxidable Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "BAT-900": {
+      "nombre": "BAT-900 Base de acero inoxidable Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "BAT-1200": {
+      "nombre": "BAT-1200 Base de acero inoxidable Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+    "DIVISOR06": {
+      "nombre": "--------------------DIVISOR--------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_24": "0000000_______ROSTICEROS________0000000000",
 
     "RT-27": {
-      "nombre": "Rosticero 27 pollos",
+      "nombre": "RT-27 Rosticero 27 pollos",
       "refacciones": "https://torrey.net/data/documents/xl9p6r2/W5oLlg3VcpbgYub9WAdZF5lb7ux9n9MD6Ri7hXdEcDDqufWFCf",
       "manual": "https://torrey.net/data/documents/12e3pk5/uZ6m4gqFhsomG2LdkU0WdcJEtGFI4KH04OkXtRq5gDpdVjgN3j",
       "ficha_tecnica": "https://torrey.net/data/documents/q5kedj5/Sz3kS2Spn3lHfOTxpcEejJy50PIb9aUjcbVFIE52EBUbK1CBEQ",
@@ -2026,12 +2223,78 @@
       "credito_disponible": true
     },
 
+    "RT48": {
+      "nombre": "RT48 Rosticero 27 pollos",
+      "refacciones": "https://torrey.net/data/documents/xl9p6r2/W5oLlg3VcpbgYub9WAdZF5lb7ux9n9MD6Ri7hXdEcDDqufWFCf",
+      "manual": "https://torrey.net/data/documents/12e3pk5/uZ6m4gqFhsomG2LdkU0WdcJEtGFI4KH04OkXtRq5gDpdVjgN3j",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5kedj5/Sz3kS2Spn3lHfOTxpcEejJy50PIb9aUjcbVFIE52EBUbK1CBEQ",
+      "peso": "50",
+      "alto": "1.8",
+      "largo": "0.9",
+      "ancho": "0.9",
+      "precio": "2500",
+      "colonia_rem": "Centro",
+      "colonia_des": "Centro",
+      "referencia": "Compra TVC17",
+      "marca": "Torrey",
+      "categoria": "rosticero",
+      "credito_disponible": true
+    },
+
+    "DIVISOR07": {
+      "nombre": "--------------------DIVISOR--------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_25": "0000000_______ROSTICEROS DE SALCHICHAS________0000000000",
+
+    "HD12": {
+      "nombre": "HD12 Rosticero de Salchichas",
+      "refacciones": "https://torrey.net/data/documents/xl9p6r2/W5oLlg3VcpbgYub9WAdZF5lb7ux9n9MD6Ri7hXdEcDDqufWFCf",
+      "manual": "https://torrey.net/data/documents/12e3pk5/uZ6m4gqFhsomG2LdkU0WdcJEtGFI4KH04OkXtRq5gDpdVjgN3j",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5kedj5/Sz3kS2Spn3lHfOTxpcEejJy50PIb9aUjcbVFIE52EBUbK1CBEQ",
+      "peso": "50",
+      "alto": "1.8",
+      "largo": "0.9",
+      "ancho": "0.9",
+      "precio": "2500",
+      "colonia_rem": "Centro",
+      "colonia_des": "Centro",
+      "referencia": "Compra TVC17",
+      "marca": "Torrey",
+      "categoria": "rosticero",
+      "credito_disponible": true
+    },
+
+    "DIVISOR08": {
+      "nombre": "--------------------DIVISOR--------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_26": "0000000_______MICROONDAS________0000000000",
 
     "MIT-0.9T": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "MIT-0.9T Microondas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2046,7 +2309,7 @@
     },
 
     "MIT-1.2T": {
-      "nombre": "MIT-1.2T Báscula Torrey 40kg",
+      "nombre": "MIT-1.2T Microondas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2061,7 +2324,7 @@
     },
 
     "MIT-1.2D": {
-      "nombre": "MIT-1.2D Báscula Torrey 40kg",
+      "nombre": "MIT-1.2D Microondas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2076,7 +2339,7 @@
     },
 
     "SCAN & GO": {
-      "nombre": "SCAN & GO Báscula Torrey 40kg",
+      "nombre": "SCAN & GO Microondas Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2091,21 +2354,6 @@
     },
 
     "_LINEA_27": "0000000_______HORNO DE CONVECCIÓN________0000000000",
-
-    "HCAV-0.6": {
-      "nombre": "HCAV-0.6 Báscula Torrey 40kg",
-      "refacciones": "https://torrey.net/data/documents/z5xq772/e1TWIkpqA0xbO4NH7KZpWMBLAgHvQJA34pwCBqsOzU61oiHTfO",
-      "manual": "https://torrey.net/data/documents/e5vpyk5/u1JHqrDPY4QRNjChY3BNBW4VTuzEaxa2eRYT6NZZmAXYVdESic",
-      "ficha_tecnica": "https://torrey.net/data/documents/0l0q835/dTA1S5ya35lA5JfCvDlAGXkUN0GagTerQW5gnXCMsyqXTQLLau",
-      "peso": "65",
-      "alto": "0.8",
-      "largo": "0.6",
-      "ancho": "0.9",
-      "precio": "120000",
-      "marca": "Torrey",
-      "categoria": "Horno de Convección",
-      "credito_disponible": true
-    },
 
     "HCT-5P": {
       "nombre": "HCT-5P Horno de Conveccion Torey",
@@ -2122,8 +2370,23 @@
       "credito_disponible": true
     },
 
-    "0QC20_303": {
-      "nombre": "Báscula Torrey 40kg",
+    "HCAV-0.6": {
+      "nombre": "HCAV-0.6 Horno de Convección Torrey",
+      "refacciones": "https://torrey.net/data/documents/z5xq772/e1TWIkpqA0xbO4NH7KZpWMBLAgHvQJA34pwCBqsOzU61oiHTfO",
+      "manual": "https://torrey.net/data/documents/e5vpyk5/u1JHqrDPY4QRNjChY3BNBW4VTuzEaxa2eRYT6NZZmAXYVdESic",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l0q835/dTA1S5ya35lA5JfCvDlAGXkUN0GagTerQW5gnXCMsyqXTQLLau",
+      "peso": "65",
+      "alto": "0.8",
+      "largo": "0.6",
+      "ancho": "0.9",
+      "precio": "120000",
+      "marca": "Torrey",
+      "categoria": "Horno de Convección",
+      "credito_disponible": true
+    },
+
+    "DIVISOR10": {
+      "nombre": "-----------------DIVISOR---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2143,6 +2406,51 @@
 
     "_LINEA_30": "0000000_______VITRINAS CALIENTES________0000000000",
 
+    "VC-92/136": {
+      "nombre": "VC-92/136 Vitrinas Calientes Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "280",
+      "alto": "1.3",
+      "largo": "1.3",
+      "ancho": "1.3",
+      "precio": "70000",
+      "marca": "Torrey",
+      "categoria": "Horno de Conveecion",
+      "credito_disponible": true
+    },
+
+    "VCG-46/97": {
+      "nombre": "VCG-46/97 Vitrinas Calientes Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "65",
+      "alto": "0.8",
+      "largo": "0.6",
+      "ancho": "0.9",
+      "precio": "120000",
+      "marca": "Torrey",
+      "categoria": "Horno de Convección",
+      "credito_disponible": true
+    },
+
+    "0QC20_303": {
+      "nombre": "-----------------DIVISOR---------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_31": "0000000_______VITRINAS FRÍAS________0000000000",
 
     "VF-68/100": {
@@ -2160,8 +2468,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_361591": {
-      "nombre": "Báscula Torrey 40kg",
+    "VFG-120C": {
+      "nombre": "VFG-120C Vitrinas Frías Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2175,8 +2483,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_371": {
-      "nombre": "Báscula Torrey 40kg",
+    "VFG-120R2": {
+      "nombre": "VFG-120R2 Vitrinas Frías Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2190,8 +2498,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_381": {
-      "nombre": "Báscula Torrey 40kg",
+    "VFG-150R2": {
+      "nombre": "VFG-150R2 Vitrinas Frías Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2205,8 +2513,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_391": {
-      "nombre": "Báscula Torrey 40kg",
+    "DIVISOR05": {
+      "nombre": "-------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2221,6 +2529,51 @@
     },
 
     "_LINEA_32": "0000000_______VITRINAS TRAMO ABIERTO________0000000000",
+
+    "VRA05": {
+      "nombre": "VRA05 Vitrinas Tramo Abierto Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "VRA23": {
+      "nombre": "VRA23 Vitrinas Tramo Abierto Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR09": {
+      "nombre": "-------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_33": "0000000_______VITRINAS EXHIBIDORAS DRD________0000000000",
 
@@ -2360,7 +2713,7 @@
     },
 
     "0QC20_3709": {
-      "nombre": "DIVISOR",
+      "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2374,13 +2727,570 @@
       "credito_disponible": true
     },
 
-    "_LINEA_1750": "0000000_______VITRINAS EXHIBIDORAS________0000000000",
+    "_LINEA_1750": "0000000_______VITRINAS EXHIBIDORAS_____DRD LS________0000000000",
 
-    "_LINEA_34": "0000000___VITRINAS EXHIBIDORAS SIN CRISTALES LATERALES______0000000",
+    "DRD3-LS-B": {
+      "nombre": "DRD3-LS-B Vitrinas exhibidoras DRD LS",
+      "refacciones": "https://torrey.net/data/documents/j28nrp2/41tARywLGCHkmopra9MXG7qIYZRTLXvJf9YafM0NqTtJMGSERo",
+      "manual": "https://torrey.net/data/documents/x5jn3jl/wFedtEmD6GFqefKwoFrgiWMzhthuOZNWYU3N8WILPoZGnxL81f",
+      "ficha_tecnica": "https://torrey.net/data/documents/y56pjml/pNi7fnJSPuEphyGBY3Wxnw9KScixcg7phm7GvgWB9p0LRzM2kG",
+      "peso": "160",
+      "alto": "1.20",
+      "largo": "1.20",
+      "ancho": "1.0",
+      "precio": "37000",
+      "marca": "Torrey",
+      "categoria": "Vitrinas exhibidoras DRD",
+      "credito_disponible": true
+    },
 
-    "_LINEA_35": "0000000___VITRINAS EXHIBIDORAS______0000000",
+    "DRD3-LS-N": {
+      "nombre": "DRD3-LS-N Vitrinas exhibidoras DRD LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DRD3-LS-AI": {
+      "nombre": "DRD3-LS-AI Vitrinas exhibidoras DRD LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DRD5-LS-B": {
+      "nombre": "DRD5-LS-B Vitrinas exhibidoras DRD LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DRD5-LS-N": {
+      "nombre": "DRD5-LS-N Vitrinas exhibidoras DRD LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DRD5-LS-AI": {
+      "nombre": "DRD5-LS-AI Vitrinas exhibidoras DRD LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DRD6-LS-B": {
+      "nombre": "DRD6-LS-B Vitrinas exhibidoras DRD LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DRD6-LS-N": {
+      "nombre": "DRD6-LS-N Vitrinas exhibidoras DRD LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DRD6-LS-AI": {
+      "nombre": "DRD6-LS-AI Vitrinas exhibidoras DRD LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR11": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_34": "0000000___VITRINAS EXHIBIDORAS TEM LS______0000000",
+
+    "TEM100 LS": {
+      "nombre": "TEM100 LS Vitrinas exhibidoras TEM LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM100N LS": {
+      "nombre": "TEM100N LS Vitrinas exhibidoras TEM LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM150 LS": {
+      "nombre": "TEM150 LS Vitrinas exhibidoras TEM LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM150N LS": {
+      "nombre": "TEM150N LS Vitrinas exhibidoras TEM LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM200 LS": {
+      "nombre": "TEM200 LS Vitrinas exhibidoras TEM LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM200N LS": {
+      "nombre": "TEM200N LS Vitrinas exhibidoras TEM LS",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR13": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_35": "0000000___VITRINAS EXHIBIDORAS____TEM   NORMALES_____0000000",
+
+    "TEM100B R290": {
+      "nombre": "TEM100B R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "160",
+      "alto": "1.20",
+      "largo": "1.20",
+      "ancho": "1.0",
+      "precio": "37000",
+      "marca": "Torrey",
+      "categoria": "Vitrinas exhibidoras DRD",
+      "credito_disponible": true
+    },
+
+    "TEM100N R290": {
+      "nombre": "TEM100N R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM100AI R290": {
+      "nombre": "TEM100AI R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM150B R290": {
+      "nombre": "TEM150B R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM150N R290": {
+      "nombre": "TEM150N R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM150AI R290": {
+      "nombre": "TEM150AI R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM200B R290": {
+      "nombre": "TEM200B R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM200N R290": {
+      "nombre": "TEM200N R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "TEM200AI R290": {
+      "nombre": "TEM200AI R290 Vitrinas exhibidoras TEM Normales",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR12": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "_LINEA_36": "0000000___VITRINAS CARNICERAS______0000000",
+
+    "TEM200 C": {
+      "nombre": "TEM200 C Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "160",
+      "alto": "1.20",
+      "largo": "1.20",
+      "ancho": "1.0",
+      "precio": "37000",
+      "marca": "Torrey",
+      "categoria": "Vitrinas exhibidoras DRD",
+      "credito_disponible": true
+    },
+
+    "TEM200 C AI": {
+      "nombre": "TEM200 C AI Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "VTA200": {
+      "nombre": "VTA200 Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "VCA200-B": {
+      "nombre": "VCA200-B Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "VCA200 N": {
+      "nombre": "VCA200 N Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "VCA200 AI": {
+      "nombre": "VCA200 AI Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "VCA250 B": {
+      "nombre": "VCA250 B Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "VCA250 N": {
+      "nombre": "VCA250 N Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "VCA250 AI": {
+      "nombre": "VCA250 AI Vitrinas Carniceras",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR14": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_36-1": "0000000___VITRINAS CARNICERAS____TEC_____0000000",
 
     "_LINEA_37": "0000000___REFRIGERADORES SÓLIDOS - LÍNEA INOX+PLUS______0000000",
 
@@ -2400,7 +3310,7 @@
     },
 
     "RVSA-47UI": {
-      "nombre": "RVSA-47UI VALIDADO Refrigerador Solido Torrey",
+      "nombre": "RVSA-47UI VALIDADO Refrigerador Solido Torrey✅",
       "refacciones": "https://torrey.net/data/documents/e2dz6o5/ws1LKcfiEK6JSGuykl2kgsx7lN3lvjFtoSzlI7urAB77S1N0AR",
       "manual": "https://torrey.net/data/documents/xl9pxg2/0MbzkkRyZyq0mel6H0vxVkPrwdjF5hD60LKIal9R2xFUH42Jax",
       "ficha_tecnica": "https://torrey.net/data/documents/3lqmq85/EwnuU0y0ha6tL05P5FJ2UBqrwnFiLERkP9c4wuLc5Im6dd9bhE",
@@ -2491,21 +3401,6 @@
       "credito_disponible": true
     },
 
-    "0QC20_301405": {
-      "nombre": "",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
     "VRF-18-1DS": {
       "nombre": "VRF-18-1DS Congelador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/q5kz1p5/9bFWBpklk9imdmyF8gaJFuUfMIfKqvMbrrY4L5tY1XIcRCz2mD",
@@ -2533,6 +3428,21 @@
       "precio": "70000",
       "marca": "Torrey",
       "categoria": "congelador",
+      "credito_disponible": true
+    },
+
+    "0QC20_301405": {
+      "nombre": "",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
@@ -3438,23 +4348,7 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-    "PLT-900G": {
-      "nombre": "Plancha 90 cms",
-      "refacciones": "https://torrey.net/data/documents/0l0qyz5/6XkAX7sO9e9zepTryMnuZvRVtkVu9nAqtf9CGEWurDYpGoI5Ua",
-      "manual": "https://torrey.net/data/documents/12eno82/ZmCzPldNbutH2zTjksDqq3qgCsm46mv8D0wOtkR4sSxQ51n46d",
-      "ficha_tecnica": "https://torrey.net/data/documents/q5kzjv5/afBruCP2pUZNwDzfURLvLTTXgNax23DDpVTdbSN1SXpJYn3rmi",
-      "peso": "50",
-      "alto": "1.8",
-      "largo": "0.9",
-      "ancho": "0.9",
-      "precio": "2500",
-      "colonia_rem": "Centro",
-      "colonia_des": "Centro",
-      "referencia": "Compra TVC17",
-      "marca": "Torrey",
-      "categoria": "plancha",
-      "credito_disponible": true
-    },
+
     "XYZ123": {
       "nombre": "Otro Producto",
       "manual": "https://example.com/manual_XYZ123.pdf",
