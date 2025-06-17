@@ -2888,21 +2888,21 @@
 
     "VCG-46/97": {
       "nombre": "VCG-46/97 Vitrinas Calientes Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "65",
-      "alto": "0.8",
+      "refacciones": "https://torrey.net/data/documents/3lmk372/bupBxQUmEx72FxaAQQJKv69NXr7PFdeFNUZBjubbPYDgzOpEl5",
+      "manual": "https://torrey.net/data/documents/m2ogkq5/N6Jh5jzTIZAqeLm1PzYqgPQaYCdj2gg0VcgglNFQWlaxVpusRp",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l0k0r5/7NFAQXW0SkYFw1kpB0vQ1A7F8UyBtrk4pQhzvV8CfMQPTfvfHf",
+      "peso": "25",
+      "alto": "0.9",
       "largo": "0.6",
-      "ancho": "0.9",
-      "precio": "120000",
+      "ancho": "0.6",
+      "precio": "18000",
       "marca": "Torrey",
       "categoria": "Horno de Convección",
       "credito_disponible": true
     },
 
     "DIVISOR040": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------VITRINAS FRÍAS -FULL GLASS--------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2916,7 +2916,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_31": "0000000_______VITRINAS FRÍAS________0000000000",
+    "_LINEA_31": "0000000_______VITRINAS FRÍAS ________0000000000",
 
     "VF-68/100": {
       "nombre": "VF-68/100 VERIFICADO Vitrinas Frías Torrey",
@@ -2935,14 +2935,14 @@
 
     "VFG-120C": {
       "nombre": "VFG-120C Vitrinas Frías Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/y56jpdl/Y8CF0ClrPWmThU8wF77H9C4FUqDisH6uiaO1Bk9ItWwyikOgVq",
+      "manual": "https://torrey.net/data/documents/65pxro2/7Nni0enkNVgTBu8xe2aeZ4EzFrt28J2FZ15OFUmtC2KkQfzu6a",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l0zww5/I4WvAIRuNIhH6BjwkUGi49Cv5zloAiPyrjCcGzQyEw0qK24qkV",
+      "peso": "180",
+      "alto": "1.30",
+      "largo": "1.0",
+      "ancho": "1.3",
+      "precio": "55000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2950,14 +2950,14 @@
 
     "VFG-120R2": {
       "nombre": "VFG-120R2 Vitrinas Frías Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/354jk35/X3gpzjmEelnV0J4xJeP1BezVcA1p2b8tDrv5UHVoUtHDIqoO9h",
+      "manual": "https://torrey.net/data/documents/xl9pog2/KGkI2Q4lPCZdIziJZvWOSccq04v9bFHdYXBtjBiEgHSWOXJFqC",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vjo75/pIv7JZCkr6W4XvF3w4PNA6ZhAfhimC2vj7vtRKB4GmV11rYC93",
+      "peso": "200",
+      "alto": "1.3",
+      "largo": "1.0",
+      "ancho": "1.30",
+      "precio": "60000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2965,21 +2965,21 @@
 
     "VFG-150R2": {
       "nombre": "VFG-150R2 Vitrinas Frías Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/x5jqk0l/62NE2768W3AhU4aIca24OJQZcB0k4i6HTNuJfsk0zN6Rmx082o",
+      "manual": "https://torrey.net/data/documents/m2ovkq5/BP0LWkZT3iPUFueoEpOVWs3sO4PZToImERHbsyKBfT2hwl8ZIX",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vjop5/3RCH5GQTREOVNgYAIjm1BYsRCldCcxesU75qCFpYRm13TWVlwJ",
+      "peso": "230",
+      "alto": "1.30",
+      "largo": "1.6",
+      "ancho": "1.0",
+      "precio": "75000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
     "DIVISOR041": {
-      "nombre": "-------------------DIVISOR----------------------",
+      "nombre": "------------------VITRINAS TRAMO ABIERTO---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2997,14 +2997,14 @@
 
     "VRA05": {
       "nombre": "VRA05 Vitrinas Tramo Abierto Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/3lqzk6l/tlNs3cn1fTDysQ3p3Ob5W5CnT2h8mKADfVybtpTE6IxFyUyhfV",
+      "manual": "https://torrey.net/data/documents/3lmke92/mV2UVlEDvaDPcXHH06SXqhm0gc22ua8XQQTv6uTXbVthswzdPF",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lq092k/1YjcOl5EfCOyedyobPrOCWyb6D3QskAVNNQtnzey9T4EGmGM1R",
+      "peso": "",
+      "alto": "1.9",
+      "largo": "0.8",
+      "ancho": "0.8",
+      "precio": "30000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -3012,21 +3012,21 @@
 
     "VRA23": {
       "nombre": "VRA23 Vitrinas Tramo Abierto Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/85ywg4l/pTpP6hzZS0mwSA6Tlbitrrd6SRNka40bBoPUeoFcH79rCfhbZg",
+      "manual": "https://torrey.net/data/documents/rl3kdj5/KuP5d34khq2iFBlfgZBJrVz2jPzabsKUAprgW0XbeoTIOhF9l2",
+      "ficha_tecnica": "https://torrey.net/data/documents/x2w6vm5/2zM8ZhwQUoAiQflk4V4XXdu37zBuBqM0eGN5v9ife1EaV4GEZe",
+      "peso": "",
+      "alto": "2.10",
+      "largo": "1.50",
+      "ancho": "1.0",
+      "precio": "95000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
     "DIVISOR042": {
-      "nombre": "-------------------DIVISOR----------------------",
+      "nombre": "------------------VITRINAS EXHIBIDORAS DRD----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
