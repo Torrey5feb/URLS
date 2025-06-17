@@ -6,7 +6,7 @@
   },
   "productos": {
     "DIVISOR001": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "--------------BASCULAS MOSTRADOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -20,7 +20,7 @@
       "credito_disponible": true
     },
 
-    "_LINEA_001": "00000000_______________BASCULAS_______________000000000000000",
+    "_LINEA_001": "00000000___________BASCULAS__MOSTRADOR_________000000000000000",
 
     "0MFQ40-N": {
       "nombre": "0MFQ40-N Báscula Torrey 40kg",
@@ -161,7 +161,7 @@
     },
 
     "DIVISOR002": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "--------------BASCULAS ETIQUETADORAS----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -238,7 +238,7 @@
     },
 
     "DIVISOR003": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------BASCULAS PORCIONADORAS----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -285,7 +285,7 @@
     },
 
     "DIVISOR004": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "--------------------BÁSCULAS DE RECIBO--------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -484,7 +484,7 @@
     },
 
     "DIVISOR005": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------BÁSCULAS A PRUEBA DE AGUA_----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -546,7 +546,7 @@
     },
 
     "DIVISOR006": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "--------------------_BÁSCULAS COLGANTES__----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -638,7 +638,7 @@
     },
 
     "DIVISOR007": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------BÁSCULAS CONTADORAS---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -700,7 +700,7 @@
     },
 
     "DIVISOR008": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------PLATAFORMAS DE BAJO PERFIL----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -822,7 +822,7 @@
     },
 
     "DIVISOR009": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------BÁSCULAS GANADERAS----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -854,7 +854,7 @@
     },
 
     "DIVISOR010": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------MÉDICA - MEDIDATA----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -886,7 +886,7 @@
     },
 
     "DIVISOR011": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "-----------PROCESADOR DE VEGETALES Y ALIMENTOS---------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -918,7 +918,7 @@
     },
 
     "DIVISOR012": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "--------------------BATIDORAS ELÉCTRICAS----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1010,7 +1010,7 @@
     },
 
     "DIVISOR013": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------AMASADORAS---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1087,7 +1087,7 @@
     },
 
     "DIVISOR014": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------MÁQUINA DE NIEVE---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1134,7 +1134,7 @@
     },
 
     "DIVISOR015": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "--------------------TURBOLICUADORES----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1241,7 +1241,7 @@
     },
 
     "DIVISOR016": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------_LICUADORAS---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1303,7 +1303,7 @@
     },
 
     "DIVISOR017": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------DESPACHADORES DE BEBIDAS----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1350,7 +1350,7 @@
     },
 
     "DIVISOR018": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------CORTADORA DE POLLO----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1382,7 +1382,7 @@
     },
 
     "DIVISOR019": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------PALOMERA_----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1429,7 +1429,7 @@
     },
 
     "DIVISOR020": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------MARINADORA AL VACÍO---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1461,7 +1461,7 @@
     },
 
     "DIVISOR021": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------EMBUTIDORA----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1493,7 +1493,7 @@
     },
 
     "DIVISOR022": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------SIERRAS----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1614,7 +1614,7 @@
     },
 
     "DIVISOR023": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------MOLINOS----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1777,7 +1777,7 @@
     },
 
     "DIVISOR024": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------REBANADORAS---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -1911,7 +1911,7 @@
     },
 
     "DIVISOR025": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------EMPACADORAS AL VACÍO_----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2040,7 +2040,7 @@
     },
 
     "DIVISOR026": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------TERMOSELLADORA_----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2072,7 +2072,7 @@
     },
 
     "DIVISOR027": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------SUAVIZADOR----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2119,7 +2119,7 @@
     },
 
     "DIVISOR028": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------FREIDORAS---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2194,7 +2194,7 @@
     },
 
     "DIVISOR029-": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------ESTUFAS A GAS_---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2212,29 +2212,29 @@
 
     "FOJ-1QG": {
       "nombre": "FOJ-1QG Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/ylrpk12/zJUK4erU9w5lyKwgI7UzRj1KvgLFl3NEk0jA7Ts6o7NVy9ZgIQ",
+      "manual": "https://torrey.net/data/documents/9l7rvr5/lwu1Kc2ZnVV4TbO9fOMTVE6Ccaod3btiv4Ud8Tvhx3nas1IjwA",
+      "ficha_tecnica": "https://torrey.net/data/documents/354kqxl/nGV0EiSS8e0sgAplzzGesGp9KWCE9LvScmDePLp03ebVfMD9uM",
+      "peso": "20",
+      "alto": "0.6",
+      "largo": "0.6",
+      "ancho": "0.5",
+      "precio": "5000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Estufas a gas",
       "credito_disponible": true
     },
 
     "FOG-1Q": {
       "nombre": "FOG-1Q Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/12e33j5/Im9tAW05JUMkibfMiYnOSuNcXFZyO8IVDA6jFRjHWdlAezcW40",
+      "manual": "https://torrey.net/data/documents/65px6n2/s1M0CcX4k6Wbxd4I5sqZsALyXPgBTnDtvm5ICypDSRDexEcReo",
+      "ficha_tecnica": "https://torrey.net/data/documents/354kjdl/VTqp3hivp3NF9eqKwe14zQkXbbzQpPVLxsCMpXMPLHIVXBYyqj",
+      "peso": "55",
+      "alto": "0.6",
+      "largo": "0.8",
+      "ancho": "0.6",
+      "precio": "12500",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2242,14 +2242,14 @@
 
     "PAT-2QG": {
       "nombre": "PAT-2QG Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/ylrp392/5CKxkMFpUSUU2p2dxVXsdULh2GlRIMg9UulhEZilv77kOmEuqw",
+      "manual": "https://torrey.net/data/documents/85ydn45/dPLjAaA4ioOmTurKaxeFk14psqly4OeATcCbKSKqyksINupnqZ",
+      "ficha_tecnica": "https://torrey.net/data/documents/v519362/s9eEXVTaKsjNlkFD8csi4CNKWpiUhj7ORHRMRiRZfJgDHqvqr6",
+      "peso": "45",
+      "alto": "0.5",
+      "largo": "1.0",
+      "ancho": "0.5",
+      "precio": "8000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2257,14 +2257,14 @@
 
     "PAJ-4QG": {
       "nombre": "PAJ-4QG Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/75z07xl/GOciEEH1aQrZwWtPVXOTV5lKs5Ok4oLyfIAlsglbyRrbLIMcaN",
+      "manual": "https://torrey.net/data/documents/85yw7wl/djnXhuPl2m7herzpv9YDKG8oeYGCkuJuI1MriHcg1II1cs2F5t",
+      "ficha_tecnica": "https://torrey.net/data/documents/ylrp9m2/7Jy551ShBIchvKe0YAVLb84Tun9iw1qOCCx9eH32BOvugPJwwn",
+      "peso": "35",
+      "alto": "0.4",
+      "largo": "0.9",
+      "ancho": "0.8",
+      "precio": "12500",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2272,14 +2272,14 @@
 
     "PAT-4QG": {
       "nombre": "PAT-4QG Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/x5jky9l/DmgV8x0hTywZYHLk1nYmKVe8xebPArvKtbnv09UYlAkCDP2KkQ",
+      "manual": "https://torrey.net/data/documents/y567d6l/6zeZJYeEPKORG2LkwsddSQ8DC8gDv9G5LQMxD3smHqUVKPldOE",
+      "ficha_tecnica": "https://torrey.net/data/documents/12enk12/VGCC1q2BTybhfauReIcWRWuFdNgGqTfIWLk4amQdhXiCTpmHCf",
+      "peso": "80",
+      "alto": "0.5",
+      "largo": "1.0",
+      "ancho": "0.8",
+      "precio": "15000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2287,14 +2287,14 @@
 
     "PAT-6QG": {
       "nombre": "PAT-6QG Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/j2883p2/OgoIzgDoPnlMvGW3QidCRI5Tx6biuVO58OmQH99gzM2Lq9BFpK",
+      "manual": "https://torrey.net/data/documents/xl9pyz2/HRvDwDGxEEsoqPoPsjiBDo94SLk07QxIMYwCy30hkyVj7ClB6x",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lqm415/u0FqeYmLr6QORq0ziujkufB9n3od9o4UBqIo43KJDwvdf8QlXg",
+      "peso": "110",
+      "alto": "0.5",
+      "largo": "1.1",
+      "ancho": "1.0",
+      "precio": "18000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2302,14 +2302,14 @@
 
     "EST-4QHG": {
       "nombre": "EST-4QHG Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/e2dpdq2/wvrM77w4qJM3Shte1TiZX5dBQSCgDNOTe8IdxuK0MA98Gu5wEc",
+      "manual": "https://torrey.net/data/documents/y567z6l/f8QiU7g2ZVA2nk1WhLtp4eX5NpKqoRgqQ9SE7IVt01itSRL7bX",
+      "ficha_tecnica": "https://torrey.net/data/documents/9l7rev5/lTC2E1Eg8ecsdcOki78nLIXTOhl1YsvDSP7kz2geye1oI2dGb8",
+      "peso": "170",
+      "alto": "1.0",
+      "largo": "1.1",
+      "ancho": "0.8",
+      "precio": "28000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2317,14 +2317,14 @@
 
     "EMJ-1200": {
       "nombre": "EMJ-1200 Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/q5kn6e5/wisLYBVrb7LVJ4t398YCwnzwwJZwy6HyGRPGKOMao8rEeaVw96",
+      "manual": "https://torrey.net/data/documents/z2n0d85/PVqHtRUp0rJWBfppf78MoLjur9rcXgp2DaDKCe3mO2KSgYGIYO",
+      "ficha_tecnica": "https://torrey.net/data/documents/85yw9pl/5RQmDhLd9YXHW43AXZo2XdYcvLl1pFrmQKMNfjvhzmYcwahFhO",
+      "peso": "59",
+      "alto": "1.10",
+      "largo": "1.30",
+      "ancho": "0.8",
+      "precio": "18000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2332,14 +2332,14 @@
 
     "EST-6QHG": {
       "nombre": "EST-6QHG Estufa a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
+      "refacciones": "https://torrey.net/data/documents/q5kz0j5/2NerM93eN3DpGn2gLOj7uWkcs8bsEUUp0Kc4ovvvWImtWIGmSs",
+      "manual": "https://torrey.net/data/documents/354xey2/mJVAMjdZ9zg2WizgUcsEO8tCY7AabcGXX2tnH4j2OcUfcZ7INu",
+      "ficha_tecnica": "https://torrey.net/data/documents/y567y7l/NxqL7HA21LFudZPE1bMIVIJ25DXNjLCA2YhNoYqr03vkoYsSii",
+      "peso": "205",
       "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "largo": "1.1",
+      "ancho": "1.1",
+      "precio": "35000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2347,14 +2347,14 @@
 
     "EST-MA6G": {
       "nombre": "EST-MA6G Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/ylrp792/IYCnsdeVZjGMxq7eVFh7a0tV0LsSEPHXN9AxtAtzXqNt0z6eug",
+      "manual": "https://torrey.net/data/documents/v519yo2/VT2soZgEG4EJ8lz8IHZJFeqe1PsISF6Y7RinOvzDblxLJxM9oO",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l0qko5/hD0LAcMf3bIhPRpUC8JX2U5t67rRUbNJMU228yK3knJbI9OxdC",
+      "peso": "380",
+      "alto": "1.1",
+      "largo": "2.0",
+      "ancho": "1.1",
+      "precio": "65000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2376,7 +2376,7 @@
     },
 
     "DIVISOR030": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "--------------------PLANCHAS A GAS--------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2394,14 +2394,14 @@
 
     "PLJ-900": {
       "nombre": "PLJ-900 Plancha a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
+      "refacciones": "https://torrey.net/data/documents/e2dpvo2/BPz8lS0udtPYXLZgPC88jsWyrYMDDNEY4CcTK1BXFvScCPzqpZ",
+      "manual": "https://torrey.net/data/documents/j288xm2/oPbKxWZmv50OAvFKQQksjl6OQVbspPXcLEkHiRzhGn2y55UK2F",
+      "ficha_tecnica": "https://torrey.net/data/documents/x5jkoel/BhwvNseV8bHFsQGD551krrZi95UH4fwGvO1bTRFt1DHgx6Wom9",
+      "peso": "40",
       "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "largo": "1.0",
+      "ancho": "0.8",
+      "precio": "13000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2409,13 +2409,13 @@
 
     "PLJ-1200": {
       "nombre": "PLJ-1200 Plancha a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
+      "refacciones": "https://torrey.net/data/documents/3lqpr15/CWVnrBxlZFfsVP9VfDzIRmMl5fJDmhJTTl2TdbbGMk0m8DRbds",
+      "manual": "https://torrey.net/data/documents/j288xm2/oPbKxWZmv50OAvFKQQksjl6OQVbspPXcLEkHiRzhGn2y55UK2F",
+      "ficha_tecnica": "https://torrey.net/data/documents/x5jkoel/BhwvNseV8bHFsQGD551krrZi95UH4fwGvO1bTRFt1DHgx6Wom9",
+      "peso": "50",
       "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
+      "largo": "1.3",
+      "ancho": "0.8",
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
@@ -2424,14 +2424,14 @@
 
     "PLT-600G": {
       "nombre": "PLT-600G Plancha a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/x2w9p65/6PGuXeP8p76D0KevCBGE6aACJiN4mLxFCZo2eQkOQEImwk6OFN",
+      "manual": "https://torrey.net/data/documents/65pxyn2/8o16Rpzwu9LsC0aR9IHUfkqF4kyLoDjdJpwDIDi61mlqQw4wFN",
+      "ficha_tecnica": "https://torrey.net/data/documents/z2nxjz5/1W6MyOv7E0TfLJbclCgUDA8qmEriUyl8vD2sgR8wX0AvlVqctV",
+      "peso": "75",
+      "alto": "0.5",
+      "largo": "0.8",
+      "ancho": "0.8",
+      "precio": "12500",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2439,14 +2439,14 @@
 
     "PLT-900G": {
       "nombre": "PLT-900G Plancha a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
+      "refacciones": "https://torrey.net/data/documents/0l0qyz5/6XkAX7sO9e9zepTryMnuZvRVtkVu9nAqtf9CGEWurDYpGoI5Ua",
+      "manual": "https://torrey.net/data/documents/12eno82/ZmCzPldNbutH2zTjksDqq3qgCsm46mv8D0wOtkR4sSxQ51n46d",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5kzjv5/afBruCP2pUZNwDzfURLvLTTXgNax23DDpVTdbSN1SXpJYn3rmi",
+      "peso": "100",
+      "alto": "0.5",
       "largo": "0.4",
       "ancho": "0.2",
-      "precio": "2500",
+      "precio": "15000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2472,36 +2472,36 @@
 
     "PLT-1200G": {
       "nombre": "PLT-1200G Plancha a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/x5jnw4l/YT8Vz5oPqylXjDxvtLIUBXrOpcmSQix5ooO20M769lPclbZ47L",
+      "manual": "https://torrey.net/data/documents/z2nxgv5/hzBoskITT3xbX9gfc5x7ZM2YOPX5ox97YMdNocftADBIBWciGR",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lm8g92/xsZsPofCSVv6EilmASYvDsK6mXaKz0QOsA1717jCjVjdpJ6keo",
+      "peso": "160",
+      "alto": "0.6",
+      "largo": "1.30",
+      "ancho": "1.0",
+      "precio": "25000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "MIX PLPA-2Q": {
+    "PLPA-2Q": {
       "nombre": "MIX PLPA-2Q Plancha a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/ylr7oq2/ytO4eBDC7P2NeDj1ww9PxQ0jntBPPTuWI33ViQYAUZeASZrmiN",
+      "manual": "https://torrey.net/data/documents/9l78n62/7ylU7UrKVMl4tRsSRmHHgrS93FSLYq4U2p0uVCLnE8vjMD1oxX",
+      "ficha_tecnica": "https://torrey.net/data/documents/rl3vpj2/4uXcHlYJDrYVAxAiuLoDMG5fT1KFL762kW0GYB3NujdlQQWI6z",
+      "peso": "110",
+      "alto": "0.5",
+      "largo": "1.20",
+      "ancho": "1.0",
+      "precio": "18000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
     "DIVISOR031": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------ASADORES A GAS----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2519,14 +2519,14 @@
 
     "ASA-600G": {
       "nombre": "ASA-600G Asador a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/xl933rl/a6N5G9H4HRNSc8vytUJLpJdqDu2tJqnGEbNRA6OxPCFcD0tPft",
+      "manual": "https://torrey.net/data/documents/v519mo2/5BqbTu366PDtLYUBJzPIuOPqvHTljRamrvxaovr48lJI60Kz8r",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5knw45/YtW7P04JFoNN75dKtd8KhCDLyQxwCa7uZCz7fxCFN9ykmDKWxQ",
+      "peso": "65",
+      "alto": "0.6",
+      "largo": "0.8",
+      "ancho": "0.8",
+      "precio": "13000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2534,13 +2534,13 @@
 
     "ASA-900G": {
       "nombre": "ASA-900G Asador a gas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
+      "refacciones": "https://torrey.net/data/documents/65p9962/6uLyUA0dmrmQXGWWblNmfifr4IQ6xLR0652KoxRvvtAcKcNoy6",
+      "manual": "https://torrey.net/data/documents/rl3vo82/GaD4CNxBez4ENbz2cpmvDN78ssuZgfjw0kZ5Bmfg5bwnAzgulY",
+      "ficha_tecnica": "https://torrey.net/data/documents/354k7dl/RrHmrwAntowICITXBILRlbx09fi7LRMAZZK1qGeqXzs8HFqz16",
+      "peso": "90",
+      "alto": "0.6",
+      "largo": "1.2",
+      "ancho": "0.9",
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
@@ -2548,7 +2548,7 @@
     },
 
     "DIVISOR032": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "---------------------BASE DE ACERO INOXIDABLE---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2567,13 +2567,13 @@
     "BAT-600": {
       "nombre": "BAT-600 BAse de acero inoxidable Torrey",
       "refacciones": "",
-      "manual": "",
+      "manual": "https://torrey.net/data/documents/354kk3l/7dd6KEhMUktxXieAIOO2vatdibZb1WOYMyOlLJJc1t5x2AZM5E",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "3800",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2582,13 +2582,13 @@
     "BAT-900": {
       "nombre": "BAT-900 Base de acero inoxidable Torrey",
       "refacciones": "",
-      "manual": "",
+      "manual": "https://torrey.net/data/documents/9l7rrp5/mzwm6K3VZ43gOyFXQyd56zkNZwE4WFmZwe6HsFHUqgT6MJ5Kc9",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "4000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2599,17 +2599,17 @@
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "5000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
     "DIVISOR033": {
-      "nombre": "--------------------DIVISOR--------------------",
+      "nombre": "--------------------ROSTICEROS_-------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2662,7 +2662,7 @@
     },
 
     "DIVISOR034": {
-      "nombre": "--------------------DIVISOR--------------------",
+      "nombre": "--------------------ROSTICEROS DE SALCHICHAS--------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2697,7 +2697,7 @@
     },
 
     "DIVISOR035": {
-      "nombre": "--------------------DIVISOR--------------------",
+      "nombre": "--------------------MICROONDAS-------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2715,14 +2715,14 @@
 
     "MIT-0.9T": {
       "nombre": "MIT-0.9T Microondas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/3lqp8g5/69H0808xuBAUgWy1EhlsgrEka91f2gt6SYzDQ8spNyH9afu0gh",
+      "manual": "https://torrey.net/data/documents/ylrpoq2/Cq4X5BHri99Yn3Y4DFMkzb57JJqWv4qlFKkA7y8inqXSMH9clR",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l0qno5/ttldWapPkr2IFZTbkn1ZLyExGTTN2FpLASLRglDnuVUM7lfu9y",
+      "peso": "18",
+      "alto": "0.4",
+      "largo": "0.6",
+      "ancho": "0.4",
+      "precio": "6500",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2730,14 +2730,14 @@
 
     "MIT-1.2T": {
       "nombre": "MIT-1.2T Microondas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "",
+      "refacciones": "https://torrey.net/data/documents/y567dlr/XYYqMZxtmtoG2UhO5t5RK8RcWla2J3LNC8I3AvlTHPj4ZDqSnw",
+      "manual": "https://torrey.net/data/documents/j288k02/0DmS7yXhPBbj5dd2cPqZ8i97VQCwd2gryP6nwGYX6NK1Q7AfJK",
+      "ficha_tecnica": "https://torrey.net/data/documents/xl9pr20/JfVEzUdqsu0FtfZBLPEw0izg0hWEHThAIYCv3cqyuV4cgop17O",
+      "peso": "25",
       "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "largo": "0.7",
+      "ancho": "0.6",
+      "precio": "15000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2745,14 +2745,14 @@
 
     "MIT-1.2D": {
       "nombre": "MIT-1.2D Microondas Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/3lm8q2e/8JFN9D738Z9VIeMOcRtUOFLavdfJUdlr6gr83PAtaex4EUTWSH",
+      "manual": "https://torrey.net/data/documents/e2dpkv2/GBMmqJLyCaR1ZAnaSYqBAnKH7ygWzgM0En5TjgtQv71qmcCqiL",
+      "ficha_tecnica": "https://torrey.net/data/documents/rl3vq26/XcrmgMvIRy7zBVRTIfuRJ9LI2AgnSvWJQS9TG5y3DcVhM8uNQN",
+      "peso": "30",
+      "alto": "0.5",
+      "largo": "0.7",
+      "ancho": "0.5",
+      "precio": "15000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2761,28 +2761,28 @@
     "SCAN & GO": {
       "nombre": "SCAN & GO Microondas Torrey",
       "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "manual": "https://torrey.net/data/documents/9l7rn65/UGcHMlJjYi9RqFHlSAKIWYi68DlWJjtprqL8fA9ig3bngZm0Gs",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lqpq85/fsJ9fMH9Q8ks8ufW5XlhU8Sq5TBwxR0V6YWRcBdDWqoWQnUNty",
+      "peso": "35",
+      "alto": "0.5",
+      "largo": "0.7",
+      "ancho": "0.5",
+      "precio": "25000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
     "DIVISOR036": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------HORNO DE CONVECCIÓN----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2821,15 +2821,15 @@
     },
 
     "DIVISOR037": {
-      "nombre": "-----------------DIVISOR---------------------",
+      "nombre": "---------------PRENSA Y FORMADORES---------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2838,7 +2838,7 @@
     "_LINEA_28": "0000000_______PRENSA Y FORMADORES________0000000000",
 
     "DIVISOR038": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------PRENSA Y FORMADORES----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2855,7 +2855,7 @@
     "_LINEA_29": "0000000_______KAMADO________0000000000",
 
     "DIVISOR039": {
-      "nombre": "----------------------DIVISOR----------------------",
+      "nombre": "----------------------KAMADO----------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2873,14 +2873,14 @@
 
     "VC-92/136": {
       "nombre": "VC-92/136 Vitrinas Calientes Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "280",
-      "alto": "1.3",
-      "largo": "1.3",
-      "ancho": "1.3",
-      "precio": "70000",
+      "refacciones": "https://torrey.net/data/documents/xl9d320/FkmV3foK0PY1o0b2t573k9cRIxVYxDk3tLXsU2lvipG35sx89G",
+      "manual": "https://torrey.net/data/documents/12e1yl8/SSZv52ydC2lXGXpEVjI5dfyu1KTQBoBZSkHMhOkyAtwD0sJ30a",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vqm8l/EYVP6uQpjk6JptFAxiKmY0aTHMuSSkMmpxeSAGNhtkRg0HpdUr",
+      "peso": "50",
+      "alto": "0.7",
+      "largo": "1.0",
+      "ancho": "0.5",
+      "precio": "18000",
       "marca": "Torrey",
       "categoria": "Horno de Conveecion",
       "credito_disponible": true
