@@ -624,14 +624,29 @@
 
     "0CRS10000": {
       "nombre": "0CRS10000 Báscula Torrey 40kg",
-      "refacciones": "https://torrey.net/data/documents/ylrrm3l/axPTcR27ZHRRWPedTvOmRgIFzJtDMI7e6Gtu17GX5j3XzYcF4v",
-      "manual": "https://torrey.net/data/documents/x5jqmql/HXAbZdxthOcxDZNkghfNXUKXeS3gdrRkmOKH44e0BCrru8qFSA",
-      "ficha_tecnica": "https://torrey.net/data/documents/9l73045/PKZr9sGBe0EZJwVjesWa8SakDkbVsgIaUbAk6B4SpgjEkx0yrz",
+      "refacciones": "https://torrey.net/data/documents/z5xz002/6WsBfTsTH3DQI2Kd0aLPk8Hpac56Btq527cp5n7fAihDpHxoxD",
+      "manual": "https://torrey.net/data/documents/r2gy9o2/n7yH14jp8BzGTqmX5CJlzGnkNnjhZEimAV7VaOBwgLtGqQ9ell",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vp115/lz0j30xeAp9v4iy8wxdz459sWnmLn45STOsFStKe9s6qvL6Efz",
       "peso": "5",
       "alto": "0.3",
       "largo": "0.4",
       "ancho": "0.2",
       "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "CRS-15000": {
+      "nombre": "0CRS15000 Báscula Torrey 40kg",
+      "refacciones": "https://torrey.net/data/documents/z5xz002/6WsBfTsTH3DQI2Kd0aLPk8Hpac56Btq527cp5n7fAihDpHxoxD",
+      "manual": "https://torrey.net/data/documents/r2gy9o2/n7yH14jp8BzGTqmX5CJlzGnkNnjhZEimAV7VaOBwgLtGqQ9ell",
+      "ficha_tecnica": "https://torrey.net/data/documents/v51qn9l/QTrNswpCVo3uxWsgy59huQM97vfwLeXFlOeiz4Rjex0YPu275P",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
