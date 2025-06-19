@@ -579,14 +579,14 @@
 
     "CRS-500": {
       "nombre": "CRS-500 Báscula Torrey 40kg",
-      "refacciones": "https://torrey.net/data/documents/65p1jn5/c3UK5KlbaardZAk8RpAv3pHm18QoPf1sIivEOFYzOvMUPZZto2",
-      "manual": "https://torrey.net/data/documents/12eek82/Ut0hTnif3PZKAtjPHtZlKNVoxgWm3HplaFWiFGz6avkRk01qXm",
-      "ficha_tecnica": "https://torrey.net/data/documents/xl9jmz2/IjhWRaPEH8bBEoELvlE5DGve2khZn5YZUWa55m3o3S0xkrXZGQ",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/12empkl/vLWjuOP5w1stIJHs0yM32eNg5SVs6rgP4WYeFEXyEZKMewzETG",
+      "manual": "https://torrey.net/data/documents/75zwde5/B4coOuTMQ1KcDT7zpTc2J8IM7ZcgHDofyWJc2PX7CWPQoHg2sI",
+      "ficha_tecnica": "https://torrey.net/data/documents/65p84gl/3hjk7PeSx9FCOYbqS3SkWZP7BZNdBKrObSyNRoJQACO0vvXCuV",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
