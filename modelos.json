@@ -2775,7 +2775,7 @@
 
     "SCAN&GO": {
       "nombre": "SCAN & GO Microondas Torrey",
-      "refacciones": "",
+      "refacciones": "null",
       "manual": "https://torrey.net/data/documents/9l7rn65/UGcHMlJjYi9RqFHlSAKIWYi68DlWJjtprqL8fA9ig3bngZm0Gs",
       "ficha_tecnica": "https://torrey.net/data/documents/3lqpq85/fsJ9fMH9Q8ks8ufW5XlhU8Sq5TBwxR0V6YWRcBdDWqoWQnUNty",
       "peso": "35",
