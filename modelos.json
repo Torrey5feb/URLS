@@ -2852,8 +2852,38 @@
 
     "_LINEA_28": "0000000_______PRENSA Y FORMADORES________0000000000",
 
-    "DIVISOR038": {
-      "nombre": "----------------------PRENSA Y FORMADORES----------------------",
+    "PMP-18": {
+      "nombre": "PMP-18 Prensa y Formador Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "FMA-08": {
+      "nombre": "FMA-08 Prensa y Formador Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "FHA-15": {
+      "nombre": "FHA-15 Prensa y Formador Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -2871,6 +2901,36 @@
 
     "DIVISOR039": {
       "nombre": "----------------------KAMADO----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "HKC-21R/N": {
+      "nombre": "HKC-21R/N Kamado Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "HKC-26R/N": {
+      "nombre": "HKC-26R/N Kamado Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
