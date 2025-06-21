@@ -2773,7 +2773,7 @@
       "credito_disponible": true
     },
 
-    "SCAN-GO": {
+    "SCANGO": {
       "nombre": "SCAN & GO Microondas Torrey",
       "refacciones": "null",
       "manual": "https://torrey.net/data/documents/9l7rn65/UGcHMlJjYi9RqFHlSAKIWYi68DlWJjtprqL8fA9ig3bngZm0Gs",
@@ -2807,9 +2807,9 @@
 
     "HCT-5P": {
       "nombre": "HCT-5P Horno de Conveccion Torey",
-      "refacciones": "https://torrey.net/data/documents/3lmw8w2/2BsudRMJZ0q2LTmcwSukYH34eIjcSc2F19gSsKBwq6A68L9cOH",
-      "manual": "https://torrey.net/data/documents/75zx8xl/J0XZOZT37uIwfmD4LBzoRS7O0bvLNY1TQlRpOZFc9fcQAGIIn9",
-      "ficha_tecnica": "https://torrey.net/data/documents/12enxe2/lOkAcuPevKC54swhUjujmmsOQeRDRwplqYWVPspC7OM2p479ys",
+      "refacciones": "https://torrey.net/data/documents/9l71evl/VQmBs0eYfBbDDkMOJTNHJPOareEBslr5T9gFbyd36FHZEIVMqU",
+      "manual": "https://torrey.net/data/documents/ylr1392/VfBcM2blgdrkruXif2l5uLjMJAtCvFcY5SK8dU5l1dORUCiQqG",
+      "ficha_tecnica": "https://torrey.net/data/documents/354v7d5/lH4Sf88Pcd17Ei2lhDlxtw5Xz6pTeiMlZTbXQ3K33tC0QUWaYB",
       "peso": "280",
       "alto": "1.3",
       "largo": "1.3",
