@@ -4728,8 +4728,8 @@
       "credito_disponible": true
     },
 
-    "DIVISOR0535": {
-      "nombre": "----------------------DIVISOR----------------------",
+    "CR680": {
+      "nombre": "CR680 Unidad Remota Fabrica de hielo Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -4743,16 +4743,16 @@
       "credito_disponible": true
     },
 
-    "DIVISOR053": {
-      "nombre": "----------------------DIVISOR----------------------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "MHC-975/2154 MAR": {
+      "nombre": "MHC-975/2154 MAR Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/65p1d45/2xHxdc2VbZjT9alIPMNgoeALW6qsHBMyWkeFSST5qqEdBL5VFA",
+      "manual": "https://torrey.net/data/documents/12eexe2/DE9lnCs7XQZ5HiwiVa4dcDZfXltl7cCZ9rEJt0hbxxr0R8kRLY",
+      "ficha_tecnica": "https://torrey.net/data/documents/z2nxvz5/9tmLcCExzFgkrdhKd7cc8dKQV9fyPrUzuuMEthgyw5jn07sHqT",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
