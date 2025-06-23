@@ -4882,11 +4882,11 @@
       "credito_disponible": true
     },
 
-    "divisor06312": {
-      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
+    "MHF-550/1210": {
+      "nombre": "MHF-550/1210 Fábrica de Hielo Frappé Torrey",
+      "refacciones": "https://torrey.net/data/documents/v51kvgl/hsIJbgaFqqaEcIagcpZok5PpCUh8uaJ0698aq1GNFCBVtSrrtK",
+      "manual": "https://torrey.net/data/documents/3lmk4o2/qBdLrPuBZ9ST9zGoAcFcHhUVKD8Ajlhq0knzzrxTluIjseolvv",
+      "ficha_tecnica": "https://torrey.net/data/documents/r2go43l/kyY548kkggcGp6WVnQXo5Al7dhAbAZg8nevuX7Vx9dsLiwA2yr",
       "peso": "",
       "alto": "",
       "largo": "",
