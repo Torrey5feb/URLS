@@ -4852,8 +4852,8 @@
       "credito_disponible": true
     },
 
-    "divisor06310": {
-      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+    "T-19": {
+      "nombre": "T-19 TAPA HIELO FRAPPE",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -4867,11 +4867,11 @@
       "credito_disponible": true
     },
 
-    "divisor06311": {
-      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
+    "MHF-340/750": {
+      "nombre": "MHF-340/750 Fábrica de Hielo Frappé Torrey",
+      "refacciones": "https://torrey.net/data/documents/x2w6dd5/cOP3LhwF4Dhpnj3erAUQl1mVfCTSXTaVbHdJjqiPbTxHQBb7Ut",
+      "manual": "https://torrey.net/data/documents/0l0k035/tLsDn6nTkVEIEh9vO5rh9cmHM8l8ryhfqhKFYB3XNbh4zC9GRZ",
+      "ficha_tecnica": "https://torrey.net/data/documents/x5jkmql/SRj35bo263SkC3cLAIypFw4zTUNydY4jPhQTu8klTnYQBckM0l",
       "peso": "",
       "alto": "",
       "largo": "",
