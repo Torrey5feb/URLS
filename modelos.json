@@ -4668,8 +4668,23 @@
       "credito_disponible": true
     },
 
-    "DIVISOR05331": {
-      "nombre": "----------------------DIVISOR----------------------",
+    "CR500": {
+      "nombre": "CR500 Unidad Remota Fabrica de hielo Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "KTP-12": {
+      "nombre": "KTP-12 kit de tuberia Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -4683,16 +4698,16 @@
       "credito_disponible": true
     },
 
-    "DIVISOR0533": {
-      "nombre": "----------------------DIVISOR----------------------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "MHC-680/1466 MA": {
+      "nombre": "MHC-680/1466 MA Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/v51kogl/TRCMjYu1KuciMDD2QNZQPLj9ZrH43zd5reeMRLkgH6C7DWH7DM",
+      "manual": "https://torrey.net/data/documents/3lmkro2/UX6Wdw9YWmHKZui09eUXpnNH7nFfIID7GSDZVYByioTjUB1noR",
+      "ficha_tecnica": "https://torrey.net/data/documents/xl93ygl/yhkPJrPzy0aqjZ80by56fda5fak5KQJsbU9iREcxW4pzz4fkNa",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
