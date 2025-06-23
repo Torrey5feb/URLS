@@ -4820,7 +4820,129 @@
       "credito_disponible": true
     },
 
-    "_LINEA_17571": "0000000__FÁBRICA DE HIELO POLAR______0000000",
+    "divisor063": {
+      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_175711": "0000000__FÁBRICAS DE HIELO FRAPPÉ______0000000",
+
+    "MHF-230/506": {
+      "nombre": "MHF-230/506 Fábrica de Hielo Frappé Torrey",
+      "refacciones": "https://torrey.net/data/documents/3543y29/7TEJcwTNWCROekGwxtSIMcSIuZy16Z2VHYpKF8HbjdgmsozV7S",
+      "manual": "https://torrey.net/data/documents/z5x9o75/sbXKKrpKL76EtfDRZGdNZBJeZXft1IBciyACMjvGWRHkFBQWky",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vqmkl/m8hopBFxCVt58oH10Yuprq8gkQIVXS5tXpTD0ilFMTxhwVqj5H",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "divisor063": {
+      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "divisor063": {
+      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "divisor063": {
+      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "divisor063": {
+      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "divisor063": {
+      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "divisor063": {
+      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_175711": "0000000__FÁBRICA DE HIELO POLAR______0000000",
 
     "FH-25": {
       "nombre": "FH-25 Fábrica de Hielo Polar Torrey",
