@@ -4598,13 +4598,103 @@
       "refacciones": "https://torrey.net/data/documents/3lqpng5/qsF81LjGS24vhz17EfElOmE0dyKWDmGVz4RvHYCSJi4XnTcaZr",
       "manual": "",
       "ficha_tecnica": "https://torrey.net/data/documents/85yzjwl/7fPJZfYAvmTWnhuKNDO30eq2qdeS4sPTxITmz8JfWa6eU4ze2Q",
-      "peso": "5",
-      "alto": "1.50",
-      "largo": "1.0",
-      "ancho": "1.0",
-      "precio": "4500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "fabrica de hielo",
+      "credito_disponible": true
+    },
+
+    "MHC-320/706 MA": {
+      "nombre": "MHC-320/706 MA Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/x5jqrjl/hx5RTvxkqCJX06yFzxzofqWOpLWUMfvYD087MtIuazbOt6VWWV",
+      "manual": "https://torrey.net/data/documents/j2890j5/iQpqc9ab3L3q4n07ufHNIa3LdyT5Ve8JZO8Qo7Ioo3E5Dnt7pj",
+      "ficha_tecnica": "https://torrey.net/data/documents/ylrrxml/2pqCOuCjTuwGTdHIvtUDmbzKK35v5BSnXNZhQtJMsMhAldJ0dc",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR0531": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR0532": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR0533": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR0534": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR0535": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
