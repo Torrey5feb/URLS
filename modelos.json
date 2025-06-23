@@ -2899,31 +2899,16 @@
 
     "_LINEA_29": "0000000_______KAMADO________0000000000",
 
-    "DIVISOR039": {
-      "nombre": "----------------------KAMADO----------------------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
     "HKC-21R/N": {
       "nombre": "HKC-21R/N Kamado Torrey",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/3lqp185/fEy4tBRX2FTshlwbt2QcTYT5Gu86TT31RNohQEQD3ktqqhqBFw",
+      "manual": "https://torrey.net/data/documents/e2dpwp2/84Vc3OWLIPvd9tOvPd7HENc5W45tYhihEDwmxsxh0Zm3z0JkI3",
+      "ficha_tecnica": "https://torrey.net/data/documents/j288gn2/CSwRMhK0GOtxuZxeOuZeQqiYMHUkv3DI86J9DtyUXEIFbJ4E8k",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -2931,15 +2916,30 @@
 
     "HKC-26R/N": {
       "nombre": "HKC-26R/N Kamado Torrey",
+      "refacciones": "https://torrey.net/data/documents/y56pkdl/bs2YnjnvuTnh2rZkyo0r5fnYU3Lr0EdY65qXZGhnz7NjWxrqjc",
+      "manual": "https://torrey.net/data/documents/3lqp695/JY2B37ky5FIxvRoEXvN6AmaJkml7kr2Xn1bypLNyX76D5Zy3XV",
+      "ficha_tecnica": "https://torrey.net/data/documents/rl37rq2/ithCvCxi3LL9srYXds7HPwrpABNwWFZo7oPUgOetWSrmKRebPl",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR062": {
+      "nombre": "----------------VITRINAS CALIENTES -FULL GLASS----------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "",
       "categoria": "báscula",
       "credito_disponible": true
     },
