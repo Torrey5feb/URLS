@@ -4638,16 +4638,16 @@
       "credito_disponible": true
     },
 
-    "DIVISOR0532": {
-      "nombre": "----------------------DIVISOR----------------------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "MHC-500/1109 MAR": {
+      "nombre": "MHC-500/1109 MAR Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/e5vq3kl/sRsLhsscPTaoa74OSPl7Gyrmt59BXvqKkn5sfBEKTG3aNvQWNN",
+      "manual": "https://torrey.net/data/documents/z5x9d75/LZnWEChVQESyo1wxfwQt3Lz0rGBHnk80yTlpWXDiK7qGKCAorZ",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l0k335/7WrRofjAZDTQt6Xz5gBc9QymznoZmFGNUg9U877zihZvQM7MWC",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
