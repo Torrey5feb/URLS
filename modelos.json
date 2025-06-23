@@ -4758,6 +4758,68 @@
       "credito_disponible": true
     },
 
+    "CR975": {
+      "nombre": "CR975 Unidad Remota Fabrica de hielo Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "SPA-105": {
+      "nombre": "SPA-105 Sistema de Purificación de Agua Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "divisor063": {
+      "nombre": "----------DISPENSADOR DE HIELO----------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_17571": "0000000__DISPENSADOR DE HIELO______0000000",
+
+    "DHC-80": {
+      "nombre": "DHC-80 Dispensador de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/65p1n85/wSqIZlKg9ulmNrAmJvYNTN5CqUwHo8fUqQV6uc4ZDtw3JOQzSy",
+      "manual": "https://torrey.net/data/documents/q5k04le/ukRF6iWNsnQ4NEiXDykQPdkj7gWwoU0lfQKHj7RtluAmzBCQ83",
+      "ficha_tecnica": "https://torrey.net/data/documents/q5ke3v5/kojUQDAKe0CogcDrJw0dWkxngPz9ixtH9bCutxAsDq3LAnjCqo",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "_LINEA_17571": "0000000__FÁBRICA DE HIELO POLAR______0000000",
 
     "FH-25": {
