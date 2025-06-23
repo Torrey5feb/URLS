@@ -4897,38 +4897,8 @@
       "credito_disponible": true
     },
 
-    "divisor06313": {
-      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "divisor06314": {
-      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
     "divisor063": {
-      "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
+      "nombre": "----------FÁBRICA DE HIELO POLAR----------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -4971,6 +4941,36 @@
       "precio": "45000",
       "marca": "Torrey",
       "categoria": "fabrica de hielo polar",
+      "credito_disponible": true
+    },
+
+    "FH-160": {
+      "nombre": "FH-160 Fábrica de Hielo Polar Torrey",
+      "refacciones": "https://torrey.net/data/documents/x2w9965/28j3j8kTcymdlJmHYyHYmwbGfnVzXoTOKkRSSAMF7QIVFakeIE",
+      "manual": "https://torrey.net/data/documents/3lqppg5/mxeq1ncZJleaXxmeW3vHZOnf2d3k14LTaxknKM5B8q0rgsShCY",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vpj15/kB7tKNXqKRhZ1gPkvL0Z2Ss9WXwoLzikNf4861A13mqp48FMof",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "divisor06314": {
+      "nombre": "-------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
