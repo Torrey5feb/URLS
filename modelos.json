@@ -4653,6 +4653,36 @@
       "credito_disponible": true
     },
 
+    "DH-415/927": {
+      "nombre": "DH-415/927 Dispensador de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/e2dp1n2/dS9qkM092CF0k7DsCTqlLGqNdHcQs05BGuAQ13kL1hIiGJo5dE",
+      "manual": "",
+      "ficha_tecnica": "https://torrey.net/data/documents/z2nrdn5/wXv2sfPggws6AjBDT2i5wfysvC1mUXtv8AF6sodd4cGA0Cglv2",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR05331": {
+      "nombre": "----------------------DIVISOR----------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
     "DIVISOR0533": {
       "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
