@@ -3178,7 +3178,7 @@
     },
 
     "DRD5-N": {
-      "nombre": "DRD5-B Báscula Torrey 40kg",
+      "nombre": "DRD5-N Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/0l0zxo5/dubm4AH4UIT8GspMNZxBTwo5K2OlNngjcUa9OV4hpgTnOhM2nX",
       "manual": "https://torrey.net/data/documents/3lqmy95/euL1HZgYCy4h9ORuG2BrIPozzS4B92wyQTMPATaCNTxvSnCsak",
       "ficha_tecnica": "https://torrey.net/data/documents/12e3ek5/r1a5ANhIzYH16SUXdZHexMM9Zpfpjpjsz0Mv3DIhPp1SOfUoIC",
@@ -3193,7 +3193,7 @@
     },
 
     "DRD5-AI": {
-      "nombre": "DRD5-B Báscula Torrey 40kg",
+      "nombre": "DRD5-AI Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/0l0zxo5/dubm4AH4UIT8GspMNZxBTwo5K2OlNngjcUa9OV4hpgTnOhM2nX",
       "manual": "https://torrey.net/data/documents/3lqmy95/euL1HZgYCy4h9ORuG2BrIPozzS4B92wyQTMPATaCNTxvSnCsak",
       "ficha_tecnica": "https://torrey.net/data/documents/12e3ek5/r1a5ANhIzYH16SUXdZHexMM9Zpfpjpjsz0Mv3DIhPp1SOfUoIC",
@@ -4351,9 +4351,9 @@
 
     "TVC26": {
       "nombre": "TVC26 VERIFICADO Refrigerador Torrey 2ptas",
-      "refacciones": "https://torrey.net/data/documents/j288dn2/t3efpA7OaYZW9hzi4lpXBWaObrMYGk8NqMpHRTmWmk3ZQz337e",
-      "manual": "https://torrey.net/data/documents/e2d8q5r/dZpqEr1gFH1hF6RRFTTFt2g4pFLoix1l27ghJqkYYmK8qoznRS",
-      "ficha_tecnica": "https://torrey.net/data/documents/j28yply/T3XAaDa4hCIEoEIdXyC5arGAP0yVkROaBRpQKa0HvSclkIEh3J",
+      "refacciones": "https://torrey.net/data/documents/y56pn7l/HzBybAoCn6JPzqrplnEJnBOBVxfS2DcwnOAxRang8EfnuPhFmm",
+      "manual": "https://torrey.net/data/documents/xl9383l/OXGWwPIYT8jR9xw8xRHzEmkC9jYj9Qp6VKOF868fVMGevyc97Q",
+      "ficha_tecnica": "https://torrey.net/data/documents/m2o7yg5/Y6rnExsvZaY6R4mZdOcuy4UlTL3BwNemm1zqEhfC2Fgbdx45Zd",
       "peso": "230",
       "alto": "2.05",
       "largo": "1.1",
