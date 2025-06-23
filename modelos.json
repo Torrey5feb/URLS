@@ -4713,16 +4713,16 @@
       "credito_disponible": true
     },
 
-    "DIVISOR0534": {
-      "nombre": "----------------------DIVISOR----------------------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "MHC-680/1466 MAR": {
+      "nombre": "MHC-680/1466 MAR Fabrica de Hielo Torrey",
+      "refacciones": "https://torrey.net/data/documents/m2ogwm5/6CqaISTwKlVGXrdQpgp0uCqldFxe8y0Wg42rQcMLxJQ7VdWB4i",
+      "manual": "https://torrey.net/data/documents/y56jqyl/mzQERvb9SrNINOge1WDDc9LAE7Uf4os09mTDWjd5XEvn399u2n",
+      "ficha_tecnica": "https://torrey.net/data/documents/65p9yo2/zsYOrgdrw3N6ys2sQdsoDvCN0utYHAiAZzsDNUWehSmBaGBOmG",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
