@@ -4959,8 +4959,38 @@
       "credito_disponible": true
     },
 
-    "divisor06314": {
-      "nombre": "-------------------",
+    "DHP-130": {
+      "nombre": "DHP-130 Dispensador de Hielo Polar Torrey",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "FH-260": {
+      "nombre": "FH-260 Fábrica de Hielo Polar Torrey",
+      "refacciones": "https://torrey.net/data/documents/r2geez5/SxGjlo8Y8EZnZwZY6nsnKwgJyvO3SEBqAGs55GFUEiMbtLgeVp",
+      "manual": "https://torrey.net/data/documents/z5xqqz2/LH4JUbLqQ245kSK1KJlNm9gJ2kagYUJeFDw7fb8dl1ShQKRLv1",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vppp5/a9bS6GNMGoozCXitAPq28dTjykya6CIGODy6jw0JcwmRAYqSdE",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DHP-150": {
+      "nombre": "DHP-150 Dispensador de Hielo Polar Torrey",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
