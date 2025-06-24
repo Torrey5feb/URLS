@@ -5573,70 +5573,53 @@
     },
 
     "CH-300CR": {
-      "nombre": "Básc",
-      "refacciones": "",
+      "nombre": "CH-300CR Congelador Polar Tapa Cristal ",
+      "refacciones": "https://torrey.net/data/documents/y56p6yl/GmQQjgal2blvbOBPoGv0Qo08J3MeeV0xzVphvQPVV8ENGMrjbB",
       "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "ficha_tecnica": "https://torrey.net/data/documents/0l0q935/1A4RuJcDV8goSzw8aPNT55Q7hCwF3dOmjvsUglXQQtyBZrbBKe",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_atrato_url": "https://app.atratopago.com/v3/accounts/formulario?com=2193&suc=4679&advisorId=5417&origin=link",
       "credito_disponible": true
     },
 
-    "DIVISOR061": {
-      "nombre": "----------------------DIVISOR----------------------",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
-      "marca": "Torrey",
-      "categoria": "báscula",
-      "credito_disponible": true
-    },
-
-    "_LINEA_212": "0000____CONGELADORES HORIZONTALES TAPA CRISTAL CURVO POLAR__________00000",
-
     "CH-200PR": {
-      "nombre": "CH-200PR Verificado Congelador Polar Tapa Cristal ",
+      "nombre": "CH-200PR Congelador Polar Tapa Cristal ",
       "refacciones": "https://torrey.net/data/documents/e5vpm85/94kfvenmkFK9Z2HwWQigW9OKGPLiVMp4A7c3JsExiOZXNuEvew",
-      "manual": "",
+      "manual": "null",
       "ficha_tecnica": "https://torrey.net/data/documents/0l0q0r5/5DpsAT7NxYMTwNYoeqHOimbvFOzRaGBgVGE2NGdpyGAZTuJ7io",
-      "peso": "50",
-      "alto": "0.9",
-      "largo": "0.9",
-      "ancho": "0.9",
-      "precio": "11000",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "0QC20_28": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
+    "CH-300PR": {
+      "nombre": "CH-300PR Congelador Polar Tapa Cristal ",
+      "refacciones": "https://torrey.net/data/documents/xl93e8l/rm969qzbxNV7TSQZ6WJom3hLtRJScnJhcBKKLODiwV6Y05udDM",
       "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "ficha_tecnica": "https://torrey.net/data/documents/v51wvol/eIbSVFlwnnmK2eGlgWR9d6Ji7HedQKcXM5KeOwISlihcb8Itqt",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "0QC20_29": {
-      "nombre": "Báscula Torrey 40kg",
+    "DIVISOR0613": {
+      "nombre": "------CONGELADORES TAPA DE CRISTAL CURVO TORREY---------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -5654,14 +5637,14 @@
 
     "CHC-80CR": {
       "nombre": "CHC-80CR Congelador Polar Tapa Cristal Curvo",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/65p16n5/aQ6INbAgx0cZrbB14BTxHerXZMw1jhCPoohwg3Yo7BN4Uji4NE",
+      "manual": "https://torrey.net/data/documents/12ee982/wbktmY9G3LrQhAOmRyZAe5isLN5LVhyv4xV6erhMelhgLHGwaY",
+      "ficha_tecnica": "https://torrey.net/data/documents/xl9j7z2/elxe49hw9HiXw4J7VQGm38Vb4MhyGuKXjn0sfyva0fVPfY0SHt",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -5669,14 +5652,14 @@
 
     "CHC-110CR": {
       "nombre": "CHC-110CR Congelador Polar Tapa Cristal Curvo",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "refacciones": "https://torrey.net/data/documents/85yzypl/RT34gqaiigLceMfVpBpm7VqNrOPMv8UVWzzCnSkoxrQ9tWeFSZ",
+      "manual": "https://torrey.net/data/documents/q5ke4e5/7Wd3wkrsvYwQYPP2ctB9gmMUxQgvy8HoJf2EKp9X6YcUcpY6fS",
+      "ficha_tecnica": "https://torrey.net/data/documents/z2nr485/vPMuQXHK4gpP7vp0Edlfkfy6AdMSfUoc96h518Md0pxyhkR3ng",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
@@ -5697,8 +5680,8 @@
       "credito_disponible": true
     },
 
-    "0QC20_33": {
-      "nombre": "Báscula Torrey 40kg",
+    "DIVISOR0614": {
+      "nombre": "------CONGELADORES TAPA DE CRISTAL PLANO TORREY---------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -5712,8 +5695,55 @@
       "credito_disponible": true
     },
 
-    "0QC20_34": {
-      "nombre": "Báscula Torrey 40kg",
+    "_LINEA_212235": "0000____CONGELADORES HORIZONTALES TAPA DE CRISTAL PLANO__________00000",
+
+    "CHC-80PR": {
+      "nombre": "CHC-80PR Congelador Polar Tapa Cristal Plano",
+      "refacciones": "https://torrey.net/data/documents/z5x9e15/h8eakR9JE5TG6rPShJK46nTXakYC56I6252t5iAxL7OlcBJLDl",
+      "manual": "https://torrey.net/data/documents/85yzmpl/3bGFyVg5PMMg8z1OrlYn5hOMb6fUPOReFjKHBitYLLu0asCN7l",
+      "ficha_tecnica": "https://torrey.net/data/documents/x2w6d15/Jyz3ClxSWB7rGsvev5d3spsNMfDzxRUax8D4bu2Y31IX3vqxtT",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "CHC-110PR": {
+      "nombre": "CHC-110PR Congelador Polar Tapa Cristal Plano",
+      "refacciones": "https://torrey.net/data/documents/z2nr785/q5fEh8T5jtZ4aEwmjvyqAFwLpsdXUezSShlvXEuy63vUkrpY1f",
+      "manual": "https://torrey.net/data/documents/9l73or5/6oSwcmLLud5Pc8TXhUQeIcHxAx0cqCAKg63W4SgzDX4PZ4gLSz",
+      "ficha_tecnica": "https://torrey.net/data/documents/354j1x5/QcQBP6uhc4KdCf2silQhgup3SNDRhsWwC7W1AzYxSmuTS2o0RH",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "CHC-180PR": {
+      "nombre": "CHC-180PR Congelador Polar Tapa Cristal Plano",
+      "refacciones": "https://torrey.net/data/documents/e2d94ol/iyfqNZ0i96mqejYi1eNPahdgTtEKDJdRa9O4evGqY1LbPoSueU",
+      "manual": "https://torrey.net/data/documents/3lqz01l/aNLxLKVivjAnoFWWVRiL1xI5h5brOd6As0QqLiSOdduHGfUpu6",
+      "ficha_tecnica": "https://torrey.net/data/documents/j2896m5/STOzqhYtHncrCAKCCPMiuQ47dasWkrPV1Ph8E73WHUEGIy4hX3",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR061": {
+      "nombre": "------ISLAS DE EXHIBICIÓN---------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
@@ -5727,65 +5757,69 @@
       "credito_disponible": true
     },
 
-    "0QC20_35": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "_LINEA_212239": "0000____ISLAS DE EXHIBICIÓN__________00000",
+
+    "IEDI-250": {
+      "nombre": "IEDI-250 Isla de Exhibición Torrey",
+      "refacciones": "https://torrey.net/data/documents/x2w9405/w9gYjBbFs6FuMhPNMvnhjJr1pjl3vqdAn6HehOrQVGgQL98re5",
+      "manual": "https://torrey.net/data/documents/z5xq4g2/MeXr4zVU2xsIchs5U8J5wDhKnCDrU4sKLHOAkYkvgiil4G1sa4",
+      "ficha_tecnica": "https://torrey.net/data/documents/r2ge6k5/rqsLWVKWMRWsZl78eNVC8GYEMQUNBjYC5tri215TkbgJCEkR4O",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "0QC20_36159": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "IEDI-200": {
+      "nombre": "IEDI-200 Isla de Exhibición Torrey",
+      "refacciones": "https://torrey.net/data/documents/x2w9465/YWq0LMDCLajqnOjkmmTn1BGfGT7pG6RiPCpSnE51mUIAe6fHTK",
+      "manual": "https://torrey.net/data/documents/v51wryl/mp7jA31v4FgLM1DsX63xsPvumSrV2IBEO65P1Rly501khIKhRY",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lmwq72/7Y0IqLYy9VFfkpwzqd2nRxKlVwUXe1rTrJWFTcrrNDI0LeZhBb",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "0QC20_37": {
-      "nombre": "Báscula Torrey 40kg",
-      "refacciones": "",
-      "manual": "",
-      "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+    "IEDI-190": {
+      "nombre": "IEDI-190 Isla de Exhibición Torrey",
+      "refacciones": "https://torrey.net/data/documents/j288mk2/WxpW6hYbOkq9ZkH1vOCVIr0EGvIuhd7qIDMd5vvblxAS7ZU2ue",
+      "manual": "https://torrey.net/data/documents/rl37eo2/URom5wKqiEqKD0nvByDAXWz7NIG49DMFpAlKLofUqeDx7bx5EC",
+      "ficha_tecnica": "https://torrey.net/data/documents/m2o70q5/JhHcLdZMEM4wRocElEL6IcNbyNelsmG2DjNWjVnrFH2zZFWRhC",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "0QC20_38": {
-      "nombre": "Báscula Torrey 40kg",
+    "DIVISOR0619": {
+      "nombre": "------------CÁMARAS PAQUETE---------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
+
+    "_LINEA_21223": "0000___________CÁMARAS PAQUETE__________00000",
 
     "0QC20_39": {
       "nombre": "Báscula Torrey 40kg",
@@ -5851,6 +5885,38 @@
       "referencia": "Compra TVC17",
       "marca": "Polar",
       "categoria": "congelador",
+      "credito_disponible": true
+    },
+
+    "_LINEA_212": "0000____CONGELADORES HORIZONTALES TAPA DE CRISTAL CURVO__________00000",
+
+    "0QC20_28": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "0QC20_29": {
+      "nombre": "Báscula Torrey 40kg",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "5",
+      "alto": "0.3",
+      "largo": "0.4",
+      "ancho": "0.2",
+      "precio": "2500",
+      "marca": "Torrey",
+      "categoria": "báscula",
       "credito_disponible": true
     },
 
