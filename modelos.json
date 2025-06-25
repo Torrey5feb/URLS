@@ -5840,7 +5840,7 @@
       "nombre": "CPAQMCONG Paquete de Cámaras Torrey con Congelador",
       "refacciones": "https://torrey.net/data/documents/12endy2/rwO3Zni4mKxs5exZq2nuVz83JYEqg1bCXx2YiQyCvFzedxBGJm",
       "manual": "https://torrey.net/data/documents/75zxxpl/ULbKAe6xAJ0pt4q6qal3JO085apA6wVGn8FpHBo3gD58z69Fzr",
-      "ficha_tecnica": "",
+      "ficha_tecnica": "https://torrey.net/data/documents/75z0rxl/R2ZMvg5wSc3T1wtCRUR1vszZYn7IMxZl0DLUHcwh3uujBRFkE0",
       "peso": "",
       "alto": "",
       "largo": "",
@@ -5870,16 +5870,34 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-    "CH-106A-": {
-      "nombre": "Congelador Polar 9 pies",
-      "refacciones": "https://torrey.net/data/documents/rl377q2/lAJ2U2ntAuuvIWDH0UsN0C1YTcN6eDv187gaOH0HoMeKtUeDMf",
-      "manual": "https://torrey.net/data/documents/q5kzqv5/hDNpULTrdbTmkYvBA8RRkc2USS3zBicbVD4hqrGwcWNyWGIAKC",
-      "ficha_tecnica": "https://torrey.net/data/documents/354k3gl/oWzEWfsqOeVwMgiSuXivlrTZy78PHDfJTsTOjK0eQurI2XEagj",
-      "peso": "50",
-      "alto": "1.8",
-      "largo": "0.9",
-      "ancho": "0.9",
-      "precio": "2500",
+
+    "DIVISOR061915": {
+      "nombre": "------------CAJA REGISTRADORA---------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_2122315": "0000_______________CAJA REGISTRADORA______________00000",
+
+    "ER-200": {
+      "nombre": "ER-200 Caja Registradora Torrey",
+      "refacciones": "https://torrey.net/data/documents/75zgjr2/uGkqpczedQC5dFdph6nDTcowogJZrZofgQJU9WrzQLOrecPIFW",
+      "manual": "https://torrey.net/data/documents/85yz40l/4JeUNJFFqQRn0KbzzHFJwqL6J9XSS43VFTtIqrIMFjCzbQ4daP",
+      "ficha_tecnica": "https://torrey.net/data/documents/12ee612/Ej45phzwpHWvnjz7s0jcC8NRJvm37E0MOwoc1gXJEJmpK4hV4X",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "colonia_rem": "Centro",
       "colonia_des": "Centro",
       "referencia": "Compra TVC17",
@@ -5888,33 +5906,125 @@
       "credito_disponible": true
     },
 
-    "_LINEA_212": "0000____CONGELADORES HORIZONTALES TAPA DE CRISTAL CURVO__________00000",
-
-    "0QC20_28": {
-      "nombre": "Báscula Torrey 40kg",
+    "DIVISOR0619159": {
+      "nombre": "------------MESA DE ACERO INOXIDABLE---------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
     },
 
-    "0QC20_29": {
-      "nombre": "Báscula Torrey 40kg",
+    "_LINEA_21223159": "0000_______________MESA DE ACERO INOXIDABLE______________00000",
+
+    "EMT4 AI TOR": {
+      "nombre": "EMT4 AI TOR Mesa de Acero Inoxidable",
+      "refacciones": "null",
+      "manual": "null",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lqmv95/yU9EauUSROnQgYVDfpGUIjLn5lMYbGiVgIbOLblxfnUVQBX3SA",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "EMT5 AI TOR": {
+      "nombre": "EMT5 AI TOR Mesa de Acero Inoxidable",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "https://torrey.net/data/documents/e5vj385/KXYEVwwObopWGvOmmSqOKiVYAK5dCDfJ3yQ90yGc5Gt8zJO5Ln",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "MAIR 24x60": {
+      "nombre": "MAIR 24x60 Mesa de Acero Inoxidable",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "No disponible",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "MAI 24x72": {
+      "nombre": "MAI 24x72 Mesa de Acero Inoxidable",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "No disponible",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "DIVISOR06191591": {
+      "nombre": "--------------------------REPISAS-------------------------",
       "refacciones": "",
       "manual": "",
       "ficha_tecnica": "",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "precio": "2500",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "_LINEA_212": "0000____________________REPISAS_________________00000",
+
+    "REP-90": {
+      "nombre": "REP-90 Repisa Torrey",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "https://torrey.net/data/documents/m2o7wn5/8AD5HevgPFvNKcuKJn6zeZRyxJ66OEhxk91zANTZAAa2COy6od",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+
+    "REP-140": {
+      "nombre": "REP-140 Repisa Torrey",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "https://torrey.net/data/documents/m2o7wn5/8AD5HevgPFvNKcuKJn6zeZRyxJ66OEhxk91zANTZAAa2COy6od",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
