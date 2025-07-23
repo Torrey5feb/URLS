@@ -5403,15 +5403,15 @@
     },
 
     "CHTC-75D": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "CHTC-75D VERIFICADO Congelador Torrey 15 Pies",
       "refacciones": "https://torrey.net/data/documents/m2o73m5/gdb7xA788sfkmoZENnrNWJSAGxjtM4J2wvrBHPtoKxta6R3uQL",
       "manual": "https://torrey.net/data/documents/3lmkpo2/hlh5PrWcaAzaXLAuzB84HsGgcyfSwKOag5oMLIZKVuZ0VCNUdl",
       "ficha_tecnica": "https://torrey.net/data/documents/x2w9rd5/0wjKk8IiIQ92yOZcdUyUfHa8OyCm0At0yRLrpsOzKmYJtCE9eW",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
+      "peso": "45",
+      "alto": "1.00",
+      "largo": "1.10",
+      "ancho": "0.7",
+      "precio": "12,000.00",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
