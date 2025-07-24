@@ -6015,6 +6015,24 @@
       "credito_disponible": true
     },
 
+    "_LINEA_212456": "0000____________________IMBERA_________________00000",
+    "_LINEA_2124561236": "0000____________________ENFRIADORES VERTICALES_________________00000",
+
+    "VR09": {
+      "nombre": "VR09 Enfriador Vertical Imbera",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "No disponible",
+      "peso": "80",
+      "alto": "1.60",
+      "largo": "0.8",
+      "ancho": "0.7",
+      "precio": "20,000",
+      "marca": "Imbera",
+      "categoria": "refrigerador vertical Imbera",
+      "credito_disponible": true
+    },
+
     "REP-140": {
       "nombre": "REP-140 Repisa Torrey",
       "refacciones": "No disponible",
