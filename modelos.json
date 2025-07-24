@@ -6016,7 +6016,20 @@
     },
 
     "_LINEA_212456": "0000____________________IMBERA_________________00000",
-    "_LINEA_2124561236": "0000____________________ENFRIADORES VERTICALES_________________00000",
+    "DIVISOR0619159112": {
+      "nombre": "--------------------------IMBERA-------------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "precio": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
 
     "VR09": {
       "nombre": "VR09 Enfriador Vertical Imbera",
