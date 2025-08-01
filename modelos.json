@@ -65,7 +65,11 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_atrato_url": "https://app.atratopago.com/v3/accounts/formulario?com=2193&suc=4679&advisorId=5417&origin=link",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["modelo-planta-1", "modelo-planta-2"],
+        "local": ["modelo-local"]
+      }
     },
 
     "0PCR20-N": {
