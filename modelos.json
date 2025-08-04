@@ -5790,6 +5790,10 @@
       "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
+      "equivalencias": {
+        "planta": ["CIIEDT12002", "modelo-planta-2"],
+        "local": ["IEDI-200"]
+      },
       "credito_disponible": true
     },
 
