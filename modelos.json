@@ -49,7 +49,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0LPCR40-N": {
@@ -454,7 +458,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "0FS500-AI": {
