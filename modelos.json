@@ -17,7 +17,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001": "00000000___________BASCULAS__MOSTRADOR_________000000000000000",
@@ -34,7 +37,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["0MFQ40-N", "modelo-planta-2"],
+        "local": ["MFQ-40"]
+      }
     },
 
     "0LPCR20-N-USB": {
@@ -51,8 +57,8 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": ["0LPCR20-N-USB", "modelo-planta-2"],
+        "local": ["LPCR-20"]
       }
     },
 
@@ -88,7 +94,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PCR40-N": {
@@ -103,7 +113,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PCR40T-N": {
@@ -118,7 +131,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-01": "00000000_______________BASCULAS_______________000000000000000",
@@ -135,7 +151,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0SXE40": {
@@ -150,7 +169,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0SX30-PRO": {
@@ -165,7 +187,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR002": {
@@ -180,7 +205,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-02": "00000000__________BÁSCULAS ETIQUETADORAS_______________0000000",
@@ -197,7 +225,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0W-LABEL20P": {
@@ -212,7 +243,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0W-LABEL40": {
@@ -227,7 +261,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0W-LABEL40P": {
@@ -242,7 +279,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR003": {
@@ -257,7 +297,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-03": "00000000___________BÁSCULAS PORCIONADORAS______________0000000000",
@@ -274,7 +317,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0LEQ12-N": {
@@ -289,7 +335,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR004": {
@@ -304,7 +353,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-04": "00000000__________BÁSCULAS DE RECIBO_____________0000000000",
@@ -321,7 +373,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PCB100": {
@@ -336,7 +391,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PCP500": {
@@ -351,7 +409,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PCP500-AI": {
@@ -366,7 +427,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-5": "00000000______________BÁSCULAS DE RECIBO MÓVIL_______________000000000",
@@ -383,7 +447,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0EQM1000": {
@@ -398,7 +465,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0FS200": {
@@ -413,7 +483,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0FS200-AI": {
@@ -428,7 +501,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0FS250": {
@@ -443,7 +519,10 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0FS500": {
@@ -477,7 +556,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "0SR50": {
@@ -492,7 +575,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "DIVISOR005": {
@@ -507,7 +594,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "_LINEA_001-6": "00000000____________BÁSCULAS A PRUEBA DE AGUA_____________00000000",
@@ -524,7 +615,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "0EQB50-W": {
@@ -539,7 +634,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "0EQB100-W": {
@@ -554,7 +653,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "DIVISOR006": {
@@ -569,7 +672,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "_LINEA_001-7": "00000000______________BÁSCULAS COLGANTES______________0000000000",
@@ -586,7 +693,11 @@
       "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "CRS-500": {
@@ -601,7 +712,11 @@
       "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "CRS-1000": {
@@ -616,7 +731,11 @@
       "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "0CRS5000": {
@@ -631,7 +750,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "0CRS10000": {
@@ -646,7 +769,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["0FS500", "modelo-planta-2"],
+        "local": ["FS-500"]
+      }
     },
 
     "CRS-15000": {
@@ -661,7 +788,11 @@
       "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR007": {
@@ -676,7 +807,11 @@
       "precio": "",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-8": "00000000______________BÁSCULAS CONTADORAS_______________000000000000000",
@@ -693,7 +828,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0QC20": {
@@ -708,7 +847,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0QC50": {
@@ -723,7 +866,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR008": {
@@ -738,7 +885,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-9": "00000_________PLATAFORMAS DE BAJO PERFIL______________000000000",
@@ -755,7 +906,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PLP3000-4": {
@@ -770,7 +925,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PLP6000-4": {
@@ -785,7 +944,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PLP3000-5": {
@@ -800,7 +963,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0PLP6000-5": {
@@ -815,7 +982,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0RPLP-4 L": {
@@ -830,7 +1001,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "0RPLP-5 L": {
@@ -845,7 +1020,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR009": {
@@ -860,7 +1039,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-10": "0000000____________BÁSCULAS GANADERAS_____________00000000000",
@@ -877,7 +1060,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR010": {
@@ -892,7 +1079,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_001-11": "00000000____________MÉDICA - MEDIDATA______________000000000000000",
@@ -909,7 +1100,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR011": {
@@ -924,7 +1119,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_02": "0000000______PROCESADOR DE VEGETALES Y ALIMENTOS__________0000000",
@@ -941,7 +1140,11 @@
       "precio": "21000",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR012": {
@@ -956,7 +1159,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_03": "0000000_______BATIDORAS ELÉCTRICAS_______________0000000000",
@@ -973,7 +1180,11 @@
       "precio": "10500",
       "marca": "Torrey",
       "categoria": "batidora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "BTO-10": {
@@ -988,7 +1199,11 @@
       "precio": "17000",
       "marca": "Torrey",
       "categoria": "batidora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["CBBTO010012", "modelo-planta-2"],
+        "local": ["BTO-10"]
+      }
     },
 
     "BTO-20": {
@@ -1003,7 +1218,11 @@
       "precio": "23000",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "BTO-30": {
@@ -1018,7 +1237,11 @@
       "precio": "38000",
       "marca": "Torrey",
       "categoria": "batidora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "B-46": {
@@ -1033,7 +1256,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "batidora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR013": {
@@ -1048,7 +1275,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_04": "0000000_______AMASADORAS_________________0000000000000",
@@ -1065,7 +1296,11 @@
       "precio": "25000",
       "marca": "Torrey",
       "categoria": "amasadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "A-46": {
@@ -1080,7 +1315,11 @@
       "precio": "43000",
       "marca": "Torrey",
       "categoria": "amasadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "A-66": {
@@ -1095,7 +1334,11 @@
       "precio": "48000",
       "marca": "Torrey",
       "categoria": "amasadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR": {
@@ -1110,7 +1353,11 @@
       "precio": "",
       "marca": "",
       "categoria": "",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR014": {
@@ -1125,7 +1372,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_05": "0000000_______MÁQUINA DE NIEVE__________________0000000000",
@@ -1142,7 +1393,11 @@
       "precio": "80000",
       "marca": "Torrey",
       "categoria": "máquina de nieve",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "MN-110": {
@@ -1157,7 +1412,11 @@
       "precio": "70000",
       "marca": "Torrey",
       "categoria": "máquina de nieve",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR015": {
@@ -1172,7 +1431,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_06": "0000000_______TURBOLICUADORES___________________0000000000",
@@ -1189,7 +1452,11 @@
       "precio": "10000",
       "marca": "Torrey",
       "categoria": "turbolicuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "TR-350 BN": {
@@ -1204,7 +1471,11 @@
       "precio": "15000",
       "marca": "Torrey",
       "categoria": "turbolicuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "TR-750 BL": {
@@ -1219,7 +1490,11 @@
       "precio": "28000",
       "marca": "Torrey",
       "categoria": "turbolicuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "TRI-270": {
@@ -1234,7 +1509,11 @@
       "precio": "7000",
       "marca": "Torrey",
       "categoria": "turbolicuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "TRI-350": {
@@ -1249,7 +1528,11 @@
       "precio": "9000",
       "marca": "Torrey",
       "categoria": "turbolicuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "TRI-550": {
@@ -1264,7 +1547,11 @@
       "precio": "9900",
       "marca": "Torrey",
       "categoria": "turbolicuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR016": {
@@ -1279,7 +1566,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_07": "0000000_______LICUADORAS___________________0000000000",
@@ -1296,7 +1587,11 @@
       "precio": "22000",
       "marca": "Torrey",
       "categoria": "licuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "LP-12": {
@@ -1311,7 +1606,11 @@
       "precio": "25000",
       "marca": "Torrey",
       "categoria": "licuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "LM-357": {
@@ -1326,7 +1625,11 @@
       "precio": "25000",
       "marca": "Torrey",
       "categoria": "licuadora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR017": {
@@ -1341,7 +1644,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_08": "0000000_______DESPACHADORES DE BEBIDAS_____________0000000000",
@@ -1358,7 +1665,11 @@
       "precio": "25000",
       "marca": "Torrey",
       "categoria": "despachador de bebidas",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DB-18x3": {
@@ -1373,7 +1684,11 @@
       "precio": "35000",
       "marca": "Torrey",
       "categoria": "despachador de bebidas",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR018": {
@@ -1388,7 +1703,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_09": "0000000_______CORTADORA DE POLLO_____________0000000000",
@@ -1405,7 +1724,11 @@
       "precio": "33000",
       "marca": "Torrey",
       "categoria": "cortadora de pollo",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR019": {
@@ -1420,7 +1743,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_10": "0000000_______PALOMERA___________0000000000",
@@ -1437,7 +1764,11 @@
       "precio": "19000",
       "marca": "Torrey",
       "categoria": "palomera",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "CP500": {
@@ -1452,7 +1783,11 @@
       "precio": "12000",
       "marca": "Torrey",
       "categoria": "palomera",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR020": {
@@ -1467,7 +1802,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_11": "0000000_______MARINADORA AL VACÍO___________0000000000",
@@ -1484,7 +1823,11 @@
       "precio": "42000",
       "marca": "Torrey",
       "categoria": "marinadora al vacío",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR021": {
@@ -1499,7 +1842,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_12": "0000000_______EMBUTIDORA__________0000000000",
@@ -1516,7 +1863,11 @@
       "precio": "125000",
       "marca": "Torrey",
       "categoria": "embutidora",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR022": {
@@ -1531,7 +1882,11 @@
       "precio": "2500",
       "marca": "Torrey",
       "categoria": "báscula",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "_LINEA_13": "0000000_______SIERRAS__________0000000000",
@@ -1548,7 +1903,11 @@
       "precio": "75000",
       "marca": "Torrey",
       "categoria": "sierra",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "ST-295-AI": {
@@ -1563,7 +1922,11 @@
       "precio": "120000",
       "marca": "Torrey",
       "categoria": "sierra",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
     "ST-305-SH": {
       "nombre": "ST-305-SH Sierra Torrey",
@@ -1577,7 +1940,11 @@
       "precio": "185000",
       "marca": "Torrey",
       "categoria": "sierra",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "ST-355-AI": {
@@ -1592,7 +1959,11 @@
       "precio": "210000",
       "marca": "Torrey",
       "categoria": "sierra",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "STP-295": {
@@ -1607,7 +1978,11 @@
       "precio": "60000",
       "marca": "Torrey",
       "categoria": "sierra",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "SJ-295": {
@@ -1622,7 +1997,11 @@
       "precio": "55000",
       "marca": "Torrey",
       "categoria": "sierra",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "ST-180-AI": {
@@ -1637,7 +2016,11 @@
       "precio": "50112",
       "marca": "Torrey",
       "categoria": "sierra",
-      "credito_disponible": true
+      "credito_disponible": true,
+      "equivalencias": {
+        "planta": ["null", "modelo-planta-2"],
+        "local": ["null"]
+      }
     },
 
     "DIVISOR023": {
