@@ -6430,6 +6430,21 @@
       "credito_disponible": true
     },
 
+    "VR04D": {
+      "nombre": "VR04D Enfriador Vertical Imbera",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "No disponible",
+      "peso": "55",
+      "alto": "1.10",
+      "largo": "0.7",
+      "ancho": "0.7",
+      "precio": "15000",
+      "marca": "Imbera",
+      "categoria": "refrigerador vertical Imbera",
+      "credito_disponible": true
+    },
+
     "VR09": {
       "nombre": "VR09 Enfriador Vertical Imbera",
       "refacciones": "No disponible",
