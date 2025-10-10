@@ -4670,17 +4670,17 @@
     },
 
     "TVC08": {
-      "nombre": "TVC08 Refrigerador Torrey Exhibidor",
+      "nombre": "TVC08 Refrigerador Torrey Exhibidor-FICHA",
       "refacciones": "https://torrey.net/data/documents/0l0qvr5/YPZUvawy2fikjTSAj9vAlRZV2QIu6HFs6nn28hDPFYzZb6dboB",
       "manual": "https://torrey.net/data/documents/xl94x20/KDxMvaehpYRDbm5FqOTeZuge09fwnXo8r4RNOL5xQSEYdqYRMJ",
       "ficha_tecnica": "https://torrey.net/data/documents/e2dnq5r/ZH0Yfb4ArgKQvRr2BqWHcsqCkyuANrYGITo99ZbmHfFMug9gnA",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
+      "peso": "80",
+      "alto": "1.90",
+      "largo": "0.7",
+      "ancho": "0.7",
+      "precio": "19000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Refrigerador Vertical",
       "credito_disponible": true
     },
 
