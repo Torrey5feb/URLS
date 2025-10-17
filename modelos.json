@@ -5705,6 +5705,26 @@
 
     "_LINEA_1759": "0000000___CONGELADORES VERTICALES______0000000",
 
+
+    "TVF32-F2": {
+      "nombre": "Congelador Torrey 32 pies",
+      "refacciones": "https://torrey.net/data/documents/12e31e5/IRyi3vmacBw7ggNFWaafUf2Z9FYcDD7IMj2KEUuOsRmtiY7Jxk",
+      "manual": "https://torrey.net/data/documents/v519d62/y5ftdoeQ8sryXWtYXprLZx5rSeK9wj3hPpYOEDuRB3sWwgi7Lu",
+      "ficha_tecnica": "https://torrey.net/data/documents/3lm8o92/W1XGd6L4jzw797J2z8MtWp1l09bX9ddnsY3src7F71TOtWbbr5",
+      "peso": "210",
+      "alto": "2.1",
+      "largo": "1.45",
+      "ancho": "0.8",
+      "precio": "80000",
+      "marca": "Torrey",
+      "categoria": "congelador Vertical",
+      "credito_disponible": true
+    },
+
+
+
+
+
     "CV16": {
       "nombre": "CV16 Congelador Vertical Torrey",
       "refacciones": "https://torrey.net/data/documents/z5xpnxl/KqRTF2UBgyk2q7RgsL9hia3NW5udidgPFijsJUXObq5H2z4eGy",
