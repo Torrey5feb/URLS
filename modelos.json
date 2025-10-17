@@ -18,13 +18,16 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001": "00000000___________BASCULAS__MOSTRADOR_________000000000000000",
-
     "0MFQ40-N": {
       "nombre": "0MFQ40-N Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/9l73ev5/cjeIv8VQLhIfHD182oyZHZhNa62r56TQAlP4Zomk5GIcN6ho8h",
@@ -38,11 +41,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["0MFQ40-N", "modelo-planta-2"],
-        "local": ["MFQ-40"]
+        "planta": [
+          "0MFQ40-N",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "MFQ-40"
+        ]
       }
     },
-
     "0LPCR20-N-USB": {
       "nombre": "0LPCR20 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/y567xql/SBM2U86RAE95e9Pd44gMXLyKrjIZjMn7PLdbmjIpOj8UZZydNg",
@@ -57,11 +64,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0LPCR20-N-USB", "modelo-planta-2"],
-        "local": ["LPCR-20"]
+        "planta": [
+          "0LPCR20-N-USB",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "LPCR-20"
+        ]
       }
     },
-
     "0LPCR40-N": {
       "nombre": "0LPCR40 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/m2ovjq5/jPPFHdSFarka71piosc1PKlr76OLXAEHis006escfe2fioki7s",
@@ -77,11 +88,15 @@
       "credito_atrato_url": "https://app.atratopago.com/v3/accounts/formulario?com=2193&suc=4679&advisorId=5417&origin=link",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0LPCR40-N-USB", "modelo-planta-2"],
-        "local": ["LPCR-40"]
+        "planta": [
+          "0LPCR40-N-USB",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "LPCR-40"
+        ]
       }
     },
-
     "0PCR20-N": {
       "nombre": "0PCR20 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lmk9w2/giSbienmBLTM3nqjpBXpsGizgqHv53iprb649WugHw8aT0RaHn",
@@ -96,11 +111,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PCR40-N": {
       "nombre": "0PCR40 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/y56jnml/0iLG4FZQ6uiDnqtM6YLRmZeHP7aUVN7lE5M7Qw4iBMmob4WnDx",
@@ -114,11 +133,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PCR40T-N": {
       "nombre": "0PCR40T Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/75zxgel/33KEQi9Uf1sL88SSjXTdcVDLT7TKllPxNj15ERk2W1dllYCzEk",
@@ -132,13 +155,16 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-01": "00000000_______________BASCULAS_______________000000000000000",
-
     "0SX40-SMART": {
       "nombre": " 0SX40-SMART Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/e2d9e7l/2bOudpZ8f6aV9Ltdq8J4WL9YK9BJH9lzTQOo06iDfOUf9P6RHA",
@@ -152,11 +178,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0SXE40": {
       "nombre": "0SXE40 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/x2w97d5/Jx9SLvgjBLh2GGpCHwqN69wAeZq4TnxgnuElvIzM0QPBciiq10",
@@ -170,11 +200,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0SX30-PRO": {
       "nombre": "0SX30-PRO Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/z2nx385/H8ScIRZhaKU8aZ6AuW8dhJCTvxmdW3y001rspaOWCEoQ4ktjb1",
@@ -188,11 +222,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR002": {
       "nombre": "--------------BASCULAS ETIQUETADORAS----------------------",
       "refacciones": "",
@@ -206,13 +244,16 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-02": "00000000__________BÁSCULAS ETIQUETADORAS_______________0000000",
-
     "0W-LABEL20": {
       "nombre": "0W-LABEL20 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/85yw40l/eCDFcQbj0xqiDjNyTwJiwXatM5rxzISGrbDaoSoeGq7pnqgVTi",
@@ -226,11 +267,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0W-LABEL20P": {
       "nombre": "0W-LABEL20P Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/xl93xgl/3OZCxQ2wMVDHmVLNuJxHiQhVmevuseGjiPKRyjboM8ZVQMGCNo",
@@ -244,11 +289,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0W-LABEL40": {
       "nombre": "0W-LABEL40 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/z2n0wz5/5fvl3zJUijhdy6naBa4OlD5iHGW6vCUscPsvifQGWKV5nI6xpn",
@@ -262,11 +311,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0W-LABEL40P": {
       "nombre": "0W-LABEL40P Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/12e3615/C0q6k6CbofEBdJQVGF05kADPiNwLeAGjSFLXvzSHrOm9Ip4B0Z",
@@ -280,11 +333,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR003": {
       "nombre": "---------------------BASCULAS PORCIONADORAS----------------------",
       "refacciones": "",
@@ -298,13 +355,16 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-03": "00000000___________BÁSCULAS PORCIONADORAS______________0000000000",
-
     "0LEQ6-N": {
       "nombre": "0LEQ6-N Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/75z0mrl/ZGb4nXMSEnTqOYxKs72PCqciDhxrHg3wRW7Ma1NuBKxWoqHNqc",
@@ -318,11 +378,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0LEQ12-N": {
       "nombre": "0LEQ12-N Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/75z0mrl/ZGb4nXMSEnTqOYxKs72PCqciDhxrHg3wRW7Ma1NuBKxWoqHNqc",
@@ -336,11 +400,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR004": {
       "nombre": "--------------------BÁSCULAS DE RECIBO--------------------",
       "refacciones": "",
@@ -354,13 +422,16 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-04": "00000000__________BÁSCULAS DE RECIBO_____________0000000000",
-
     "0EQB100": {
       "nombre": "0EQB100 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/rl370q2/HQ7OBPqf9jQJcJTJKVw5Q7l0KcRZmLORN7OzzNrMZrNVVcB9RA",
@@ -374,11 +445,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PCB100": {
       "nombre": "0PCB100 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/m2opn53/9zXrgREMHC7X5UO7QcxX3Rmn0Eop24G1mhjwsqaQnmmvGMN3Ov",
@@ -392,11 +467,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PCP500": {
       "nombre": "0PCP500 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/j289e05/UAEJBpUvtZepfiG0QDZlPNfX3pbgGmhQXqvvpXZZaisyeBb6BM",
@@ -410,11 +489,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PCP500-AI": {
       "nombre": "0PCP500-AI Báscula Torrey 40kg",
       "refacciones": "",
@@ -428,13 +511,16 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-5": "00000000______________BÁSCULAS DE RECIBO MÓVIL_______________000000000",
-
     "0EQM400": {
       "nombre": "0EQM400 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/v517o5o/AJqjsoNxpBX83FwjDqI9CVX2qP8rWKrV1GhYajNtyRuenbEg80",
@@ -448,11 +534,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0EQM1000": {
       "nombre": "0EQM1000 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/75zxnrl/DgPCesGc56cvr8ZrMs76NkJjN2MtDV4UJAdZjL63QdTS8IQZD0",
@@ -466,11 +556,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0FS200": {
       "nombre": "0FS200 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/e5vqz1l/logJ9pE9gbZS85fRpOuekTDg3hd00HgrLYJOTcjEyH7aH66Lq2",
@@ -484,11 +578,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0FS200-AI": {
       "nombre": "0FS200-AI Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/j289y05/4LTynYQWFd3MFs8UvQeYBxL6HjFtGdtVJ93ZHxEtHZhBDo1MbY",
@@ -502,11 +600,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0FS250": {
       "nombre": "0FS250 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/v51k69l/V7GwZmxDLzrRt4bJPnQZtvyI3aLfsrmPbyG8O4TVsV2gUnLqXZ",
@@ -520,11 +622,15 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0FS500": {
       "nombre": "0FS500 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/x2w6ym5/eIMwV7jqQqm9CioAmG3orXAd9DEzmOf8BcwuIjJxIToOpnDJ0J",
@@ -539,11 +645,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "0FS500-AI": {
       "nombre": "0FS500-AI Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lqzokl/7SUAyHztZom3KbhBholXhZpVCoEmLMCt2HVE3y7qROYBSZomZE",
@@ -558,11 +668,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "0SR50": {
       "nombre": "0SR50 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/75z0pkl/XasXz5fptMjR72LGbgTH8R89Q6gamI56ub4qak0iErKlvqke1u",
@@ -577,11 +691,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "DIVISOR005": {
       "nombre": "---------------------BÁSCULAS A PRUEBA DE AGUA_----------------------",
       "refacciones": "",
@@ -596,13 +714,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "_LINEA_001-6": "00000000____________BÁSCULAS A PRUEBA DE AGUA_____________00000000",
-
     "0EQB20-W": {
       "nombre": "0EQB20-W Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/z2nrg35/fD5rfJkpHiFKcKM5I5PtgW9Sytjd6orObIgf9HEiXr2lITqZfx",
@@ -617,11 +738,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "0EQB50-W": {
       "nombre": "0EQB50-W Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/65p1mg5/RqMVbPq6CCcgdYgDAEuPQUDdcvEnAUsBfZTCliWVzbVRJmS21v",
@@ -636,11 +761,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "0EQB100-W": {
       "nombre": "0EQB100-W Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/9l73nv5/7vYnSf9lc5DIp6wgv6IEuRNOg6LahA6iEOYK1Iud53PuF6y9Mb",
@@ -655,11 +784,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "DIVISOR006": {
       "nombre": "--------------------_BÁSCULAS COLGANTES__----------------------",
       "refacciones": "",
@@ -674,13 +807,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "_LINEA_001-7": "00000000______________BÁSCULAS COLGANTES______________0000000000",
-
     "CRS-300": {
       "nombre": "CRS-300 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/y561gml/HVdTx0iggPR5uwU2rUelR5EkWxIQnoiBsTuqLLQJtQb75r4vUF",
@@ -695,11 +831,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "CRS-500": {
       "nombre": "CRS-500 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/12empkl/vLWjuOP5w1stIJHs0yM32eNg5SVs6rgP4WYeFEXyEZKMewzETG",
@@ -714,11 +854,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "CRS-1000": {
       "nombre": "CRS-1000 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/z2nn832/EFE9eRzVRISYYZySCLzgyb1E1rvsRlSKCyVlFZUXUTCjQKCTbi",
@@ -733,11 +877,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "0CRS5000": {
       "nombre": "0CRS5000 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/x2w93y5/9eIJcNFNRj42SavabAR533ewoNN4s4U1anQEVChMBncU0q12ke",
@@ -752,11 +900,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "0CRS10000": {
       "nombre": "0CRS10000 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/z5xz002/6WsBfTsTH3DQI2Kd0aLPk8Hpac56Btq527cp5n7fAihDpHxoxD",
@@ -771,11 +923,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["0FS500", "modelo-planta-2"],
-        "local": ["FS-500"]
+        "planta": [
+          "0FS500",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "FS-500"
+        ]
       }
     },
-
     "CRS-15000": {
       "nombre": "0CRS15000 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/z5xz002/6WsBfTsTH3DQI2Kd0aLPk8Hpac56Btq527cp5n7fAihDpHxoxD",
@@ -790,11 +946,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR007": {
       "nombre": "----------------------BÁSCULAS CONTADORAS---------------------",
       "refacciones": "",
@@ -809,13 +969,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-8": "00000000______________BÁSCULAS CONTADORAS_______________000000000000000",
-
     "0QC5": {
       "nombre": "0QC5 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/z5xe12k/3dPJIrDBsJkcNFIhOoD768Y0it9ldOjYZXzpFShYxlijhI6H3c",
@@ -830,11 +993,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0QC20": {
       "nombre": "0QC20 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/rl3kj05/wZoesIxac5Pc4AyTBylrNrG3bKR7TroUaIBNVTtAUgpCHK8ITS",
@@ -849,11 +1016,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0QC50": {
       "nombre": "0QC50 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/rl31826/ugMjRgwedVnbdV0jAHmgcWLAu6l4D2uSmlq3UG5Y6ro97uQKiK",
@@ -868,11 +1039,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR008": {
       "nombre": "----------------------PLATAFORMAS DE BAJO PERFIL----------------------",
       "refacciones": "",
@@ -887,13 +1062,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-9": "00000_________PLATAFORMAS DE BAJO PERFIL______________000000000",
-
     "0PLP1000-3": {
       "nombre": "0PLP1000-3 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lqpw95/Qw8TyT7lOQ4GBy9Ev9yd0o3NxoDNCVRbdnLxH9mkGstgVfJ9Ej",
@@ -908,11 +1086,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PLP3000-4": {
       "nombre": "0PLP3000-4 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lqpw95/Qw8TyT7lOQ4GBy9Ev9yd0o3NxoDNCVRbdnLxH9mkGstgVfJ9Ej",
@@ -927,11 +1109,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PLP6000-4": {
       "nombre": "0PLP6000-4 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lqpw95/Qw8TyT7lOQ4GBy9Ev9yd0o3NxoDNCVRbdnLxH9mkGstgVfJ9Ej",
@@ -946,11 +1132,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PLP3000-5": {
       "nombre": "0PLP3000-5 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lqpw95/Qw8TyT7lOQ4GBy9Ev9yd0o3NxoDNCVRbdnLxH9mkGstgVfJ9Ej",
@@ -965,11 +1155,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0PLP6000-5": {
       "nombre": "0PLP6000-5 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lqpw95/Qw8TyT7lOQ4GBy9Ev9yd0o3NxoDNCVRbdnLxH9mkGstgVfJ9Ej",
@@ -984,11 +1178,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0RPLP-4 L": {
       "nombre": "0RPLP-4 L Báscula Torrey 40kg",
       "refacciones": "",
@@ -1003,11 +1201,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "0RPLP-5 L": {
       "nombre": "0RPLP-5 L Báscula Torrey 40kg",
       "refacciones": "",
@@ -1022,11 +1224,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR009": {
       "nombre": "----------------------BÁSCULAS GANADERAS----------------------",
       "refacciones": "",
@@ -1041,13 +1247,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-10": "0000000____________BÁSCULAS GANADERAS_____________00000000000",
-
     "0PG2000": {
       "nombre": "0PG2000 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/354jny5/FJDyqvADzYbp1EC6lq8uZ14RNdSjknvqs1QpulCltqmHG2QhtQ",
@@ -1062,11 +1271,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR010": {
       "nombre": "----------------------MÉDICA - MEDIDATA----------------------",
       "refacciones": "",
@@ -1081,13 +1294,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_001-11": "00000000____________MÉDICA - MEDIDATA______________000000000000000",
-
     "0GRS500": {
       "nombre": "0GRS500 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/q5knnp5/bdXLyH2aMllmdNmmoB7mkudUFUwBkPqz6rMpFcVzgcJ8kP1DRB",
@@ -1102,11 +1318,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR011": {
       "nombre": "-----------PROCESADOR DE VEGETALES Y ALIMENTOS---------------",
       "refacciones": "",
@@ -1121,13 +1341,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_02": "0000000______PROCESADOR DE VEGETALES Y ALIMENTOS__________0000000",
-
     "PVA-180": {
       "nombre": "PVA-180 Procesador de vegetales",
       "refacciones": "https://torrey.net/data/documents/3lqmjg5/DnbSyyylidSnLQ307UsnjbNKQi6CCLLzu8dLv61fEVS1Qmz01Y",
@@ -1142,11 +1365,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR012": {
       "nombre": "--------------------BATIDORAS ELÉCTRICAS----------------------",
       "refacciones": "",
@@ -1161,13 +1388,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_03": "0000000_______BATIDORAS ELÉCTRICAS_______________0000000000",
-
     "BTO -7": {
       "nombre": "BTO -7 VERIFICADO Batidora Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dv72r/WVbVipTEISvQNLEHogtTuOItkpBVpF8t62n5qwxR0IvFmp4GRI",
@@ -1182,11 +1412,15 @@
       "categoria": "batidora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "BTO-10": {
       "nombre": "BTO -10 VERIFICADO Batidora Torrey",
       "refacciones": "https://torrey.net/data/documents/x2wkd28/IdVFzgk7VXpls24DTdOe61TM8MRrb7BOhVAXzTMPH9l06ACvkg",
@@ -1201,11 +1435,15 @@
       "categoria": "batidora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["CBBTO010012", "modelo-planta-2"],
-        "local": ["BTO-10"]
+        "planta": [
+          "CBBTO010012",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "BTO-10"
+        ]
       }
     },
-
     "BTO-20": {
       "nombre": "BTO-20 VERIFICADO Batidora Torrey",
       "refacciones": "https://torrey.net/data/documents/r2g1321/B3qJy4LFh5p0AgiTQjkZmFLd6CICf2BpImcyCCHUGLtXGXrK9o",
@@ -1220,11 +1458,15 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "BTO-30": {
       "nombre": "BTO-30 VERIFICADO Batidora Torrey",
       "refacciones": "https://torrey.net/data/documents/3lmpole/LZXaF9RryCbrLXfHPiLaTXWAoYmShzMTkN69Ib1QWtaAFoZ7cb",
@@ -1239,11 +1481,15 @@
       "categoria": "batidora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "B-46": {
       "nombre": "B-46 VERIFICADO Batidora Torrey",
       "refacciones": "https://torrey.net/data/documents/354qgl9/3ZnQGMJG2SvcRJ9eyY5ISUDAo72JEIlOHdO7UbEQr0yvXzNDlh",
@@ -1258,11 +1504,15 @@
       "categoria": "batidora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR013": {
       "nombre": "---------------------AMASADORAS---------------------",
       "refacciones": "",
@@ -1277,13 +1527,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_04": "0000000_______AMASADORAS_________________0000000000000",
-
     "AMT-20": {
       "nombre": "AMT-20 VERIFICADO Amasadora Torrey",
       "refacciones": "https://torrey.net/data/documents/v51k0yl/NFXZtthKocHuomaIoEN9UjkNdskqvHcsCjWZakNKonRT4bmmwr",
@@ -1298,11 +1551,15 @@
       "categoria": "amasadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "A-46": {
       "nombre": "A-46 VERIFICADO Amasadora Torrey",
       "refacciones": "https://torrey.net/data/documents/65pd45j/Lr4qaKY0ZuyZbPoA63JhTZw55yfsiLmNWV5taaMJM6XIT9Cjhr",
@@ -1317,11 +1574,15 @@
       "categoria": "amasadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "A-66": {
       "nombre": "A-66 VERIFICADO Amasadora Torrey",
       "refacciones": "https://torrey.net/data/documents/85yjw5q/kv0cDFujYMRPoQ6Qq2o9c9gEzfFjUC54C1KnFDaCXLDmZ2qEMm",
@@ -1336,11 +1597,15 @@
       "categoria": "amasadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR": {
       "nombre": "DIVISOR",
       "refacciones": "",
@@ -1355,11 +1620,15 @@
       "categoria": "",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR014": {
       "nombre": "---------------------MÁQUINA DE NIEVE---------------------",
       "refacciones": "",
@@ -1374,13 +1643,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_05": "0000000_______MÁQUINA DE NIEVE__________________0000000000",
-
     "MN-16": {
       "nombre": "MN-16 Máquina de Nieve Torrey",
       "refacciones": "https://torrey.net/data/documents/z5xrx5k/BuHEVW9owOIh4dohXU0eMjFBSHKnZHJb6xnEqwJgSbxaDpynwk",
@@ -1395,11 +1667,15 @@
       "categoria": "máquina de nieve",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "MN-110": {
       "nombre": "MN-110 Máquina de Nieve Torrey",
       "refacciones": "https://torrey.net/data/documents/3lmd9le/1PNmuNi5n76yj0RacVy8nFYuKJg0SgwCnzYvE9A2ODyqyGQrFK",
@@ -1414,11 +1690,15 @@
       "categoria": "máquina de nieve",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR015": {
       "nombre": "--------------------TURBOLICUADORES----------------------",
       "refacciones": "",
@@ -1433,13 +1713,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_06": "0000000_______TURBOLICUADORES___________________0000000000",
-
     "TR-270": {
       "nombre": "TR-270 Turbolicuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/ylrrr4l/sAf6NhM7oAmMLhSBC6cB1wbyDNzGS8IOXn1z0UcPg28tZLGAuc",
@@ -1454,11 +1737,15 @@
       "categoria": "turbolicuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "TR-350 BN": {
       "nombre": "TR-350 BN Turbolicuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w6865/lGwa9cEFTSkUZTNwtP2XEMLLmsqdNIam0gtlkA9hmuiEojzd4G",
@@ -1473,11 +1760,15 @@
       "categoria": "turbolicuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "TR-750 BL": {
       "nombre": "TR-750 BL Turbolicuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/v51k90l/iMwRNl2yxRIFTS1hIsgzfXrDk5uBEcXj4wlAFiMcjvsmmU58JP",
@@ -1492,11 +1783,15 @@
       "categoria": "turbolicuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "TRI-270": {
       "nombre": "TRI-270 Turbolicuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/ylrpzm2/kaPLogo4PSsykPxmba4ptv8EXZIyVCXaF1F365SYCC7H4tEnwH",
@@ -1511,11 +1806,15 @@
       "categoria": "turbolicuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "TRI-350": {
       "nombre": "TRI-350 Turbolicuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dpq72/D5zCTp7Jgp6ykjhz474fZXaqxBPJXSGqgi64oZtZsWGXOfi1HB",
@@ -1530,11 +1829,15 @@
       "categoria": "turbolicuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "TRI-550": {
       "nombre": "TRI-550 Turbolicuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/0l0qg35/R093JP5WFO4yLxWyyYpcrzsDd1BphmNrOd3RAIUvSfc21SEzMP",
@@ -1549,11 +1852,15 @@
       "categoria": "turbolicuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR016": {
       "nombre": "---------------------_LICUADORAS---------------------",
       "refacciones": "",
@@ -1568,13 +1875,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_07": "0000000_______LICUADORAS___________________0000000000",
-
     "LM-12": {
       "nombre": "LM-12 Licuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/z5xqyx2/hMjDBD5EgpbuuQ6bROU5fIDo5XmlElZ9OD1qS7tstJ6WZGW8NC",
@@ -1589,11 +1899,15 @@
       "categoria": "licuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "LP-12": {
       "nombre": "LP-12 Licuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/e5vpe45/2fH7Mi95itwpcAZfAH6k6kjxkIvNWM3AW4aYIeVMxrMnPQHIoB",
@@ -1608,11 +1922,15 @@
       "categoria": "licuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "LM-357": {
       "nombre": "LM-357 Licuadora Torrey",
       "refacciones": "https://torrey.net/data/documents/v51jo5o/rDzW457OteXEmRPOBWN9MyfWXSaOEukAGS6kkY4F7WPjN24zXy",
@@ -1627,11 +1945,15 @@
       "categoria": "licuadora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR017": {
       "nombre": "----------------------DESPACHADORES DE BEBIDAS----------------------",
       "refacciones": "",
@@ -1646,13 +1968,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_08": "0000000_______DESPACHADORES DE BEBIDAS_____________0000000000",
-
     "DB-18x2": {
       "nombre": "DB-18x2 Despachador de Bebidas Torrey",
       "refacciones": "https://torrey.net/data/documents/75z6nlj/lsXrjyRUD6LLA0rwVU8tBcMB5bBtlg8qbbrBVkU6okyTDBkwmk",
@@ -1667,11 +1992,15 @@
       "categoria": "despachador de bebidas",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DB-18x3": {
       "nombre": "DB-18x3 Despachador de Bebidas Torrey",
       "refacciones": "https://torrey.net/data/documents/q5kpj2e/jYcH1FOHvLHCZKBOQ0jdz6lUvvamlVTCWRH2cqoDYrSydO6ZTs",
@@ -1686,11 +2015,15 @@
       "categoria": "despachador de bebidas",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR018": {
       "nombre": "----------------------CORTADORA DE POLLO----------------------",
       "refacciones": "",
@@ -1705,13 +2038,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_09": "0000000_______CORTADORA DE POLLO_____________0000000000",
-
     "CP-20": {
       "nombre": "CP-20 Cortadora de Pollo Torrey",
       "refacciones": "https://torrey.net/data/documents/m2og7j5/vAy3Ri1jIicRldOOvGFt66r6ou2uafYoeNX6debApwIi7rsMv3",
@@ -1726,11 +2062,15 @@
       "categoria": "cortadora de pollo",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR019": {
       "nombre": "----------------------PALOMERA_----------------------",
       "refacciones": "",
@@ -1745,13 +2085,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_10": "0000000_______PALOMERA___________0000000000",
-
     "PC500": {
       "nombre": "PC500 Maquina Palomera Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dz1n5/uU23wTSUVZf1w6q31199J9QsTWIyxAB6jtdflsFyYak9frOIfy",
@@ -1766,11 +2109,15 @@
       "categoria": "palomera",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "CP500": {
       "nombre": "CP500 Carro Palomera Torrey",
       "refacciones": "https://torrey.net/data/documents/ylr7142/BPVOnttf0qFeCoSSKf6CjdHYPDpSWOFzJ1NTjNY2mYrRdaNbE8",
@@ -1785,11 +2132,15 @@
       "categoria": "palomera",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR020": {
       "nombre": "----------------------MARINADORA AL VACÍO---------------------",
       "refacciones": "",
@@ -1804,13 +2155,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_11": "0000000_______MARINADORA AL VACÍO___________0000000000",
-
     "MV-25": {
       "nombre": "MV-25 Marinadora al Vacío Torrey",
       "refacciones": "https://torrey.net/data/documents/3lmkn72/OlIi1qKglyIi8WgNeIRAKXkMFYxyXrLX6YpZaU3wiEUIcV4l7s",
@@ -1825,11 +2179,15 @@
       "categoria": "marinadora al vacío",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR021": {
       "nombre": "---------------------EMBUTIDORA----------------------",
       "refacciones": "",
@@ -1844,13 +2202,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_12": "0000000_______EMBUTIDORA__________0000000000",
-
     "ET-25": {
       "nombre": "ET-25 Embutidora Torrey",
       "refacciones": "https://torrey.net/data/documents/85yzzjl/Yan9pjiDRKGs2JrRZv3u7Qp0ZoSDNyo72zgo71wLgEPdlFiXRF",
@@ -1865,11 +2226,15 @@
       "categoria": "embutidora",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR022": {
       "nombre": "----------------------SIERRAS----------------------",
       "refacciones": "",
@@ -1884,13 +2249,16 @@
       "categoria": "báscula",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "_LINEA_13": "0000000_______SIERRAS__________0000000000",
-
     "ST-295-PE": {
       "nombre": "ST-295-PE VERIFICADA Sierra Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w9zm5/xPWkJVirQfytTEQIYzWnlLuMEOyCfu2OL1f9KBRHB5M4PseH9Y",
@@ -1905,11 +2273,15 @@
       "categoria": "sierra",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "ST-295-AI": {
       "nombre": "ST-295-AI  Sierra Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w9kd5/OCZhokV5linjM0byackZmTm65Jgky8Ads6z6Iqmzc95Qrdnrml",
@@ -1924,8 +2296,13 @@
       "categoria": "sierra",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
     "ST-305-SH": {
@@ -1942,11 +2319,15 @@
       "categoria": "sierra",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "ST-355-AI": {
       "nombre": "ST-355-AI Sierra Torrey",
       "refacciones": "https://torrey.net/data/documents/z5x17lk/ok1baEgVgP4SouhkWJJfwqQHosf6QbBjzMvX1vY6A3vONvAOUk",
@@ -1961,11 +2342,15 @@
       "categoria": "sierra",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "STP-295": {
       "nombre": "STP-295 Sierra Torrey",
       "refacciones": "https://torrey.net/data/documents/y56pryl/eGBw8jI0WrOUOYeGZ7qBgMzFZzfPGsOTSuEshJFGq72orOBkRc",
@@ -1980,11 +2365,15 @@
       "categoria": "sierra",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "SJ-295": {
       "nombre": "SJ-295 Sierra Torrey",
       "refacciones": "https://torrey.net/data/documents/z2n0yn5/Tdj6SuIvzu4eZxNk5PCKMgGMBXr0pA2x2iLLT5ZxH4GKZbfX8Y",
@@ -1999,11 +2388,15 @@
       "categoria": "sierra",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "ST-180-AI": {
       "nombre": "ST-180-AI Sierra Torrey",
       "refacciones": "https://torrey.net/data/documents/75zze5j/azbE07gUxwucLC3N60ZZaGj518G1i2VP7QCn7qPUBSxR34veQ9",
@@ -2018,11 +2411,15 @@
       "categoria": "sierra",
       "credito_disponible": true,
       "equivalencias": {
-        "planta": ["null", "modelo-planta-2"],
-        "local": ["null"]
+        "planta": [
+          "null",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "null"
+        ]
       }
     },
-
     "DIVISOR023": {
       "nombre": "----------------------MOLINOS----------------------",
       "refacciones": "",
@@ -2037,9 +2434,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_14": "0000000_______MOLINOS_________0000000000",
-
     "M-12-FS": {
       "nombre": "M-12-FS Molino Torrey",
       "refacciones": "https://torrey.net/data/documents/85ywrwl/sIs285APg23oD66B2qspfgbKwNCAERIA5JJzliKbDVflhzX7sY",
@@ -2054,7 +2449,6 @@
       "categoria": "molino",
       "credito_disponible": true
     },
-
     "FG-12-SS": {
       "nombre": "FG-12-SS Molino Torrey",
       "refacciones": "https://torrey.net/data/documents/65p9z42/oDeq0yWOi7AAVsoSHxCkAupLqtlHOHRDM4NCTSqBhaI73eyeqA",
@@ -2083,7 +2477,6 @@
       "categoria": "molino",
       "credito_disponible": true
     },
-
     "M-22-RW-2": {
       "nombre": "M-22-RW-2 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lmwzo2/6t7rDKylASjfy9MX9YlT9y4F7M3eJNUCUqT3qUADmUdNRpPfVK",
@@ -2112,7 +2505,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "M-22-RSS-2": {
       "nombre": "M-22-RSS-2 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/q5kno15/nyEQFf7DkwUEj8qJJemjNgr1h3dMKN7h53ntYUWGF0NZ7OgVFV",
@@ -2141,7 +2533,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "M-32-5HP": {
       "nombre": "M-32-5HP Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/e5vqppl/F39wKJoai7sUEhk6IF1iwb4cojjbSYoNEzwjSNvTOsows8DET9",
@@ -2170,7 +2561,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MJ-22": {
       "nombre": "MJ-22 Molino MJ deFicha",
       "refacciones": "https://torrey.net/data/documents/3lqp365/YrDwmhXsVGiiBrUjIcfpXxDKRwYM3tq2WMFmQIIwHDfGX4mgzG",
@@ -2185,7 +2575,6 @@
       "categoria": "Molino",
       "credito_disponible": true
     },
-
     "DIVISOR024": {
       "nombre": "---------------------REBANADORAS---------------------",
       "refacciones": "",
@@ -2200,9 +2589,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_15": "0000000_______REBANADORAS__________0000000000",
-
     "RB-250DC": {
       "nombre": "RB-250DC Rebanadora Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/v5198g2/E80Yfl0SBrB9xkzmEfLp4nFqEEqNyzUSKxVGQ2NwQGV9P2NuOw",
@@ -2217,7 +2604,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "RB-300DC": {
       "nombre": "RB-300DC Rebanadora Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lm81o2/UFtMFbW3Dmp5N9J4IJ642CttTTgTtul8V0sdYo4QqWUh4vXR1g",
@@ -2246,7 +2632,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "R-300-A": {
       "nombre": "R-300-A Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/85ywqjl/RpuQqodRGdlgmF9HuPHUu9yEBGkv9fSX3fTmvGOgQTKfsMxyI9",
@@ -2275,7 +2660,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "RMS-350": {
       "nombre": "RMS-350 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/3lmk1o2/gnArlhbhfOOE0WPn9nsy7hozjWkLvV2vhVJQm8sijPywgJqERN",
@@ -2304,7 +2688,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "0QC20_26721": {
       "nombre": "DIVISOR",
       "refacciones": "",
@@ -2319,7 +2702,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR025": {
       "nombre": "---------------------EMPACADORAS AL VACÍO_----------------------",
       "refacciones": "",
@@ -2334,7 +2716,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_16": "0000000_______EMPACADORAS AL VACÍO_________0000000000",
     "EVD-4": {
       "nombre": "Empacadora al vacio Torrey",
@@ -2448,7 +2829,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR026": {
       "nombre": "----------------------TERMOSELLADORA_----------------------",
       "refacciones": "",
@@ -2463,9 +2843,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_17": "0000000_______TERMOSELLADORA__________0000000000",
-
     "TS-500": {
       "nombre": "TS-500 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/rq5kp2e/hlO2E9ON0Hijbfl4UDOkn7NmB8iLuuGtsFG02l4ENiEBQNCBNb",
@@ -2480,7 +2858,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR027": {
       "nombre": "----------------------SUAVIZADOR----------------------",
       "refacciones": "",
@@ -2495,9 +2872,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_18_": "0000000_______SUAVIZADOR_________0000000000",
-
     "MT-43": {
       "nombre": "MT-43 Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/z5x812k/1JyrU0MoqFqQlf1APVIv2gAVjXDCifcfibScA6ZyKSTjggqjy6",
@@ -2512,7 +2887,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "0QC20_2882": {
       "nombre": "DIVISOR",
       "refacciones": "",
@@ -2527,7 +2901,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR028": {
       "nombre": "---------------------FREIDORAS---------------------",
       "refacciones": "",
@@ -2542,9 +2915,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_19_": "0000000______FREIDORAS________0000000000",
-
     "FRT-5G": {
       "nombre": "FRT-5G Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/75z0npl/lbvTKXs6VEEIhmJCfn0OT7FjyFEcZUaw13LHp2fPE4c1Ocf4ck",
@@ -2573,7 +2944,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "FRT-15G": {
       "nombre": "FRT-15G Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/x5jkn9l/DZbQE5VDiDxQJD0zYziJO2NUaWqPZ91CVG2STH5uqiFDgSp69p",
@@ -2602,7 +2972,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR029-": {
       "nombre": "----------------------ESTUFAS A GAS_---------------------",
       "refacciones": "",
@@ -2617,9 +2986,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_20": "0000000______ESTUFAS A GAS________0000000000",
-
     "FOJ-1QG": {
       "nombre": "FOJ-1QG Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/ylrpk12/zJUK4erU9w5lyKwgI7UzRj1KvgLFl3NEk0jA7Ts6o7NVy9ZgIQ",
@@ -2634,7 +3001,6 @@
       "categoria": "Estufas a gas",
       "credito_disponible": true
     },
-
     "FOG-1Q": {
       "nombre": "FOG-1Q Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/12e33j5/Im9tAW05JUMkibfMiYnOSuNcXFZyO8IVDA6jFRjHWdlAezcW40",
@@ -2649,7 +3015,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PAT-2QG": {
       "nombre": "PAT-2QG Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/ylrp392/5CKxkMFpUSUU2p2dxVXsdULh2GlRIMg9UulhEZilv77kOmEuqw",
@@ -2664,7 +3029,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PAJ-4QG": {
       "nombre": "PAJ-4QG Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/75z07xl/GOciEEH1aQrZwWtPVXOTV5lKs5Ok4oLyfIAlsglbyRrbLIMcaN",
@@ -2679,7 +3043,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PAT-4QG": {
       "nombre": "PAT-4QG Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/x5jky9l/DmgV8x0hTywZYHLk1nYmKVe8xebPArvKtbnv09UYlAkCDP2KkQ",
@@ -2694,7 +3057,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PAT-6QG": {
       "nombre": "PAT-6QG Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/j2883p2/OgoIzgDoPnlMvGW3QidCRI5Tx6biuVO58OmQH99gzM2Lq9BFpK",
@@ -2709,7 +3071,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "EST-4QHG": {
       "nombre": "EST-4QHG Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dpdq2/wvrM77w4qJM3Shte1TiZX5dBQSCgDNOTe8IdxuK0MA98Gu5wEc",
@@ -2724,7 +3085,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "EMJ-1200": {
       "nombre": "EMJ-1200 Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/q5kn6e5/wisLYBVrb7LVJ4t398YCwnzwwJZwy6HyGRPGKOMao8rEeaVw96",
@@ -2739,7 +3099,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "EST-6QHG": {
       "nombre": "EST-6QHG Estufa a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/q5kz0j5/2NerM93eN3DpGn2gLOj7uWkcs8bsEUUp0Kc4ovvvWImtWIGmSs",
@@ -2754,7 +3113,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "EST-MA6G": {
       "nombre": "EST-MA6G Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/ylrp792/IYCnsdeVZjGMxq7eVFh7a0tV0LsSEPHXN9AxtAtzXqNt0z6eug",
@@ -2769,7 +3127,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "EST-MA6G111": {
       "nombre": "EST-MA6G Báscula Torrey 40kg",
       "refacciones": "",
@@ -2784,7 +3141,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR030": {
       "nombre": "--------------------PLANCHAS A GAS--------------------",
       "refacciones": "",
@@ -2799,9 +3155,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_21_": "0000000_______PLANCHAS A GAS__________0000000000",
-
     "PLJ-900": {
       "nombre": "PLJ-900 Plancha a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dpvo2/BPz8lS0udtPYXLZgPC88jsWyrYMDDNEY4CcTK1BXFvScCPzqpZ",
@@ -2816,7 +3170,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PLJ-1200": {
       "nombre": "PLJ-1200 Plancha a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/3lqpr15/CWVnrBxlZFfsVP9VfDzIRmMl5fJDmhJTTl2TdbbGMk0m8DRbds",
@@ -2831,7 +3184,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PLT-600G": {
       "nombre": "PLT-600G Plancha a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w9p65/6PGuXeP8p76D0KevCBGE6aACJiN4mLxFCZo2eQkOQEImwk6OFN",
@@ -2846,7 +3198,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PLT-900G": {
       "nombre": "PLT-900G Plancha a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/0l0qyz5/6XkAX7sO9e9zepTryMnuZvRVtkVu9nAqtf9CGEWurDYpGoI5Ua",
@@ -2861,7 +3212,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PLT-900G111111": {
       "nombre": "Plancha 90 cms",
       "refacciones": "https://torrey.net/data/documents/0l0qyz5/6XkAX7sO9e9zepTryMnuZvRVtkVu9nAqtf9CGEWurDYpGoI5Ua",
@@ -2879,7 +3229,6 @@
       "categoria": "plancha",
       "credito_disponible": true
     },
-
     "PLT-1200G": {
       "nombre": "PLT-1200G Plancha a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/x5jnw4l/YT8Vz5oPqylXjDxvtLIUBXrOpcmSQix5ooO20M769lPclbZ47L",
@@ -2894,7 +3243,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PLPA-2Q": {
       "nombre": "MIX PLPA-2Q Plancha a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/ylr7oq2/ytO4eBDC7P2NeDj1ww9PxQ0jntBPPTuWI33ViQYAUZeASZrmiN",
@@ -2909,7 +3257,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR031": {
       "nombre": "----------------------ASADORES A GAS----------------------",
       "refacciones": "",
@@ -2924,9 +3271,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_22": "0000000_______ASADORES A GAS__________0000000000",
-
     "ASA-600G": {
       "nombre": "ASA-600G Asador a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/xl933rl/a6N5G9H4HRNSc8vytUJLpJdqDu2tJqnGEbNRA6OxPCFcD0tPft",
@@ -2941,7 +3286,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "ASA-900G": {
       "nombre": "ASA-900G Asador a gas Torrey",
       "refacciones": "https://torrey.net/data/documents/65p9962/6uLyUA0dmrmQXGWWblNmfifr4IQ6xLR0652KoxRvvtAcKcNoy6",
@@ -2956,7 +3300,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR032": {
       "nombre": "---------------------BASE DE ACERO INOXIDABLE---------------------",
       "refacciones": "",
@@ -2971,9 +3314,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_23": "0000000_______BASE DE ACERO INOXIDABLE__________0000000000",
-
     "BAT-600": {
       "nombre": "BAT-600 BAse de acero inoxidable Torrey",
       "refacciones": "",
@@ -2988,7 +3329,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "BAT-900": {
       "nombre": "BAT-900 Base de acero inoxidable Torrey",
       "refacciones": "",
@@ -3003,7 +3343,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "BAT-1200": {
       "nombre": "BAT-1200 Base de acero inoxidable Torrey",
       "refacciones": "",
@@ -3032,9 +3371,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_24": "0000000_______ROSTICEROS________0000000000",
-
     "RT-27": {
       "nombre": "RT-27 Rosticero 27 pollos",
       "refacciones": "https://torrey.net/data/documents/xl9p6r2/W5oLlg3VcpbgYub9WAdZF5lb7ux9n9MD6Ri7hXdEcDDqufWFCf",
@@ -3052,7 +3389,6 @@
       "categoria": "rosticero",
       "credito_disponible": true
     },
-
     "RT48": {
       "nombre": "RT48 Rosticero 27 pollos",
       "refacciones": "https://torrey.net/data/documents/xl9p6r2/W5oLlg3VcpbgYub9WAdZF5lb7ux9n9MD6Ri7hXdEcDDqufWFCf",
@@ -3070,7 +3406,6 @@
       "categoria": "rosticero",
       "credito_disponible": true
     },
-
     "DIVISOR034": {
       "nombre": "--------------------ROSTICEROS DE SALCHICHAS--------------------",
       "refacciones": "",
@@ -3085,9 +3420,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_25": "0000000_______ROSTICEROS DE SALCHICHAS________0000000000",
-
     "HD12": {
       "nombre": "HD12 Rosticero de Salchichas",
       "refacciones": "https://torrey.net/data/documents/q5kz8p5/r2pq5romwpp5LJM4tyBahk1T3OL1njCQSc7vW86h2e4RhXUiIh",
@@ -3105,7 +3438,6 @@
       "categoria": "rosticero",
       "credito_disponible": true
     },
-
     "DIVISOR035": {
       "nombre": "--------------------MICROONDAS-------------------",
       "refacciones": "",
@@ -3120,9 +3452,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_26": "0000000_______MICROONDAS________0000000000",
-
     "MIT-0.9T": {
       "nombre": "MIT-0.9T Microondas Torrey",
       "refacciones": "https://torrey.net/data/documents/3lqp8g5/69H0808xuBAUgWy1EhlsgrEka91f2gt6SYzDQ8spNyH9afu0gh",
@@ -3137,7 +3467,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MIT-1.2T": {
       "nombre": "MIT-1.2T Microondas Torrey",
       "refacciones": "https://torrey.net/data/documents/y567dlr/XYYqMZxtmtoG2UhO5t5RK8RcWla2J3LNC8I3AvlTHPj4ZDqSnw",
@@ -3152,7 +3481,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MIT-1.2D": {
       "nombre": "MIT-1.2D Microondas Torrey",
       "refacciones": "https://torrey.net/data/documents/3lm8q2e/8JFN9D738Z9VIeMOcRtUOFLavdfJUdlr6gr83PAtaex4EUTWSH",
@@ -3167,7 +3495,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "SCANGO": {
       "nombre": "SCAN & GO Microondas Torrey",
       "refacciones": "null",
@@ -3182,7 +3509,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR036": {
       "nombre": "----------------HORNO DE CONVECCIÓN----------------------",
       "refacciones": "",
@@ -3197,9 +3523,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_27": "0000000_______HORNO DE CONVECCIÓN________0000000000",
-
     "HCT-5P": {
       "nombre": "HCT-5P Horno de Conveccion Torey",
       "refacciones": "https://torrey.net/data/documents/9l71evl/VQmBs0eYfBbDDkMOJTNHJPOareEBslr5T9gFbyd36FHZEIVMqU",
@@ -3214,7 +3538,6 @@
       "categoria": "Horno de Conveecion",
       "credito_disponible": true
     },
-
     "HCAV-0.6": {
       "nombre": "HCAV-0.6 Horno de Convección Torrey",
       "refacciones": "https://torrey.net/data/documents/z5xq772/e1TWIkpqA0xbO4NH7KZpWMBLAgHvQJA34pwCBqsOzU61oiHTfO",
@@ -3229,7 +3552,6 @@
       "categoria": "Horno de Convección",
       "credito_disponible": true
     },
-
     "DIVISOR037": {
       "nombre": "---------------PRENSA Y FORMADORES---------------------",
       "refacciones": "",
@@ -3244,9 +3566,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_28": "0000000_______PRENSA Y FORMADORES________0000000000",
-
     "PMP-18": {
       "nombre": "PMP-18 Prensa y Formador Torrey",
       "refacciones": "https://torrey.net/data/documents/y56p7ml/oGxSrgqzBbGZUrd7sitnA4PrHA5PfQ3fli0Ti8K6JWJcrd0x7w",
@@ -3261,7 +3581,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "FMA-08": {
       "nombre": "FMA-08 Prensa y Formador Torrey",
       "refacciones": "null",
@@ -3276,7 +3595,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "FHA-15": {
       "nombre": "FHA-15 Prensa y Formador Torrey",
       "refacciones": "",
@@ -3291,9 +3609,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_29": "0000000_______KAMADO________0000000000",
-
     "HKC-21R/N": {
       "nombre": "HKC-21R/N Kamado Torrey",
       "refacciones": "https://torrey.net/data/documents/3lqp185/fEy4tBRX2FTshlwbt2QcTYT5Gu86TT31RNohQEQD3ktqqhqBFw",
@@ -3308,7 +3624,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "HKC-26R/N": {
       "nombre": "HKC-26R/N Kamado Torrey",
       "refacciones": "https://torrey.net/data/documents/y56pkdl/bs2YnjnvuTnh2rZkyo0r5fnYU3Lr0EdY65qXZGhnz7NjWxrqjc",
@@ -3323,7 +3638,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR062": {
       "nombre": "----------------VITRINAS CALIENTES -FULL GLASS----------------",
       "refacciones": "",
@@ -3338,9 +3652,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_30": "0000000_______VITRINAS CALIENTES________0000000000",
-
     "VC-92/136": {
       "nombre": "VC-92/136 Vitrinas Calientes Torrey",
       "refacciones": "https://torrey.net/data/documents/xl9d320/FkmV3foK0PY1o0b2t573k9cRIxVYxDk3tLXsU2lvipG35sx89G",
@@ -3355,7 +3667,6 @@
       "categoria": "Horno de Conveecion",
       "credito_disponible": true
     },
-
     "VCG-46/97": {
       "nombre": "VCG-46/97 Vitrinas Calientes Torrey",
       "refacciones": "https://torrey.net/data/documents/3lmk372/bupBxQUmEx72FxaAQQJKv69NXr7PFdeFNUZBjubbPYDgzOpEl5",
@@ -3370,7 +3681,6 @@
       "categoria": "Horno de Convección",
       "credito_disponible": true
     },
-
     "DIVISOR040": {
       "nombre": "----------------------VITRINAS FRÍAS -FULL GLASS--------------------",
       "refacciones": "",
@@ -3385,9 +3695,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_31": "0000000_______VITRINAS FRÍAS ________0000000000",
-
     "VF-68/100": {
       "nombre": "VF-68/100 VERIFICADO Vitrinas Frías Torrey",
       "refacciones": "https://torrey.net/data/documents/9l7rp5j/1InmKMn87GIzLeLlzAAQEK03RAV7mF4imHNgEEiMCwYCzrUT2U",
@@ -3402,7 +3710,6 @@
       "categoria": "Vitrinas Frías",
       "credito_disponible": true
     },
-
     "VFG-120C": {
       "nombre": "VFG-120C Vitrinas Frías Torrey",
       "refacciones": "https://torrey.net/data/documents/y56jpdl/Y8CF0ClrPWmThU8wF77H9C4FUqDisH6uiaO1Bk9ItWwyikOgVq",
@@ -3417,7 +3724,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VFG-120R2": {
       "nombre": "VFG-120R2 Vitrinas Frías Torrey",
       "refacciones": "https://torrey.net/data/documents/354jk35/X3gpzjmEelnV0J4xJeP1BezVcA1p2b8tDrv5UHVoUtHDIqoO9h",
@@ -3432,7 +3738,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VFG-150R2": {
       "nombre": "VFG-150R2 Vitrinas Frías Torrey",
       "refacciones": "https://torrey.net/data/documents/x5jqk0l/62NE2768W3AhU4aIca24OJQZcB0k4i6HTNuJfsk0zN6Rmx082o",
@@ -3447,7 +3752,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR041": {
       "nombre": "------------------VITRINAS TRAMO ABIERTO---------------------",
       "refacciones": "",
@@ -3462,9 +3766,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_32": "0000000_______VITRINAS TRAMO ABIERTO________0000000000",
-
     "VRA05": {
       "nombre": "VRA05 Vitrinas Tramo Abierto Torrey",
       "refacciones": "https://torrey.net/data/documents/3lqzk6l/tlNs3cn1fTDysQ3p3Ob5W5CnT2h8mKADfVybtpTE6IxFyUyhfV",
@@ -3479,7 +3781,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VRA23": {
       "nombre": "VRA23 Vitrinas Tramo Abierto Torrey",
       "refacciones": "https://torrey.net/data/documents/85ywg4l/pTpP6hzZS0mwSA6Tlbitrrd6SRNka40bBoPUeoFcH79rCfhbZg",
@@ -3494,7 +3795,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR042": {
       "nombre": "------------------VITRINAS EXHIBIDORAS DRD----------------------",
       "refacciones": "",
@@ -3509,9 +3809,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_33": "0000000_______VITRINAS EXHIBIDORAS DRD________0000000000",
-
     "DRD3-B": {
       "nombre": "DRD3-B Vitrinas exhibidoras DRD",
       "refacciones": "https://torrey.net/data/documents/j28nrp2/41tARywLGCHkmopra9MXG7qIYZRTLXvJf9YafM0NqTtJMGSERo",
@@ -3526,7 +3824,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "DRD3-N": {
       "nombre": "DRD3-B Vitrinas exhibidoras DRD",
       "refacciones": "https://torrey.net/data/documents/j28nrp2/41tARywLGCHkmopra9MXG7qIYZRTLXvJf9YafM0NqTtJMGSERo",
@@ -3541,7 +3838,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "DRD3-AI": {
       "nombre": "DRD3-B Vitrinas exhibidoras DRD",
       "refacciones": "https://torrey.net/data/documents/j28nrp2/41tARywLGCHkmopra9MXG7qIYZRTLXvJf9YafM0NqTtJMGSERo",
@@ -3556,7 +3852,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "DRD5-B": {
       "nombre": "DRD5-B Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/0l0zxo5/dubm4AH4UIT8GspMNZxBTwo5K2OlNngjcUa9OV4hpgTnOhM2nX",
@@ -3571,7 +3866,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD5-N": {
       "nombre": "DRD5-N Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/0l0zxo5/dubm4AH4UIT8GspMNZxBTwo5K2OlNngjcUa9OV4hpgTnOhM2nX",
@@ -3586,7 +3880,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD5-AI": {
       "nombre": "DRD5-AI Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/0l0zxo5/dubm4AH4UIT8GspMNZxBTwo5K2OlNngjcUa9OV4hpgTnOhM2nX",
@@ -3601,7 +3894,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD6-B": {
       "nombre": "DRD6-B Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/r2ge9o5/sRPscEvobXd0g4RtuSuZJz30nuIz3Q60Lzm2pEJnAzyjeVvfNm",
@@ -3616,7 +3908,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD6-N": {
       "nombre": "DRD6-B Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/r2ge9o5/sRPscEvobXd0g4RtuSuZJz30nuIz3Q60Lzm2pEJnAzyjeVvfNm",
@@ -3631,7 +3922,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD6-AI": {
       "nombre": "DRD6-B Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/r2ge9o5/sRPscEvobXd0g4RtuSuZJz30nuIz3Q60Lzm2pEJnAzyjeVvfNm",
@@ -3646,7 +3936,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR043": {
       "nombre": "---------------------VITRINAS EXHIBIDORAS_____DRD LS----------------------",
       "refacciones": "",
@@ -3661,9 +3950,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_1750": "0000000_______VITRINAS EXHIBIDORAS_____DRD LS________0000000000",
-
     "DRD3-LS-B": {
       "nombre": "DRD3-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/m2o7jq5/kLP337XJKdTQriL7y6NqIU3T9LE3TaIRdT2gsUPtxP0Kf9As1c",
@@ -3678,7 +3965,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "DRD3-LS-N": {
       "nombre": "DRD3-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/m2o7jq5/kLP337XJKdTQriL7y6NqIU3T9LE3TaIRdT2gsUPtxP0Kf9As1c",
@@ -3693,7 +3979,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "DRD3-LS-AI": {
       "nombre": "DRD3-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/m2o7jq5/kLP337XJKdTQriL7y6NqIU3T9LE3TaIRdT2gsUPtxP0Kf9As1c",
@@ -3708,7 +3993,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "DRD5-LS-B": {
       "nombre": "DRD5-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/65p9jo2/38QVmWlKPuNVHAa6ExUTDeC5SqKSsl5NI7mMHOhSt0breY6WBC",
@@ -3723,7 +4007,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD5-LS-N": {
       "nombre": "DRD5-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/65p9jo2/38QVmWlKPuNVHAa6ExUTDeC5SqKSsl5NI7mMHOhSt0breY6WBC",
@@ -3738,7 +4021,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD5-LS-AI": {
       "nombre": "DRD5-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/65p9jo2/38QVmWlKPuNVHAa6ExUTDeC5SqKSsl5NI7mMHOhSt0breY6WBC",
@@ -3753,7 +4035,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD6-LS-B": {
       "nombre": "DRD6-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/85yw30l/NRpdE1pqB7R1nzNa3uMVZxtiMibRWC8N0QkYiBDwbBwODs8B8V",
@@ -3768,7 +4049,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD6-LS-N": {
       "nombre": "DRD6-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/85yw30l/NRpdE1pqB7R1nzNa3uMVZxtiMibRWC8N0QkYiBDwbBwODs8B8V",
@@ -3783,7 +4063,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DRD6-LS-AI": {
       "nombre": "DRD6-LS-B Vitrinas exhibidoras DRD LS",
       "refacciones": "https://torrey.net/data/documents/85yw30l/NRpdE1pqB7R1nzNa3uMVZxtiMibRWC8N0QkYiBDwbBwODs8B8V",
@@ -3798,7 +4077,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR044": {
       "nombre": "---------------------VITRINAS EXHIBIDORAS TEM LS---------------------",
       "refacciones": "",
@@ -3813,9 +4091,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_34": "0000000___VITRINAS EXHIBIDORAS TEM LS______0000000",
-
     "TEM100 LS": {
       "nombre": "TEM100 LS Vitrinas exhibidoras TEM LS",
       "refacciones": "https://torrey.net/data/documents/3lmwo92/YpHpZeb7NxslJzrHZHdTlBqpS3929UEFQKMQhecep8y1Cnil9P",
@@ -3830,7 +4106,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM100N LS": {
       "nombre": "TEM100 LS Vitrinas exhibidoras TEM LS",
       "refacciones": "https://torrey.net/data/documents/3lmwo92/YpHpZeb7NxslJzrHZHdTlBqpS3929UEFQKMQhecep8y1Cnil9P",
@@ -3845,7 +4120,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM150 LS": {
       "nombre": "TEM100 LS Vitrinas exhibidoras TEM LS",
       "refacciones": "https://torrey.net/data/documents/y56p47l/BN2Mmt9OSbMfmY4E3zHyQ2PxNVG5SC5Bt3StHzhj28q955IS3P",
@@ -3860,7 +4134,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM150N LS": {
       "nombre": "TEM100 LS Vitrinas exhibidoras TEM LS",
       "refacciones": "https://torrey.net/data/documents/y56p47l/BN2Mmt9OSbMfmY4E3zHyQ2PxNVG5SC5Bt3StHzhj28q955IS3P",
@@ -3875,7 +4148,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM200 LS": {
       "nombre": "TEM200 LS Vitrinas exhibidoras TEM LS",
       "refacciones": "https://torrey.net/data/documents/12e3gy5/Ii1QxDtEIYdOu2jeBg2oWM5p8Xcw6q5LkYKWYb5mYfVsSuXZIN",
@@ -3890,7 +4162,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM200N LS": {
       "nombre": "TEM200 LS Vitrinas exhibidoras TEM LS",
       "refacciones": "https://torrey.net/data/documents/12e3gy5/Ii1QxDtEIYdOu2jeBg2oWM5p8Xcw6q5LkYKWYb5mYfVsSuXZIN",
@@ -3919,9 +4190,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_35": "0000000___VITRINAS EXHIBIDORAS____TEM   NORMALES_____0000000",
-
     "TEM100B R290": {
       "nombre": "TEM100B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/354k1xl/IoffKwtwmwvKxA6lsJ49nxvEviUJkE4FS92TYaaVUwXByUF6nF",
@@ -3936,7 +4205,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "TEM100N R290": {
       "nombre": "TEM100B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/354k1xl/IoffKwtwmwvKxA6lsJ49nxvEviUJkE4FS92TYaaVUwXByUF6nF",
@@ -3951,7 +4219,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "TEM100AI R290": {
       "nombre": "TEM100B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/354k1xl/IoffKwtwmwvKxA6lsJ49nxvEviUJkE4FS92TYaaVUwXByUF6nF",
@@ -3966,7 +4233,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "TEM150B R290": {
       "nombre": "TEM150B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/x2w9e15/4Xn483bbJQl629LsBR6JvTFlwTri0naNUPCXnQiHrYEq5JPlt7",
@@ -3981,7 +4247,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM150N R290": {
       "nombre": "TEM150B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/x2w9e15/4Xn483bbJQl629LsBR6JvTFlwTri0naNUPCXnQiHrYEq5JPlt7",
@@ -3996,7 +4261,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM150AI R290": {
       "nombre": "TEM150B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/x2w9e15/4Xn483bbJQl629LsBR6JvTFlwTri0naNUPCXnQiHrYEq5JPlt7",
@@ -4011,7 +4275,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM200B R290": {
       "nombre": "TEM200B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/e2dpjp2/hmBWARKkMK8GA0xS2uG7R2R39wlsewLkowMiXOm23Bi640C70r",
@@ -4026,7 +4289,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM200N R290": {
       "nombre": "TEM200B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/e2dpjp2/hmBWARKkMK8GA0xS2uG7R2R39wlsewLkowMiXOm23Bi640C70r",
@@ -4041,7 +4303,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEM200AI R290": {
       "nombre": "TEM200B R290 Vitrinas exhibidoras TEM Normales",
       "refacciones": "https://torrey.net/data/documents/e2dpjp2/hmBWARKkMK8GA0xS2uG7R2R39wlsewLkowMiXOm23Bi640C70r",
@@ -4056,7 +4317,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR046": {
       "nombre": "------------------VITRINAS CARNICERAS--------------------",
       "refacciones": "",
@@ -4071,9 +4331,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_36": "0000000___VITRINAS CARNICERAS______0000000",
-
     "TEM200 C": {
       "nombre": "TEM200 C Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/e5vpz45/fb1ypSMEz5OdsebovSaJ86PcPutDA1LUHFDFOIXqZ7bcTJceqg",
@@ -4088,7 +4346,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "TEM200 C AI": {
       "nombre": "TEM200 C Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/e5vpz45/fb1ypSMEz5OdsebovSaJ86PcPutDA1LUHFDFOIXqZ7bcTJceqg",
@@ -4103,7 +4360,6 @@
       "categoria": "Vitrinas exhibidoras DRD",
       "credito_disponible": true
     },
-
     "VTA200": {
       "nombre": "VTA200 Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/q5kn0j5/16ibaIlvmrYrm96ZC2qcYPeeWMFj9gSFQpFAdts5e46bdIjEa8",
@@ -4118,7 +4374,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VCA200-B": {
       "nombre": "VCA200-B Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/z5xqwx2/e4fJpCED0LsstyMiiutify375GOF1kJtwRdpxlHmPUcsFLlL5F",
@@ -4133,7 +4388,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VCA200 N": {
       "nombre": "VCA200-B Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/z5xqwx2/e4fJpCED0LsstyMiiutify375GOF1kJtwRdpxlHmPUcsFLlL5F",
@@ -4148,7 +4402,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VCA200 AI": {
       "nombre": "VCA200-B Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/z5xqwx2/e4fJpCED0LsstyMiiutify375GOF1kJtwRdpxlHmPUcsFLlL5F",
@@ -4163,7 +4416,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VCA250 B": {
       "nombre": "VCA250 B Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/x2w9qm5/oI5A0KU4zAj7p2dmJGL5X22b5cRYBLneXXQI7iEoc8wk7IK7Ct",
@@ -4178,7 +4430,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VCA250 N": {
       "nombre": "VCA250 B Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/x2w9qm5/oI5A0KU4zAj7p2dmJGL5X22b5cRYBLneXXQI7iEoc8wk7IK7Ct",
@@ -4193,7 +4444,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VCA250 AI": {
       "nombre": "VCA250 B Vitrinas Carniceras",
       "refacciones": "https://torrey.net/data/documents/x2w9qm5/oI5A0KU4zAj7p2dmJGL5X22b5cRYBLneXXQI7iEoc8wk7IK7Ct",
@@ -4208,7 +4458,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR047": {
       "nombre": "----------------_VITRINAS CARNICERAS____TEC_--------------------",
       "refacciones": "",
@@ -4223,9 +4472,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_36-1": "0000000___VITRINAS CARNICERAS____TEC_____0000000",
-
     "TEC130": {
       "nombre": "TEC130 Vitrina carnicera exhibidora de 1.3m",
       "refacciones": "https://torrey.net/data/documents/85ywn4l/gwHciDG3jUECjtbWNl8CupDV5outtraGA6Jf6D2OQyhbT4qmP7",
@@ -4240,7 +4487,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEC130-AI": {
       "nombre": "TEC130-AI Vitrina carnicera exhibidora de 1.3m",
       "refacciones": "https://torrey.net/data/documents/z2n0gv5/o1ipMks60wo9Z7tjLCo3QEELSt33OebQLGxSmMLn1HXHxEHJqT",
@@ -4255,7 +4501,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEC250": {
       "nombre": "TEC250 Vitrina carnicera exhibidora de 2.5m",
       "refacciones": "https://torrey.net/data/documents/m2o71g5/nDw7h5UfoSJ0LYT8QDXFVY8ivSqmfpbveqf8hwtAEmDW8bgtE3",
@@ -4270,7 +4515,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEC250-AI": {
       "nombre": "TEC250-AI Vitrina carnicera exhibidora de 2.5m",
       "refacciones": "https://torrey.net/data/documents/rl37pj2/ddSiyRmQma73ChWeJEx2kdb5OsKooQjSvedv3OZLFfISzn9DJK",
@@ -4285,7 +4529,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEC250LIFTL": {
       "nombre": "TEC250LIFTL Vitrina carnicera exhibidora de 2.5m",
       "refacciones": "https://torrey.net/data/documents/65p9m82/RGjbiWU5OgFZlzH5zCcLjlgJeldV5xtZukl6Za6gM8HJ7HDOGQ",
@@ -4300,7 +4543,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEC250LIFT-AI": {
       "nombre": "TEC250LIFT-AI Vitrina carnicera exhibidora de 2.5m",
       "refacciones": "https://torrey.net/data/documents/xl9343l/rGJGnftWZd9TlBnwckRjyOmjJITuU7rZsKLgeakoMCgWqfbrbT",
@@ -4315,7 +4557,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEC250INOX": {
       "nombre": "TEC250INOX Vitrina carnicera exhibidora de 2.5m",
       "refacciones": "https://torrey.net/data/documents/12e34y5/kmNtaJQBiiZyYMeQBFBvqP2ZFrkqiAl9BbXluKP6YgIttPbREk",
@@ -4330,7 +4571,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TEC250LIFT-INOX": {
       "nombre": "TEC250LIFT-INOX Vitrina carnicera exhibidora de 2.5m",
       "refacciones": "https://torrey.net/data/documents/3lmwg92/wJLCBpOhmlCglStiF0MXL2FTsGkZQYX66yCTX1JlD1YWfzn0h1",
@@ -4345,9 +4585,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_37": "0000000___REFRIGERADORES SÓLIDOS - LÍNEA INOX+PLUS______0000000",
-
     "RVSA-23UI": {
       "nombre": "RVSA-23UI Refrigerador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/j28nzm2/WW7A4BFKJA9HI0sCMa34GrIr4thDIYdZBaKVNCqLtSFysOnw5b",
@@ -4362,7 +4600,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "RVSA-47UI": {
       "nombre": "RVSA-47UI VALIDADO Refrigerador Solido Torrey✅",
       "refacciones": "https://torrey.net/data/documents/e2dz6o5/ws1LKcfiEK6JSGuykl2kgsx7lN3lvjFtoSzlI7urAB77S1N0AR",
@@ -4377,7 +4614,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VRC-20-1DS": {
       "nombre": "VRC-20-1DS Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/0l0qod5/6csDxe6yJGMizFyrHN6VuT5XeUXKkOkWa0q289rDYmDDBCsPad",
@@ -4392,7 +4628,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VRC-45-2DS": {
       "nombre": "VRC-45-2DS Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/75zxopl/RbA2jFVBTvaqzSuHoFEZ8Q4Jqv7q7svzCHsflSDPycI3Kq55Kk",
@@ -4407,7 +4642,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR049": {
       "nombre": "-------------CONGELADORES  SÓLIDOS - LÍNEA INOX+PLUS------------------",
       "refacciones": "",
@@ -4422,9 +4656,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_175401": "0000000___CONGELADORES  SÓLIDOS - LÍNEA INOX+PLUS______0000000",
-
     "CVSA-23UI": {
       "nombre": "CVSA-23UI Congelador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/ylr7q12/HNTOZdf3CcY2j2GtcXNB9H550EkMzb7MreCupsHZvqbdKHqmDb",
@@ -4439,7 +4671,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "CVSA-47UI": {
       "nombre": "CVSA-47UI Congelador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/x5jnxel/bIp1aeDvfC6UE1OAtfvtjEe5l3jKxWBksrNVpsVrvcXpGJ8Wbm",
@@ -4454,7 +4685,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "VRF-18-1DS": {
       "nombre": "VRF-18-1DS Congelador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/q5kz1p5/9bFWBpklk9imdmyF8gaJFuUfMIfKqvMbrrY4L5tY1XIcRCz2mD",
@@ -4469,7 +4699,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "VRF-39-2DS": {
       "nombre": "VRF-39-2DS Congelador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/ylr7d42/GJOuTaLWnrHwCxCXR1idckUz6blu2q8dhdCl9XEZGGJ5uHXXmP",
@@ -4484,7 +4713,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "CVCA-23UI": {
       "nombre": "CVCA-23UI Congelador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/r2gej45/cLKEiuIdRhM501f8irlGj2Qsuup35A5HgctFVKjhv1muYn3X2k",
@@ -4499,7 +4727,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CVCA-47UI": {
       "nombre": "CVCA-47UI Congelador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/rl37982/lo4Em9H1lqy3CHqSDzrLpa6TPAWtiadu5vM19KnOBz9vPuI81C",
@@ -4514,7 +4741,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "RVCA-23UI": {
       "nombre": "RVCA-23UI Refrigerador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dpro2/Nne0Ln735fYvnc2SJbLi27lmh8USza7SxOv8BCuKSZsqJnG6NR",
@@ -4529,7 +4755,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "RVCA-47UI": {
       "nombre": "RVCA-47UI Refrigerador Solido Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w9o15/XNXNiIg0hllYeqjglIZv4ATUFmXRC7vHC1XEBocFGSf6lbqgUq",
@@ -4544,7 +4769,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR04911": {
       "nombre": "-------------REFRIGERADORES VERTICALES - LÍNEA INVERTER----------------",
       "refacciones": "",
@@ -4559,9 +4783,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_1754011": "0000000___REFRIGERADORES VERTICALES - LÍNEA INVERTER_____0000000",
-
     "RVI-17": {
       "nombre": "RVI-17 Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/354k8gl/XsItAheYek1EitsAMtXOiKlDkdp8JkKRIulTRajwCapbR14p71",
@@ -4576,7 +4798,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "RVI-35": {
       "nombre": "RVI-35 Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/r2gedd5/XwX8u7bHEmPpfVplm0d4MSSSapALKYfvLKgl0B0cBgfbGF6IaQ",
@@ -4591,9 +4812,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_1755": "0000000___REFRIGERADORES VERTICALES EXHIBIDORES______0000000",
-
     "VRD5AI": {
       "nombre": "VRD5AI Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/ylrpd42/BrkreM9G9uES1dEg18raRB8ZXWBh1D2djSoy6Wg3zSE2xNYGes",
@@ -4608,7 +4827,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VR20": {
       "nombre": "VR20 Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/q5kn9j5/xSnJdfOav0K2VotkPumvlO8eXqIFxiJvw6prrAbIFOUAODIwly",
@@ -4623,7 +4841,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "R36L": {
       "nombre": "R36L Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/65p9r62/YIh8TmaT78SwnkF7Lqw6G4HAi3FkQlCOL2FzCw7J3hc3iL4bdS",
@@ -4638,7 +4855,6 @@
       "categoria": "refrigerador",
       "credito_disponible": true
     },
-
     "R36L-4P": {
       "nombre": "R36L-4P Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/e2dp9q2/pYrNredMQ373uK56R9cbAcCD2Nb7yBWaoJJkXvoj8S8TfIlZkG",
@@ -4653,7 +4869,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VRD42-4P": {
       "nombre": "VRD42-4P Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/85yzpel/mplh1whgDNdYMfAbsx0IxDwkQ7bnf43n8qSnHv3OiFyFdhzQXm",
@@ -4668,7 +4883,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TVC08": {
       "nombre": "TVC08 Refrigerador Torrey Exhibidor-FICHA",
       "refacciones": "https://torrey.net/data/documents/0l0qvr5/YPZUvawy2fikjTSAj9vAlRZV2QIu6HFs6nn28hDPFYzZb6dboB",
@@ -4683,7 +4897,6 @@
       "categoria": "Refrigerador Vertical",
       "credito_disponible": true
     },
-
     "TVC17": {
       "nombre": "TVC17 VERIFICADO Refrigerador Exhibidor Torrey------FICHA-----",
       "refacciones": "https://torrey.net/data/documents/0l0qvr5/YPZUvawy2fikjTSAj9vAlRZV2QIu6HFs6nn28hDPFYzZb6dboB",
@@ -4698,7 +4911,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TVC17-B1": {
       "nombre": "TVC17-B1 VERIFICADO Refrigerador Exhibidor Torrey",
       "refacciones": "https://torrey.net/data/documents/e5vpk85/ci5sVa5yQwt093hUm6ix5Kh64jV0hrF1c8BcjyVGwE2SPMrleE",
@@ -4713,7 +4925,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TVC19": {
       "nombre": "TVC19 VERIFICADO Refrigerador Exhibidor Torrey",
       "refacciones": "https://torrey.net/data/documents/75z00pl/gVWJhHENgSZjFx7t8fJY5jMk9v5sSep1v7sAPA0sUyRRWDeKyp",
@@ -4728,7 +4939,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TVC25": {
       "nombre": "TVC25 VERIFICADO Refrigerador Exhibidor Torrey",
       "refacciones": "https://torrey.net/data/documents/75z00pl/gVWJhHENgSZjFx7t8fJY5jMk9v5sSep1v7sAPA0sUyRRWDeKyp",
@@ -4743,7 +4953,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TVC26": {
       "nombre": "TVC26 VERIFICADO Refrigerador Torrey 2ptas",
       "refacciones": "https://torrey.net/data/documents/y56pn7l/HzBybAoCn6JPzqrplnEJnBOBVxfS2DcwnOAxRang8EfnuPhFmm",
@@ -4758,7 +4967,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TVC42-2P": {
       "nombre": "TVC42-2P Refrigerador Torrey 2ptas",
       "refacciones": "https://torrey.net/data/documents/z5xqnx2/6alJ8iLDfi4ccvajagBZKVErcJQHXw4r5aMYGkJLlrjL46ZG8f",
@@ -4773,7 +4981,6 @@
       "categoria": "refrigerador",
       "credito_disponible": true
     },
-
     "TVC42-3P": {
       "nombre": "TVC42-3P Refrigerador Torrey 3ptas",
       "refacciones": "https://torrey.net/data/documents/z2nx0m5/9Qzt8PwcHuW3WUFBGdjiSwk4JvPMPizsfHEUhllzECumvof1Nn",
@@ -4788,7 +4995,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "G372": {
       "nombre": "G372 Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/x2w6qm5/XK4MZHWvF1B3Zq6zaluF4opPRyVdjVQxMaFxz0AMalpXSwBoAS",
@@ -4803,7 +5009,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TVC36": {
       "nombre": "TVC36 Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/9l7rjr5/FYsTnI6p7f9lG6QkmoxzNNQxcDOyzCT5CjoyjMeZcRpanr1PTe",
@@ -4818,7 +5023,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "TVC36-F4": {
       "nombre": "TVC36-F4 Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/j288zm2/8JHcMHz9zUPb84PgfH3SmxfRke7xuMZCNjxW8YTtjiYpBAXT6M",
@@ -4833,7 +5037,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR049111": {
       "nombre": "------REFRIGERADOR VERTICAL - PUERTA PISO-------------",
       "refacciones": "",
@@ -4848,7 +5051,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "RVPP-19": {
       "nombre": "RVPP-19 Refrigerador Torrey Exhibidor",
       "refacciones": "",
@@ -4863,9 +5065,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_17551": "0000000___REFRIGERADORES VERTICALES EXHIBIDORES______0000000",
-
     "TVC36-": {
       "nombre": "TVC36 Refrigerador Torrey Exhibidor",
       "refacciones": "https://torrey.net/data/documents/9l7rjr5/FYsTnI6p7f9lG6QkmoxzNNQxcDOyzCT5CjoyjMeZcRpanr1PTe",
@@ -4880,7 +5080,6 @@
       "categoria": "refrigerador",
       "credito_disponible": true
     },
-
     "DIVISOR052": {
       "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
@@ -4895,9 +5094,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_1756": "0000000___FÁBRICAS DE HIELO EN CUBO______0000000",
-
     "MHCD-100/238": {
       "nombre": "MHCD-100/238 VERIFICADO Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/z5xpzzl/vfwL0GN6NH4pPS5KO44R1LB8R1zZj2Cxr55ce1SM8WQ5XuhFJW",
@@ -4912,7 +5109,6 @@
       "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
-
     "MHC-230/506 MA": {
       "nombre": "MHC-230/506 MA Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/65p1045/hnTE2dpBcYcj952DWO8uC9oIdBXJefT7DBITHMRLU05QxCc9IE",
@@ -4927,7 +5123,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DH-160/365": {
       "nombre": "DH-160/365 VERIFICADO Dispensador de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w9065/WvBRasMYSs8cnQEMAxFQyPBHif0GMb8soMqyNOr6IePYLGoDHO",
@@ -4942,7 +5137,6 @@
       "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
-
     "MHC-235/517 MA": {
       "nombre": "MHC-235/517 MA Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/85yz9wl/6kloymVEJx2GmWqvFpSxIYM3lKLBGpG3R4PXES6EIkWoXAblmp",
@@ -4957,7 +5151,6 @@
       "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
-
     "DHC-55": {
       "nombre": "DHC-55 VERIFICADO Dispensador de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/v51wxol/ADYCFaLGx3B6Mutpe2KGBFwDQfY3B981prUAvL3Fg0wSXnWccK",
@@ -4972,7 +5165,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MHC-280/625 MA": {
       "nombre": "MHC-280/625 MA Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/354jdg5/qoRx0RcOFmsOpXC7BolbMKVwwIbt4RnZYSS2WODMyNJY43ZnE3",
@@ -4987,7 +5179,6 @@
       "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
-
     "DH-250/556": {
       "nombre": "DH-250/556 Dispensador de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/3lqpng5/qsF81LjGS24vhz17EfElOmE0dyKWDmGVz4RvHYCSJi4XnTcaZr",
@@ -5002,7 +5193,6 @@
       "categoria": "fabrica de hielo",
       "credito_disponible": true
     },
-
     "MHC-320/706 MA": {
       "nombre": "MHC-320/706 MA Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/x5jqrjl/hx5RTvxkqCJX06yFzxzofqWOpLWUMfvYD087MtIuazbOt6VWWV",
@@ -5017,7 +5207,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MHC-500/1109 MA": {
       "nombre": "MHC-500/1109 MA Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/3lqzv9l/6qFbqYP8VfPI2uHXrJW0rKwFJGVcqJz8AvU9TqCnppMAZVXMej",
@@ -5032,7 +5221,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MHC-500/1109 MAR": {
       "nombre": "MHC-500/1109 MAR Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/e5vq3kl/sRsLhsscPTaoa74OSPl7Gyrmt59BXvqKkn5sfBEKTG3aNvQWNN",
@@ -5047,7 +5235,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DH-415/927": {
       "nombre": "DH-415/927 Dispensador de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dp1n2/dS9qkM092CF0k7DsCTqlLGqNdHcQs05BGuAQ13kL1hIiGJo5dE",
@@ -5062,7 +5249,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CR500": {
       "nombre": "CR500 Unidad Remota Fabrica de hielo Torrey",
       "refacciones": "",
@@ -5077,7 +5263,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "KTP-12": {
       "nombre": "KTP-12 kit de tuberia Torrey",
       "refacciones": "",
@@ -5092,7 +5277,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MHC-680/1466 MA": {
       "nombre": "MHC-680/1466 MA Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/v51kogl/TRCMjYu1KuciMDD2QNZQPLj9ZrH43zd5reeMRLkgH6C7DWH7DM",
@@ -5107,7 +5291,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MHC-680/1466 MAR": {
       "nombre": "MHC-680/1466 MAR Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/m2ogwm5/6CqaISTwKlVGXrdQpgp0uCqldFxe8y0Wg42rQcMLxJQ7VdWB4i",
@@ -5122,7 +5305,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CR680": {
       "nombre": "CR680 Unidad Remota Fabrica de hielo Torrey",
       "refacciones": "",
@@ -5137,7 +5319,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MHC-975/2154 MAR": {
       "nombre": "MHC-975/2154 MAR Fabrica de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/65p1d45/2xHxdc2VbZjT9alIPMNgoeALW6qsHBMyWkeFSST5qqEdBL5VFA",
@@ -5152,7 +5333,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CR975": {
       "nombre": "CR975 Unidad Remota Fabrica de hielo Torrey",
       "refacciones": "",
@@ -5167,7 +5347,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "SPA-105": {
       "nombre": "SPA-105 Sistema de Purificación de Agua Torrey",
       "refacciones": "",
@@ -5182,7 +5361,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "divisor0632": {
       "nombre": "----------DISPENSADOR DE HIELO----------",
       "refacciones": "",
@@ -5197,9 +5375,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_17571": "0000000__DISPENSADOR DE HIELO______0000000",
-
     "DHC-80": {
       "nombre": "DHC-80 Dispensador de Hielo Torrey",
       "refacciones": "https://torrey.net/data/documents/65p1n85/wSqIZlKg9ulmNrAmJvYNTN5CqUwHo8fUqQV6uc4ZDtw3JOQzSy",
@@ -5214,7 +5390,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "divisor0631": {
       "nombre": "----------FÁBRICAS DE HIELO FRAPPÉ----------",
       "refacciones": "",
@@ -5229,9 +5404,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_1757112": "0000000__FÁBRICAS DE HIELO FRAPPÉ______0000000",
-
     "MHF-230/506": {
       "nombre": "MHF-230/506 Fábrica de Hielo Frappé Torrey",
       "refacciones": "https://torrey.net/data/documents/3543y29/7TEJcwTNWCROekGwxtSIMcSIuZy16Z2VHYpKF8HbjdgmsozV7S",
@@ -5246,7 +5419,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "T-19": {
       "nombre": "T-19 TAPA HIELO FRAPPE",
       "refacciones": "",
@@ -5261,7 +5433,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MHF-340/750": {
       "nombre": "MHF-340/750 Fábrica de Hielo Frappé Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w6dd5/cOP3LhwF4Dhpnj3erAUQl1mVfCTSXTaVbHdJjqiPbTxHQBb7Ut",
@@ -5276,7 +5447,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MHF-550/1210": {
       "nombre": "MHF-550/1210 Fábrica de Hielo Frappé Torrey",
       "refacciones": "https://torrey.net/data/documents/v51kvgl/hsIJbgaFqqaEcIagcpZok5PpCUh8uaJ0698aq1GNFCBVtSrrtK",
@@ -5291,7 +5461,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "divisor063": {
       "nombre": "----------FÁBRICA DE HIELO POLAR----------",
       "refacciones": "",
@@ -5306,9 +5475,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_175711": "0000000__FÁBRICA DE HIELO POLAR______0000000",
-
     "FH-25": {
       "nombre": "FH-25 Fábrica de Hielo Polar Torrey",
       "refacciones": "https://torrey.net/data/documents/m2oegl3/lBNO2ZoC6YQDVT9pLlM26o5vWt1tjkF3o13QsyWecmo1BkEBYD",
@@ -5323,7 +5490,6 @@
       "categoria": "fabrica de hielo polar",
       "credito_disponible": true
     },
-
     "FH-55": {
       "nombre": "FH-55 Fábrica de Hielo Polar Torrey",
       "refacciones": "https://torrey.net/data/documents/y56675r/Y2mQROaiMPZekFd5UjBP9pKhYqcg7dTPJezjUtccGALce5l8aS",
@@ -5338,7 +5504,6 @@
       "categoria": "fabrica de hielo polar",
       "credito_disponible": true
     },
-
     "FH-160": {
       "nombre": "FH-160 Fábrica de Hielo Polar Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w9965/28j3j8kTcymdlJmHYyHYmwbGfnVzXoTOKkRSSAMF7QIVFakeIE",
@@ -5353,7 +5518,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DHP-130": {
       "nombre": "DHP-130 Dispensador de Hielo Polar Torrey",
       "refacciones": "",
@@ -5368,7 +5532,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "FH-260": {
       "nombre": "FH-260 Fábrica de Hielo Polar Torrey",
       "refacciones": "https://torrey.net/data/documents/r2geez5/SxGjlo8Y8EZnZwZY6nsnKwgJyvO3SEBqAGs55GFUEiMbtLgeVp",
@@ -5383,7 +5546,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DHP-150": {
       "nombre": "DHP-150 Dispensador de Hielo Polar Torrey",
       "refacciones": "",
@@ -5398,7 +5560,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR054": {
       "nombre": "----------------------LAVAVAJILLAS---------------------",
       "refacciones": "",
@@ -5413,9 +5574,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_1757": "0000000___LAVAVAJILLAS______0000000",
-
     "LV-300": {
       "nombre": "LV-300 VERIFICADO Lavavajillas Torrey",
       "refacciones": "https://torrey.net/data/documents/j2888k2/1J15AhN4b1h1W9G72R1Nlf81cYnfr9sk8JJ3M1DuDh6d8RKWwE",
@@ -5430,7 +5589,6 @@
       "categoria": "lavavajillas",
       "credito_disponible": true
     },
-
     "LV-500": {
       "nombre": "LV-500 VERIFICADO Lavavajillas Torrey",
       "refacciones": "https://torrey.net/data/documents/x5jkk0l/BzEVAzUAEoPd9jC6cx9sTOE4DPgRaDPjXRtnh2LPQYMR190rxO",
@@ -5445,7 +5603,6 @@
       "categoria": "lavavajillas",
       "credito_disponible": true
     },
-
     "LV-500C": {
       "nombre": "LV-500C VERIFICADO Lavavajillas Torrey",
       "refacciones": "https://torrey.net/data/documents/ylrpp42/ErL1FwRdXE2uvlriAHuJpla9sOpC5ZVGbcfDnk4Ls2mZCWjLp1",
@@ -5460,7 +5617,6 @@
       "categoria": "lavavajillas",
       "credito_disponible": true
     },
-
     "LV-950C": {
       "nombre": "LV-950C VERIFICADO Lavavajillas Torrey",
       "refacciones": "https://torrey.net/data/documents/e2dppn2/g608Y8d3NNUPprU7NO2Pl1DWLjuPEbq4sifstOnPgJ7mC3YkUO",
@@ -5475,7 +5631,6 @@
       "categoria": "lavavajillas",
       "credito_disponible": true
     },
-
     "LV-1800": {
       "nombre": "LV-1800 VERIFICADO Lavavajillas Torrey",
       "refacciones": "",
@@ -5490,7 +5645,6 @@
       "categoria": "lavavajillas",
       "credito_disponible": true
     },
-
     "DIVISOR055": {
       "nombre": "---------------------MESAS FRÍAS DE PREPARACIÓN---------------------",
       "refacciones": "",
@@ -5505,9 +5659,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_1758": "0000000___MESAS FRÍAS DE PREPARACIÓN______0000000",
-
     "UBT01": {
       "nombre": "UBT01 Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/x5jke0l/s69ZiHayavUqwRq5lu9dymzlhVLPMcjeoWbGP6JCfIkFaquBu3",
@@ -5522,7 +5674,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PTP01": {
       "nombre": "PTP01 Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/e5vprk5/ga4eH7Ch45dFhgQLGrNVHra6God9ypo2X8XUzqnBMadgd9bCxC",
@@ -5537,7 +5688,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PTP11": {
       "nombre": "PTP11 Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/v51wggl/VaPDk5o7cP4X5bJU1l4J9th1ZQv7ojKj3Bk8r2VrtElg1OFmuy",
@@ -5552,7 +5702,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PTP21": {
       "nombre": "PTP21 Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/3lmwdo2/frWoxfuvUKbPUshCI8UhI3estRmH72WvlPR3M8DlzwRGV9M8lm",
@@ -5567,7 +5716,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PPT67-11R1S": {
       "nombre": "PPT67-11R1S Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/xl9pw32/nleYcl8uS7AIworGXPrWvURb6McdHbHlL89TNsoDKYFXmEWg4y",
@@ -5582,7 +5730,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PPT67-21R1S": {
       "nombre": "PPT67-21R1S Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/y56747l/4cWcQ3xTpDh58Az4cvyuvi8Z45qwgiq6xSWNyB5sXFRPod5Piy",
@@ -5597,7 +5744,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "PPT24-01R1S": {
       "nombre": "PPT24-01R1S Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/12e3ve5/qGxiwDVNaFw3E7uAWcyPmvwaeI57RsEBziIWtSUUAMfxYvbLkP",
@@ -5612,7 +5758,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MFS-27": {
       "nombre": "----------------------DIVISOR----------------------",
       "refacciones": "",
@@ -5627,7 +5772,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MFS-48": {
       "nombre": "MFS-48 Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/3lmwwq2/rDVnlOoN2Bd86MIZr5MzpZGqFZxYfaNjYL5xdBM3z3mOLPDN3A",
@@ -5642,7 +5786,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MFB-27": {
       "nombre": "MFB-27 Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/9l78jr2/cC0woR4GkyqKHFFRtvy5aVDZPFYq1jF1fCzeD5n2S3aPZ9qTDH",
@@ -5657,7 +5800,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MFB-48": {
       "nombre": "MFB-48 Mesa Fría de Preparación Torrey",
       "refacciones": "https://torrey.net/data/documents/354x6x2/J7YWvfiNUwVUGrOlwplqnsgfhamvhy9CF316V8Dd8OjwJZiT4p",
@@ -5672,7 +5814,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR0571": {
       "nombre": "------------------CONGELADORES VERTICALES------------------",
       "refacciones": "",
@@ -5687,7 +5828,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR057": {
       "nombre": "-------------------CONGELADORES VERTICALES-------------------",
       "refacciones": "",
@@ -5702,10 +5842,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_1759": "0000000___CONGELADORES VERTICALES______0000000",
-
-
     "TVF32-F2": {
       "nombre": "Congelador Torrey 32 pies",
       "refacciones": "https://torrey.net/data/documents/12e31e5/IRyi3vmacBw7ggNFWaafUf2Z9FYcDD7IMj2KEUuOsRmtiY7Jxk",
@@ -5720,11 +5857,6 @@
       "categoria": "congelador Vertical",
       "credito_disponible": true
     },
-
-
-
-
-
     "CV16": {
       "nombre": "CV16 Congelador Vertical Torrey",
       "refacciones": "https://torrey.net/data/documents/z5xpnxl/KqRTF2UBgyk2q7RgsL9hia3NW5udidgPFijsJUXObq5H2z4eGy",
@@ -5739,7 +5871,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "CV32": {
       "nombre": "Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/12e31e5/IRyi3vmacBw7ggNFWaafUf2Z9FYcDD7IMj2KEUuOsRmtiY7Jxk",
@@ -5754,7 +5885,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "CVSB-17D": {
       "nombre": "CVSB-17D Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/x2w8g12/BKO63hHbUdtnamQSAdDBVpkOTSKImCEzAx6LIC2T4kHh7x1JHg",
@@ -5769,7 +5899,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CVSN-17D": {
       "nombre": "CVSN-17D Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/x2w8g12/BKO63hHbUdtnamQSAdDBVpkOTSKImCEzAx6LIC2T4kHh7x1JHg",
@@ -5784,7 +5913,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR058": {
       "nombre": "--------------------CONGELADORES HORIZONTALES TORREY---------------------",
       "refacciones": "",
@@ -5799,9 +5927,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_18": "0000000________CONGELADORES HORIZONTALES TORREY___________0000000000",
-
     "CHTC-55D": {
       "nombre": "CHTC-55D VERIFICADO Congelador Horizontal Torrey",
       "refacciones": "https://torrey.net/data/documents/rl378y2/pbL6y3WbgYK3wHuMw1i3syoWu0xKhylGUxTsY6nQGsDqjRXReO",
@@ -5816,7 +5942,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "CHTC-75D": {
       "nombre": "Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/m2o73m5/gdb7xA788sfkmoZENnrNWJSAGxjtM4J2wvrBHPtoKxta6R3uQL",
@@ -5831,7 +5956,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CHTC-115D": {
       "nombre": "Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/y56p8yl/q8yjfjfSZoJpotk8x1IBAfMLRNUIetoMtqIjubLh9DqfQjgZG9",
@@ -5846,7 +5970,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CHTC-145D": {
       "nombre": "Báscula Torrey 40kg",
       "refacciones": "https://torrey.net/data/documents/65p9o42/ontfvslLE7kr0euI48i8sCd3ut5f5035E0guAJEOk9e4jMDZ1l",
@@ -5861,7 +5984,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CHTC-255D": {
       "nombre": "CHTC-255D VERIFICADO Congelador Torrey 25 Pies",
       "refacciones": "https://torrey.net/data/documents/rl37zy2/M3Dsz2h3Me8IEjeskjTmUN7PTAxKh3J1dtvcCVEwq9oFYiKfmG",
@@ -5876,7 +5998,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR059": {
       "nombre": "---------------------CONGELADORES HORIZONTALES POLAR--------------------",
       "refacciones": "",
@@ -5891,9 +6012,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_201234": "0000000________CONGELADORES HORIZONTALES POLAR___________0000000000",
-
     "CH-76A": {
       "nombre": "Congelador Polar 9 pies",
       "refacciones": "https://torrey.net/data/documents/r2geq35/N7xa4ctLXrwSSA32Yq8FapRlRMYGqC3t3fk87J9aGSa5bkLA6Z",
@@ -5908,7 +6027,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CH-106A": {
       "nombre": "CH-106A VERIFICADO Congelador Polar 9 pies",
       "refacciones": "https://torrey.net/data/documents/rl377q2/lAJ2U2ntAuuvIWDH0UsN0C1YTcN6eDv187gaOH0HoMeKtUeDMf",
@@ -5923,7 +6041,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CH-156A": {
       "nombre": "CH-156A Congelador Polar 15 pies",
       "refacciones": "https://torrey.net/data/documents/3lmw1o2/fC1ZUNRJnDyiyfQ9slH3ivdNC3pcbDlvPGoT0SlcIoW2T7ZqwP",
@@ -5938,7 +6055,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "CH-256A": {
       "nombre": "CH-256A Congelador Polar 25 pies",
       "refacciones": "https://torrey.net/data/documents/v51w8gl/6LZkAYIYBRtvVBG5tmVjfTKOJPFLKaQHJQ0ubfrMcnEuAeOz5g",
@@ -5953,7 +6069,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "DIVISOR060": {
       "nombre": "-----CONGELADORES HORIZONTALES TAPA CRISTAL CURVO POLAR-----------",
       "refacciones": "",
@@ -5968,9 +6083,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_2923": "000000_____CONGELADORES HORIZONTALES TAPA CRISTAL CURVO POLAR__________00000",
-
     "CH-200CR": {
       "nombre": "CH-200CR Verificado Congelador Polar Tapa Cristal ",
       "refacciones": "https://torrey.net/data/documents/x2w9d15/Xf7paqaBq5w0nzuH6tlXtelPk1Q1htGHimt2yduM8vel2UXKXI",
@@ -5986,7 +6099,6 @@
       "credito_atrato_url": "https://app.atratopago.com/v3/accounts/formulario?com=2193&suc=4679&advisorId=5417&origin=link",
       "credito_disponible": true
     },
-
     "CH-300CR": {
       "nombre": "CH-300CR Congelador Polar Tapa Cristal ",
       "refacciones": "https://torrey.net/data/documents/y56p6yl/GmQQjgal2blvbOBPoGv0Qo08J3MeeV0xzVphvQPVV8ENGMrjbB",
@@ -6002,7 +6114,6 @@
       "credito_atrato_url": "https://app.atratopago.com/v3/accounts/formulario?com=2193&suc=4679&advisorId=5417&origin=link",
       "credito_disponible": true
     },
-
     "CH-200PR": {
       "nombre": "CH-200PR Congelador Polar Tapa Cristal ",
       "refacciones": "https://torrey.net/data/documents/e5vpm85/94kfvenmkFK9Z2HwWQigW9OKGPLiVMp4A7c3JsExiOZXNuEvew",
@@ -6017,7 +6128,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CH-300PR": {
       "nombre": "CH-300PR Congelador Polar Tapa Cristal ",
       "refacciones": "https://torrey.net/data/documents/xl93e8l/rm969qzbxNV7TSQZ6WJom3hLtRJScnJhcBKKLODiwV6Y05udDM",
@@ -6032,7 +6142,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR0613": {
       "nombre": "------CONGELADORES TAPA DE CRISTAL CURVO TORREY---------------",
       "refacciones": "",
@@ -6047,9 +6156,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_2122": "0000____CONGELADORES HORIZONTALES TAPA DE CRISTAL CURVO__________00000",
-
     "CHC-80CR": {
       "nombre": "CHC-80CR Congelador Polar Tapa Cristal Curvo",
       "refacciones": "https://torrey.net/data/documents/65p16n5/aQ6INbAgx0cZrbB14BTxHerXZMw1jhCPoohwg3Yo7BN4Uji4NE",
@@ -6064,7 +6171,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CHC-110CR": {
       "nombre": "CHC-110CR Congelador Polar Tapa Cristal Curvo",
       "refacciones": "https://torrey.net/data/documents/85yzypl/RT34gqaiigLceMfVpBpm7VqNrOPMv8UVWzzCnSkoxrQ9tWeFSZ",
@@ -6079,7 +6185,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CHC-180CR": {
       "nombre": "CHC-180CR Congelador Polar Tapa Cristal Curvo",
       "refacciones": "https://torrey.net/data/documents/ylrre1l/iKpEhgDVuqC8dkw26C2eYwSboV6ye87LZX4AlzXB6ss5j3tM6b",
@@ -6094,7 +6199,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "DIVISOR0614": {
       "nombre": "------CONGELADORES TAPA DE CRISTAL PLANO TORREY---------------",
       "refacciones": "",
@@ -6109,9 +6213,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_212235": "0000____CONGELADORES HORIZONTALES TAPA DE CRISTAL PLANO__________00000",
-
     "CHC-80PR": {
       "nombre": "CHC-80PR Congelador Polar Tapa Cristal Plano",
       "refacciones": "https://torrey.net/data/documents/z5x9e15/h8eakR9JE5TG6rPShJK46nTXakYC56I6252t5iAxL7OlcBJLDl",
@@ -6126,7 +6228,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CHC-110PR": {
       "nombre": "CHC-110PR Congelador Polar Tapa Cristal Plano",
       "refacciones": "https://torrey.net/data/documents/z2nr785/q5fEh8T5jtZ4aEwmjvyqAFwLpsdXUezSShlvXEuy63vUkrpY1f",
@@ -6141,7 +6242,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CHC-180PR": {
       "nombre": "CHC-180PR Congelador Polar Tapa Cristal Plano",
       "refacciones": "https://torrey.net/data/documents/e2d94ol/iyfqNZ0i96mqejYi1eNPahdgTtEKDJdRa9O4evGqY1LbPoSueU",
@@ -6156,7 +6256,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR061": {
       "nombre": "------ISLAS DE EXHIBICIÓN---------------",
       "refacciones": "",
@@ -6171,9 +6270,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_212239": "0000____ISLAS DE EXHIBICIÓN__________00000",
-
     "IEDI-250": {
       "nombre": "IEDI-250 Isla de Exhibición Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w9405/w9gYjBbFs6FuMhPNMvnhjJr1pjl3vqdAn6HehOrQVGgQL98re5",
@@ -6188,7 +6285,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "IEDI-200": {
       "nombre": "IEDI-200 Isla de Exhibición Torrey",
       "refacciones": "https://torrey.net/data/documents/x2w9465/YWq0LMDCLajqnOjkmmTn1BGfGT7pG6RiPCpSnE51mUIAe6fHTK",
@@ -6202,12 +6298,16 @@
       "marca": "Torrey",
       "categoria": "báscula",
       "equivalencias": {
-        "planta": ["CIIEDT12002", "modelo-planta-2"],
-        "local": ["IEDI-200"]
+        "planta": [
+          "CIIEDT12002",
+          "modelo-planta-2"
+        ],
+        "local": [
+          "IEDI-200"
+        ]
       },
       "credito_disponible": true
     },
-
     "IEDI-190": {
       "nombre": "IEDI-190 Isla de Exhibición Torrey",
       "refacciones": "https://torrey.net/data/documents/j288mk2/WxpW6hYbOkq9ZkH1vOCVIr0EGvIuhd7qIDMd5vvblxAS7ZU2ue",
@@ -6222,7 +6322,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR0619": {
       "nombre": "------------CÁMARAS PAQUETE---------------",
       "refacciones": "",
@@ -6237,9 +6336,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_21223": "0000_______________CÁMARAS PAQUETE______________00000",
-
     "CPAQREF": {
       "nombre": "CPAQREF Paquete de Cámaras Torrey",
       "refacciones": "https://torrey.net/data/documents/65pxm82/GHdyD1Kw7FJ7LW94CEoO2ajfwOL3J8p1mxw5GanYnT6T8VwJuF",
@@ -6254,7 +6351,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "CPAQMCONG": {
       "nombre": "CPAQMCONG Paquete de Cámaras Torrey con Congelador",
       "refacciones": "https://torrey.net/data/documents/12endy2/rwO3Zni4mKxs5exZq2nuVz83JYEqg1bCXx2YiQyCvFzedxBGJm",
@@ -6289,7 +6385,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR061915": {
       "nombre": "------------CAJA REGISTRADORA---------------",
       "refacciones": "",
@@ -6304,9 +6399,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_2122315": "0000_______________CAJA REGISTRADORA______________00000",
-
     "ER-200": {
       "nombre": "ER-200 Caja Registradora Torrey",
       "refacciones": "https://torrey.net/data/documents/75zgjr2/uGkqpczedQC5dFdph6nDTcowogJZrZofgQJU9WrzQLOrecPIFW",
@@ -6324,7 +6417,6 @@
       "categoria": "congelador",
       "credito_disponible": true
     },
-
     "DIVISOR0619159": {
       "nombre": "------------MESA DE ACERO INOXIDABLE---------------",
       "refacciones": "",
@@ -6339,9 +6431,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_21223159": "0000_______________MESA DE ACERO INOXIDABLE______________00000",
-
     "EMT4 AI TOR": {
       "nombre": "EMT4 AI TOR Mesa de Acero Inoxidable",
       "refacciones": "No disponible",
@@ -6356,7 +6446,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "EMT5 AI TOR": {
       "nombre": "EMT5 AI TOR Mesa de Acero Inoxidable",
       "refacciones": "No disponible",
@@ -6371,7 +6460,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MAIR 24x60": {
       "nombre": "MAIR 24x60 Mesa de Acero Inoxidable",
       "refacciones": "No disponible",
@@ -6386,7 +6474,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "MAI 24x72": {
       "nombre": "MAI 24x72 Mesa de Acero Inoxidable",
       "refacciones": "No disponible",
@@ -6401,7 +6488,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "DIVISOR06191591": {
       "nombre": "--------------------------REPISAS-------------------------",
       "refacciones": "",
@@ -6416,9 +6502,7 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_212": "0000____________________REPISAS_________________00000",
-
     "REP-90": {
       "nombre": "REP-90 Repisa Torrey",
       "refacciones": "No disponible",
@@ -6433,7 +6517,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "_LINEA_212456": "0000____________________IMBERA_________________00000",
     "DIVISOR0619159112": {
       "nombre": "--------------------------IMBERA-------------------------",
@@ -6449,7 +6532,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "VR04D": {
       "nombre": "VR04D Enfriador Vertical Imbera",
       "refacciones": "No disponible",
@@ -6464,7 +6546,6 @@
       "categoria": "refrigerador vertical Imbera",
       "credito_disponible": true
     },
-
     "VR09": {
       "nombre": "VR09 Enfriador Vertical Imbera",
       "refacciones": "No disponible",
@@ -6479,7 +6560,6 @@
       "categoria": "refrigerador vertical Imbera",
       "credito_disponible": true
     },
-
     "REP-140": {
       "nombre": "REP-140 Repisa Torrey",
       "refacciones": "No disponible",
@@ -6494,7 +6574,6 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
-
     "XYZ123": {
       "nombre": "Otro Producto",
       "manual": "https://example.com/manual_XYZ123.pdf",
