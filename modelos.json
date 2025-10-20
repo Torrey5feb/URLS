@@ -5943,7 +5943,7 @@
       "credito_disponible": true
     },
     "CHTC-75D": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "CHTC-75D VERIFICADO Congelador Horizontal Torrey ----FICHA---",
       "refacciones": "https://torrey.net/data/documents/m2o73m5/gdb7xA788sfkmoZENnrNWJSAGxjtM4J2wvrBHPtoKxta6R3uQL",
       "manual": "https://torrey.net/data/documents/3lmkpo2/hlh5PrWcaAzaXLAuzB84HsGgcyfSwKOag5oMLIZKVuZ0VCNUdl",
       "ficha_tecnica": "https://torrey.net/data/documents/x2w9rd5/0wjKk8IiIQ92yOZcdUyUfHa8OyCm0At0yRLrpsOzKmYJtCE9eW",
@@ -5953,21 +5953,21 @@
       "ancho": "0.8",
       "precio": "12000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Congelador Horizontal",
       "credito_disponible": true
     },
     "CHTC-115D": {
-      "nombre": "Báscula Torrey 40kg",
+      "nombre": "CHTC-115D VERIFICADO Congelador Horizontal Torrey ----FICHA---",
       "refacciones": "https://torrey.net/data/documents/y56p8yl/q8yjfjfSZoJpotk8x1IBAfMLRNUIetoMtqIjubLh9DqfQjgZG9",
       "manual": "https://torrey.net/data/documents/rl3kzy5/PFjs7rVb94mQNuiHP93ej8lt012VhsJibtuPx0PUelseNvGqqU",
       "ficha_tecnica": "https://torrey.net/data/documents/j288pj2/xzZVPnH1x6oQT1lYA5AfgeD3XAoQu7zcrTbVpwfeCRuEkCmQup",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "",
+      "peso": "65",
+      "alto": "1.0",
+      "largo": "1.20",
+      "ancho": "0.8",
+      "precio": "16000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Congelador Horizontal",
       "credito_disponible": true
     },
     "CHTC-145D": {
