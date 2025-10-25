@@ -4333,7 +4333,7 @@
     },
     "_LINEA_36": "0000000___VITRINAS CARNICERAS______0000000",
     "TEM200 C": {
-      "nombre": "TEM200 C Vitrinas Carniceras",
+      "nombre": "TEM200 C Vitrinas Carniceras ------FICHA-------",
       "refacciones": "https://torrey.net/data/documents/e5vpz45/fb1ypSMEz5OdsebovSaJ86PcPutDA1LUHFDFOIXqZ7bcTJceqg",
       "manual": "https://torrey.net/data/documents/ylrpe32/jZk91xl0MH74CLTB3tqDzDB4ybE7h1TL2Uhi5M53V1KzqgRNsw",
       "ficha_tecnica": "https://torrey.net/data/documents/354kyel/JNBQDFRhhL2iWCS3yYbM5a4m6JnWreShAvqXfXjgY4eUu7135m",
@@ -6558,6 +6558,20 @@
       "precio": "20,000",
       "marca": "Imbera",
       "categoria": "refrigerador vertical Imbera",
+      "credito_disponible": true
+    },
+        "CON VFS16": {
+      "nombre": "CON VFS16 Congelador Imbera 16 pies -----FICHA----",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "No disponible",
+      "peso": "125",
+      "alto": "1.95",
+      "largo": "0.8",
+      "ancho": "0.8",
+      "precio": "38,700",
+      "marca": "Imbera",
+      "categoria": "Congelador vertical Imbera",
       "credito_disponible": true
     },
     "REP-140": {
