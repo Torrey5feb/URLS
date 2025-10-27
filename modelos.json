@@ -2534,17 +2534,17 @@
       "credito_disponible": true
     },
     "M-32-5HP": {
-      "nombre": "M-32-5HP Báscula Torrey 40kg",
+      "nombre": "M-32-5HP Molino Torrey 5 HP ------FICHA------",
       "refacciones": "https://torrey.net/data/documents/e5vqppl/F39wKJoai7sUEhk6IF1iwb4cojjbSYoNEzwjSNvTOsows8DET9",
       "manual": "https://torrey.net/data/documents/q5kn3p5/E5AisJKURxhM7rl0abOIf9O8fgPzPzqX8V11UCvPaywCKpfOla",
       "ficha_tecnica": "https://torrey.net/data/documents/xl9p432/UXSJpIa8reMSmrOIFFhK0VkchLpY96G9pU1usRanNYrQB0jYmT",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "precio": "2500",
+      "peso": "160",
+      "alto": "1.5",
+      "largo": "1.5",
+      "ancho": "0.9",
+      "valorDec": "90000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Molino",
       "credito_disponible": true
     },
     "MMX-32": {
