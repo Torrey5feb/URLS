@@ -5951,7 +5951,7 @@
       "alto": "1.0",
       "largo": "1.10",
       "ancho": "0.8",
-      "precio": "12000",
+      "valorDec": "12000",
       "marca": "Torrey",
       "categoria": "Congelador Horizontal",
       "credito_disponible": true
