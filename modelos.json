@@ -5965,7 +5965,7 @@
       "alto": "1.0",
       "largo": "1.20",
       "ancho": "0.8",
-      "precio": "16000",
+      "valorDec": "16000",
       "marca": "Torrey",
       "categoria": "Congelador Horizontal",
       "credito_disponible": true
@@ -5979,7 +5979,7 @@
       "alto": "",
       "largo": "",
       "ancho": "",
-      "precio": "",
+      "valorDec": "",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
