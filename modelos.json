@@ -325,13 +325,13 @@
       "refacciones": "https://torrey.net/data/documents/12e3615/C0q6k6CbofEBdJQVGF05kADPiNwLeAGjSFLXvzSHrOm9Ip4B0Z",
       "manual": "https://torrey.net/data/documents/r2ge335/Tq5iBQdYGVQ4L8wB6HqLL2GXoppIuSu7yEE4kimCmrzPqbqosd",
       "ficha_tecnica": "https://torrey.net/data/documents/xl9pv82/secvgwm8mf5qw8kKB9VdQSAvAxWsIOxpRjHvvVRLjH5jUzlbFd",
-      "peso": "5",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
-      "valorDec": "2500",
+      "peso": "25",
+      "alto": "0.4",
+      "largo": "0.70",
+      "ancho": "0.55",
+      "valorDec": "20000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "báscula Etiquetadora",
       "equivalencias": {
         "planta": [
           "null",
@@ -5937,9 +5937,9 @@
       "alto": "1.0",
       "largo": "0.8",
       "ancho": "0.6",
-      "valorDec": "2500",
+      "valorDec": "10000",
       "marca": "Torrey",
-      "categoria": "congelador",
+      "categoria": "Congelador Horizontal",
       "credito_disponible": true
     },
     "CHTC-75D": {
