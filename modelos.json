@@ -4982,17 +4982,17 @@
       "credito_disponible": true
     },
     "TVC42-3P": {
-      "nombre": "TVC42-3P Refrigerador Torrey 3ptas",
+      "nombre": "TVC42-3P Refrigerador Torrey 3ptas----FICHA-----",
       "refacciones": "https://torrey.net/data/documents/z2nx0m5/9Qzt8PwcHuW3WUFBGdjiSwk4JvPMPizsfHEUhllzECumvof1Nn",
       "manual": "https://torrey.net/data/documents/x2w8862/c5zfhKwLZgRvAsJgEpguF6xA9nDxDq1kEO7GKGqackZiVRfBXQ",
       "ficha_tecnica": "https://torrey.net/data/documents/0l0zko5/I9qAbI6VoKGmZJhLLZHgsN1hw5qiSrnGpApMYPsi9HZ5sB0OlO",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "valorDec": "",
+      "peso": "205",
+      "alto": "2.10",
+      "largo": "1.60",
+      "ancho": "0.80",
+      "valorDec": "55000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Refrigerador Vertical",
       "credito_disponible": true
     },
     "G372": {
