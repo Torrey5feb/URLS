@@ -4940,17 +4940,17 @@
       "credito_disponible": true
     },
     "TVC25": {
-      "nombre": "TVC25 VERIFICADO Refrigerador Exhibidor Torrey",
+      "nombre": "TVC25 VERIFICADO Refrigerador Exhibidor Torrey ------FICHA------",
       "refacciones": "https://torrey.net/data/documents/75z00pl/gVWJhHENgSZjFx7t8fJY5jMk9v5sSep1v7sAPA0sUyRRWDeKyp",
       "manual": "https://torrey.net/data/documents/x2w6rm5/3NAgwGBv7TGW9gXb7gaxGtcHawGYDlP9VteWfF8xwZepsSGnSR",
       "ficha_tecnica": "https://torrey.net/data/documents/j289p05/t7kV6dEEPEQSoTAiTB1aZZHf3rZx0BeH3KhIcaF4DOvO3yyRxJ",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "valorDec": "",
+      "peso": "130",
+      "alto": "2.10",
+      "largo": "0.90",
+      "ancho": "1.0",
+      "valorDec": "36000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Refrigerador Vertical",
       "credito_disponible": true
     },
     "TVC26": {
