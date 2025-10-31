@@ -4592,7 +4592,7 @@
       "manual": "https://torrey.net/data/documents/m2ov0q5/lf4fC51NYfpaz5lAo32m2GE0XgFP6cWulJNt6icpbvNSqjIDBO",
       "ficha_tecnica": "https://torrey.net/data/documents/e2dzjp5/NcOoweBJpQWoTWAPCcJiWTka0yVmo52b5eCbbY4ZOBPRiNoO1X",
       "peso": "160",
-      "alto": "2.20",
+      "alto": "2.10",
       "largo": "0.9",
       "ancho": "0.8",
       "valorDec": "37000",
@@ -6588,6 +6588,36 @@
       "categoria": "báscula",
       "credito_disponible": true
     },
+    "_LINEA_212456": "0000____________________CORIAT_________________00000",
+    "DIVISOR0619159112": {
+      "nombre": "--------------------------CORIAT-------------------------",
+      "refacciones": "",
+      "manual": "",
+      "ficha_tecnica": "",
+      "peso": "",
+      "alto": "",
+      "largo": "",
+      "ancho": "",
+      "valorDec": "",
+      "marca": "Torrey",
+      "categoria": "báscula",
+      "credito_disponible": true
+    },
+      "HC-35 MASTER": {
+      "nombre": "HC-35 MASTER Horno Coriat ----- FICHA-----",
+      "refacciones": "No disponible",
+      "manual": "No disponible",
+      "ficha_tecnica": "No disponible",
+      "peso": "125",
+      "alto": "1.00",
+      "largo": "1.00",
+      "ancho": "1.00",
+      "valorDec": "38,700",
+      "marca": "Imbera",
+      "categoria": "Congelador vertical Imbera",
+      "credito_disponible": true
+    },
+
     "XYZ123": {
       "nombre": "Otro Producto",
       "manual": "https://example.com/manual_XYZ123.pdf",
