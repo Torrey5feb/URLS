@@ -2,6 +2,7 @@
   "config": {
     "llamar": "tel:4422171717",
     "whatsapp": "http://wa.me/524422171717",
+    "Atrato_limpio": "https://app.atratopago.com/v3/accounts/formulario?com=2193&suc=4679&advisorId=5417&origin=link",
     "indicaciones": "https://www.google.com/maps/dir/?api=1&destination=20.6154051,-100.4203416&travelmode=driving"
   },
   "productos": {
@@ -4964,7 +4965,7 @@
       "ancho": "0.8",
       "valorDec": "38,018.00",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Refrigerador Vertical",
       "credito_disponible": true
     },
     "TVC42-2P": {
@@ -5010,15 +5011,15 @@
       "credito_disponible": true
     },
     "TVC36": {
-      "nombre": "TVC36 Refrigerador Torrey Exhibidor",
+      "nombre": "TVC36 Refrigerador Torrey Exhibidor------------FICHA------------",
       "refacciones": "https://torrey.net/data/documents/9l7rjr5/FYsTnI6p7f9lG6QkmoxzNNQxcDOyzCT5CjoyjMeZcRpanr1PTe",
       "manual": "https://torrey.net/data/documents/354k6xl/oPkxftj4y4tVHolHiIt50CEqYIHcOo7kHaCBRy0c2gM4GlhZmp",
       "ficha_tecnica": "https://torrey.net/data/documents/q5knge5/pB07odBT7mYzunXz3ZJxXgGajo9OcgdFnseWT0xSCdbufCB4i0",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "valorDec": "",
+      "peso": "205",
+      "alto": "2.09",
+      "largo": "1.50",
+      "ancho": "0.80",
+      "valorDec": "46000",
       "marca": "Torrey",
       "categoria": "báscula",
       "credito_disponible": true
