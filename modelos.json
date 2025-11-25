@@ -1142,8 +1142,8 @@
         ]
       }
     },
-    "PLP3000-5": {
-      "nombre": "0PLP3000-5 Báscula Plataforma Torrey 3000 1.50  ----------ficha----------",
+    "0PLP3000-5": {
+      "nombre": "PLP3000-5 Báscula Plataforma Torrey 3000 1.50  ----------ficha----------",
       "refacciones": "https://torrey.net/data/documents/3lqpw95/Qw8TyT7lOQ4GBy9Ev9yd0o3NxoDNCVRbdnLxH9mkGstgVfJ9Ej",
       "manual": "https://torrey.net/data/documents/e5vpg75/9F9t2qqnLH9FO4bFFvkzyTIGvctgqjM9yHxgl3qLylCcWGGyqP",
       "ficha_tecnica": "https://torrey.net/data/documents/z5xqk72/FD67kK1BQbtIg9xoXw2z3ZzvGXc9fwa3bJWFG1ngbNhaakMMvk",
