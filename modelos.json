@@ -1147,7 +1147,7 @@
       "refacciones": "https://torrey.net/data/documents/3lqpw95/Qw8TyT7lOQ4GBy9Ev9yd0o3NxoDNCVRbdnLxH9mkGstgVfJ9Ej",
       "manual": "https://torrey.net/data/documents/e5vpg75/9F9t2qqnLH9FO4bFFvkzyTIGvctgqjM9yHxgl3qLylCcWGGyqP",
       "ficha_tecnica": "https://torrey.net/data/documents/z5xqk72/FD67kK1BQbtIg9xoXw2z3ZzvGXc9fwa3bJWFG1ngbNhaakMMvk",
-      "peso": "5",
+      "peso": "120",
       "alto": "0.15",
       "largo": "1.6",
       "ancho": "1.6",
@@ -1469,17 +1469,17 @@
       }
     },
     "BTO-30": {
-      "nombre": "BTO-30 VERIFICADO Batidora Torrey",
+      "nombre": "BTO-30 Batidora Torrey -----------ficha-----------",
       "refacciones": "https://torrey.net/data/documents/3lmpole/LZXaF9RryCbrLXfHPiLaTXWAoYmShzMTkN69Ib1QWtaAFoZ7cb",
       "manual": "https://torrey.net/data/documents/r2go0kl/2R930XTFz4swy91a0UPPNiSdlUO4SNKAWqShe8O4W6RptT3Ew1",
       "ficha_tecnica": "https://torrey.net/data/documents/rl3zy56/1FmVLWpxhKANp0vWQixirv80yarLLpz7o0rh3PaswnDhFot0Mx",
-      "peso": "1.40",
-      "alto": "0.3",
+      "peso": "210",
+      "alto": "1.40",
       "largo": "0.8",
       "ancho": "0.7",
       "valorDec": "38000",
       "marca": "Torrey",
-      "categoria": "batidora",
+      "categoria": "batidora Torrey",
       "credito_disponible": true,
       "equivalencias": {
         "planta": [
