@@ -5025,17 +5025,17 @@
       "credito_disponible": true
     },
     "TVC36-F4": {
-      "nombre": "TVC36-F4 Refrigerador Torrey Exhibidor",
+      "nombre": "TVC36-F4 Refrigerador Torrey Exhibidor--------------FICHA------------",
       "refacciones": "https://torrey.net/data/documents/j288zm2/8JHcMHz9zUPb84PgfH3SmxfRke7xuMZCNjxW8YTtjiYpBAXT6M",
       "manual": "https://torrey.net/data/documents/e2dp6o2/lhIN2CRjQpCdUQB6Xn0ctXjgNv5Dm1MIqVngEqCA3tky6nLfCO",
       "ficha_tecnica": "https://torrey.net/data/documents/x5jkxel/S2D4Co0sRa1guEFJnF02HwobsMYGit0HqZZ1w6qR3lD3u8GOSV",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "valorDec": "",
+      "peso": "210",
+      "alto": "2.07",
+      "largo": "1.50",
+      "ancho": "0.80",
+      "valorDec": "50000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "Refrigerador Vertical",
       "credito_disponible": true
     },
     "DIVISOR049111": {
