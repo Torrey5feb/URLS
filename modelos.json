@@ -2723,13 +2723,13 @@
       "refacciones": "https://torrey.net/data/documents/ylr0ql4/QmtxnFuXuUp7BoZaSPz7jfEBcQoD0HB53OJFKyqGJcIDWCvU1O",
       "manual": "https://torrey.net/data/documents/65p1vo5/bb9MjThORghtmnIJzuE3sjEepYA8RBqyaxNAuBEY3ewPJRvZYL",
       "ficha_tecnica": "https://torrey.net/data/documents/x5j942k/zLwLoOw9tUzuZZtPSvA0dAb2fUGaOmTytiw48HHdUHAGtQT4Ty",
-      "peso": "",
-      "alto": "0.3",
-      "largo": "0.4",
-      "ancho": "0.2",
+      "peso": "30",
+      "alto": "0.5",
+      "largo": "0.6",
+      "ancho": "0.5",
       "valorDec": "2500",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "empacadora",
       "credito_disponible": true
     },
     "EVD-8": {
@@ -2875,7 +2875,7 @@
     },
     "_LINEA_18_": "0000000_______SUAVIZADOR_________0000000000",
     "MT-43": {
-      "nombre": "MT-43 Báscula Torrey 40kg",
+      "nombre": "MT-43 suavizador de carne",
       "refacciones": "https://torrey.net/data/documents/z5x812k/1JyrU0MoqFqQlf1APVIv2gAVjXDCifcfibScA6ZyKSTjggqjy6",
       "manual": "https://torrey.net/data/documents/xl93d8l/DX4wvcsClgUbAjjIvHuj6Tijqn4iTmvL72piCiN8TZYEUGwtFm",
       "ficha_tecnica": "https://torrey.net/data/documents/r2gp421/f4KdShS1Q0OiconAviAyROEEgNwAdJpVQo9wBOEVHZwNb2fm2x",
