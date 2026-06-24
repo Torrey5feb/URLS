@@ -6291,13 +6291,13 @@
       "refacciones": "https://torrey.net/data/documents/x2w9465/YWq0LMDCLajqnOjkmmTn1BGfGT7pG6RiPCpSnE51mUIAe6fHTK",
       "manual": "https://torrey.net/data/documents/v51wryl/mp7jA31v4FgLM1DsX63xsPvumSrV2IBEO65P1Rly501khIKhRY",
       "ficha_tecnica": "https://torrey.net/data/documents/3lmwq72/7Y0IqLYy9VFfkpwzqd2nRxKlVwUXe1rTrJWFTcrrNDI0LeZhBb",
-      "peso": "",
-      "alto": "",
-      "largo": "",
-      "ancho": "",
-      "valorDec": "",
+      "peso": "165",
+      "alto": "1.0",
+      "largo": "2.10",
+      "ancho": "1.0",
+      "valorDec": "61000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "isla refrigerada",
       "equivalencias": {
         "planta": [
           "CIIEDT12002",
@@ -6318,9 +6318,9 @@
       "alto": "1.0",
       "largo": "2.0",
       "ancho": "1.0",
-      "valorDec": "",
+      "valorDec": "62000",
       "marca": "Torrey",
-      "categoria": "báscula",
+      "categoria": "isla refrigerada",
       "credito_disponible": true
     },
     "DIVISOR0619": {
