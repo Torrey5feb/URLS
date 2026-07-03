@@ -1,0 +1,20 @@
+
+Traer cambios
+git pull origin main
+
+
+
+Ver lo que se trajo 
+git status
+
+
+Pusheando
+# A) Prepara todos los archivos modificados
+git add .
+
+# B) Guarda el cambio localmente con un mensaje descriptivo
+git commit -m "Descripción clara de lo que cambiaste o agregaste"
+
+# C) Sube todo directo a la rama principal en GitHub sin pedir contraseñas
+git push origin main
+
