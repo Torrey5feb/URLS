@@ -1,3 +1,6 @@
+inicio
+ssh-add /c/Users/torre/.ssh/appkeyserver02_trabajo
+
 
 Traer cambios
 git pull origin main
@@ -17,4 +20,9 @@ git commit -m "Descripción clara de lo que cambiaste o agregaste"
 
 # C) Sube todo directo a la rama principal en GitHub sin pedir contraseñas
 git push origin main
+
+
+
+
+
 
